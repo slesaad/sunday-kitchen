@@ -1,0 +1,4 @@
+*.paprikarecipes
+.DS_Store
+__pycache__/
+prompt.md
