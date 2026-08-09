@@ -43,4 +43,6 @@ Four servings this week, four flat-frozen for next.
 
 WITH GARDEN TOMATOES: use about 2 lb fresh and simmer 10-20 minutes longer. Judge by look — when a spoon dragged through the pan leaves a channel that doesn't immediately fill, it's ready.
 
+NO BALSAMIC? It is one tablespoon in a pot holding two cans of tomatoes, there for acidity and a touch of sweetness. Swap in 1 tbsp red wine vinegar or apple cider vinegar plus a pinch of sugar, or 2 tsp white vinegar, or 1 tbsp lemon juice. Balsamic dressing works too, but it is roughly a third vinegar, so use 2-3 tbsp and add it at the END rather than with the tomatoes — dressings vary in sweetness and a 35-minute simmer concentrates sugar. Or leave it out and add a squeeze of lemon at the end if it tastes flat.
+
 ROTATION PARTNERS for this slot: roasted red pepper & white bean, chickpea puttanesca, creamy cashew-tomato with lentils.
