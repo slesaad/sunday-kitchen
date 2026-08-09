@@ -44,7 +44,7 @@ lemons · limes
 Dried chickpeas (soaking) · dried **brown or green** lentils · basmati rice ·
 crushed tomatoes (2 × 28 oz) · tomato paste · canned chickpeas (1) · walnuts ·
 tahini · peanut butter · gochujang · harissa · cornstarch · nutritional yeast ·
-maple syrup · soy sauce · rice vinegar · balsamic · sesame oil · olive oil · chili crisp
+maple syrup · soy sauce · rice vinegar · balsamic vinegar · sesame oil · olive oil · chili crisp
 
 ### Spices
 
@@ -82,11 +82,11 @@ en place list onto the counter.
 | **0:32** | **Ragù.** Toast **1 cup walnuts** in a dry pan, 4 min, until they smell like walnuts. Chop coarse, set aside. |
 | **0:36** | Pulse the **soffritto (1 onion, 2 carrots, 2 celery)** in the food processor — 90 seconds, to a coarse mince. |
 | **0:38** | Soffritto into **3 tbsp olive oil**, **12 minutes**, until soft and sweet. **6 cloves garlic** for the last minute. |
-| **0:50** | **3 tbsp tomato paste**, 2 min, until it darkens to brick red. Then **1 × 28 oz crushed tomatoes**, **1½ cups DRY brown or green lentils — unsoaked, straight from the bag**, **3 cups broth or water**, **2 tbsp soy sauce**, **1 tbsp balsamic**, **2 tsp oregano**, **1 tsp thyme**, **1 tsp fennel seeds crushed**, chili flakes. Simmer uncovered. **Hands off until 1:25**, stir when you pass it. |
+| **0:50** | **3 tbsp tomato paste**, 2 min, until it darkens to brick red. Then **1 × 28 oz crushed tomatoes**, **1½ cups DRY brown or green lentils — unsoaked, straight from the bag**, **3 cups broth or water**, **2 tbsp soy sauce**, **1 tbsp balsamic vinegar**, **2 tsp oregano**, **1 tsp thyme**, **1 tsp fennel seeds crushed**, chili flakes. Simmer uncovered. **Hands off until 1:25**, stir when you pass it. |
 | **0:55** | **Three sauces**, in this order so you never wash the processor bowl. |
 | | **Tahini-lemon** — ½ cup tahini · ¼ cup lemon juice · 2 cloves garlic · ½ tsp cumin · ½ tsp salt · 4–6 tbsp cold water. *It will seize into cement before it loosens. Keep adding water.* |
-| | **Peanut-lime** — ½ cup peanut butter · 3 tbsp soy · 2 tbsp lime · 2 tbsp maple · 1 clove garlic · 1 tbsp ginger · 1–2 tsp chili crisp · 4–6 tbsp water. |
-| | **Gochujang-sesame** — whisked in a jar, no processor: 3 tbsp gochujang · 2 tbsp rice vinegar · 2 tbsp toasted sesame oil · 1 tbsp maple · 1 tbsp soy · 1 tbsp sesame seeds · 1 grated garlic. |
+| | **Peanut-lime** — ½ cup peanut butter · 3 tbsp soy sauce · 2 tbsp lime juice · 2 tbsp maple syrup · 1 clove garlic · 1 tbsp ginger · 1–2 tsp chili crisp · 4–6 tbsp water. |
+| | **Gochujang-sesame** — whisked in a jar, no processor: 3 tbsp gochujang · 2 tbsp rice vinegar · 2 tbsp toasted sesame oil · 1 tbsp maple syrup · 1 tbsp soy sauce · 1 tbsp sesame seeds · 1 grated garlic. |
 | **1:12** | Chana done. Mash a handful of chickpeas against the pot to thicken. **1 tbsp garam masala** and **2 tsp amchur** in **off the heat**. Spread on a sheet pan to cool. |
 | **1:15** | **Rice.** Rinse the Instant Pot. **3 cups basmati, rinsed until the water runs clear, 3 cups water**, pinch of salt. **6 min high pressure, full 10 min natural release.** **Hands off until 1:40.** |
 | **1:25** | Ragù done — walnuts in for the last 5 min. Salt hard. Off the heat. |
