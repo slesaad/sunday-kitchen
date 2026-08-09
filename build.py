@@ -24,7 +24,7 @@ GROUP_ORDER = [ANCHOR, COMPONENT, SAUCE, DINNER, LUNCH, BREAKFAST, PROJECT, REFE
 GROUP_BLURB = {
     ANCHOR: "Cooked in double batches. Half this week, half flat-frozen for next.",
     COMPONENT: "The kit. Made on prep day, combined into dinners all week.",
-    SAUCE: "Make them in this order and you never wash the food processor bowl.",
+    SAUCE: "The three bowl sauces, in the order that saves washing the processor bowl — plus a harissa you make once and keep for weeks.",
     DINNER: "Assembly, not cooking. Wall clock first, hands-on second.",
     LUNCH: "All assembled on the weekend. Zero weekday cost.",
     BREAKFAST: "",
@@ -268,7 +268,7 @@ CHILI-CUMIN TRAY
 Oil
 Salt""",
     ["Cut everything roughly the same size. This matters more than what you cut.",
-     "Toss the harissa tray with harissa, olive oil and salt. The chickpeas roast crisp and become the protein in both Mediterranean bowls.",
+     "Toss the harissa tray with harissa, olive oil and salt. Jarred is fine; the five-minute Pantry Harissa in the sauces section is better and cheaper. The chickpeas roast crisp and become the protein in both Mediterranean bowls.",
      "Toss the chili-cumin tray with cumin, chili powder, smoked paprika, oil and salt.",
      "Both trays at 425°F for 30 minutes."],
     """Budget 20 minutes of chopping for the pair — it's the longest single job in the prep session.
@@ -349,6 +349,33 @@ add("sauce-gochujang-sesame", "Gochujang-Sesame Sauce", SAUCE,
     ["Whisk together in the jar you'll store it in. That's it."],
     "This one never touches the food processor, which is why it comes last in the sequence.",
     "", "1 jar", "3 min", "", "3 min", (), ["lunch-wed-sichuan-crumble-bowl"])
+
+add("sauce-harissa", "Pantry Harissa", SAUCE,
+    """3 tbsp kashmiri chili powder (or 2 tbsp smoked paprika + 1 tsp cayenne)
+2 tbsp tomato paste
+5 cloves garlic, grated
+1 tsp ground cumin
+1 tsp ground coriander
+1 tsp caraway seeds, toasted and ground (optional, but it is the signature note)
+1 tbsp lemon juice
+1/2 tsp salt
+5 tbsp olive oil""",
+    ["If you have caraway seeds, toast them in a dry pan for 30 seconds until fragrant, then grind. This is the flavour that makes harissa taste like harissa rather than a generic chili paste.",
+     "Stir everything together into a thick, spoonable paste, adding the olive oil last and a little at a time. It should hold its shape on a spoon, like tomato paste, not pour.",
+     "Taste for salt and heat. Kashmiri chili is mild and mostly there for colour, so add cayenne if you want it hotter.",
+     "Store in a jar with a thin film of olive oil on top. Keeps about 3 weeks in the fridge."],
+    """Harissa is a Tunisian chili paste: dried red chilies, garlic, olive oil, and a spice trio of caraway, coriander and cumin. This is the five-minute pantry version, built from things this plan already has you buying.
+
+THE PROPER VERSION, if you want it: soak 10 dried red chilies (kashmiri, guajillo or New Mexico) in boiling water for 20-30 minutes with the stems and most seeds removed, then blend with 5 cloves garlic, 1 tsp each toasted caraway, cumin and coriander, 1 tsp salt, 1 tbsp lemon juice and 4-5 tbsp olive oil. Better texture and a rounder flavour, 30 minutes instead of 5.
+
+CARAWAY IS THE ONE TO CHASE. It is not interchangeable with cumin despite the similar look. Without it you get a very good chili-garlic paste that is not quite harissa.
+
+IF YOU SKIP HARISSA ENTIRELY: season the roasting tray with smoked paprika, cumin, garlic, olive oil and lemon instead. It stops being a harissa tray, but it roasts just as well and still works under tahini in the Mediterranean bowls.
+
+You need 2 tbsp per roasting tray, so one batch covers a month.""",
+    "The five-minute pantry version, from spices this plan already buys. One batch covers a month.",
+    "About 1/2 cup", "5 min", "", "5 min", ["Middle Eastern"],
+    ["component-roasted-vegetables"])
 
 # ================================================================= DINNERS
 

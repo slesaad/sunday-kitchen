@@ -52,7 +52,9 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 
 ### Supermarket
 
-Cornstarch · nutritional yeast · maple syrup · harissa paste · smoked paprika · chipotle
+Cornstarch · nutritional yeast · maple syrup · **harissa paste** *(international aisle or
+near the hot sauces; Trader Joe's carries it — or make your own in 5 minutes, see
+[`recipes/sauce-harissa.md`](recipes/sauce-harissa.md))* · smoked paprika · chipotle
 powder · dried oregano · dried thyme · **fennel seeds** · white vinegar · canned crushed
 tomatoes (case) · tomato paste · canned black beans · salsa · rigatoni
 

@@ -35,7 +35,7 @@ Two trays, two spice profiles. The backbone of hands-off prep.
 ## Method
 
 1. Cut everything roughly the same size. This matters more than what you cut.
-2. Toss the harissa tray with harissa, olive oil and salt. The chickpeas roast crisp and become the protein in both Mediterranean bowls.
+2. Toss the harissa tray with harissa, olive oil and salt. Jarred is fine; the five-minute Pantry Harissa in the sauces section is better and cheaper. The chickpeas roast crisp and become the protein in both Mediterranean bowls.
 3. Toss the chili-cumin tray with cumin, chili powder, smoked paprika, oil and salt.
 4. Both trays at 425°F for 30 minutes.
 
