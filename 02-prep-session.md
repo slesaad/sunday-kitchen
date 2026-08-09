@@ -1,10 +1,14 @@
 # The Prep Session
 
-**~2h45 for Week A. ~50 min for Week B.** Two people, two tracks, four heat sources
+**~2h45 for Week A — 3h on falafel weeks. ~1 hr for Week B.** Two people, two tracks, four heat sources
 overlapping.
 
-- **Person 1 — the wet track.** Instant Pot, stovetop, food processor.
-- **Person 2 — the dry track.** Knife work, sheet pans, air fryer, containers.
+- **The wet track.** Instant Pot, stovetop, food processor.
+- **The dry track.** Knife work, sheet pans, air fryer, containers.
+
+Either of you can take either track — they're interchangeable. (Note that this is *not*
+the same as Person A / Person B in [`05-nutrition.md`](05-nutrition.md), which are fixed by
+bodyweight and only decide portion sizes.)
 
 Every quantity you need is written into the steps below. You should not have to open
 another file mid-session.
@@ -13,8 +17,9 @@ another file mid-session.
 
 ## Before: three small things
 
-**Midweek, 30 seconds.** Put four blocks of extra-firm tofu in the freezer, still in their
-packages. Freezing restructures tofu into something spongy and chewy that soaks up
+**Midweek, 30 seconds.** Put **two** blocks of extra-firm tofu in the freezer, still in
+their packages. **Only these two** — the crumbles are hand-crumbled from fresh tofu and
+want no freezing at all. Freezing restructures tofu into something spongy and chewy that soaks up
 marinade and crisps far better — and **you never have to press tofu again.**
 
 **Saturday, 5 minutes.**
@@ -54,7 +59,7 @@ dried oregano · dried thyme · **fennel seeds** · garlic powder · onion powde
 
 ### From the fridge and freezer
 
-Thawed tofu (4 blocks) · ginger · garlic (2 heads) · frozen corn · frozen edamame
+Thawed tofu (2 blocks) · fresh tofu (2 blocks, for the crumbles) · ginger · garlic (2 heads) · frozen corn · frozen edamame
 *(edamame needs no prep — it stays in the freezer)*
 
 ### Equipment
@@ -71,7 +76,7 @@ box grater · ~20 containers · freezer bags · masking tape and a marker
 Oven to **425°F / 220°C**. Three sheet pans lined with parchment. Everything from the mise
 en place list onto the counter.
 
-### Person 1 — wet track
+### The wet track
 
 | Clock | Do this |
 |---|---|
@@ -87,13 +92,14 @@ en place list onto the counter.
 | | **Tahini-lemon** — ½ cup tahini · ¼ cup lemon juice · 2 cloves garlic · ½ tsp cumin · ½ tsp salt · 4–6 tbsp cold water. *It will seize into cement before it loosens. Keep adding water.* |
 | | **Peanut-lime** — ½ cup peanut butter · 3 tbsp soy sauce · 2 tbsp lime juice · 2 tbsp maple syrup · 1 clove garlic · 1 tbsp ginger · 1–2 tsp chili crisp · 4–6 tbsp water. |
 | | **Gochujang-sesame** — whisked in a jar, no processor: 3 tbsp gochujang · 2 tbsp rice vinegar · 2 tbsp toasted sesame oil · 1 tbsp maple syrup · 1 tbsp soy sauce · 1 tbsp sesame seeds · 1 grated garlic. |
+| **1:10** | **Falafel weeks only — 5 min.** Wash the processor bowl once, then pulse the **soaked-but-uncooked chickpeas, 1 onion, 5 cloves garlic, 1 packed cup parsley, 1 packed cup cilantro, 2 tsp cumin, 1 tsp coriander, ½ tsp cayenne, 1½ tsp salt** to a **coarse, couscous-like texture — not a purée.** Into the fridge to rest. *Baking powder goes in later, at forming time.* |
 | **1:12** | Chana done. Mash a handful of chickpeas against the pot to thicken. **1 tbsp garam masala** and **2 tsp amchur** in **off the heat**. Spread on a sheet pan to cool. |
 | **1:15** | **Rice.** Rinse the Instant Pot. **3 cups basmati, rinsed until the water runs clear, 3 cups water**, pinch of salt. **6 min high pressure, full 10 min natural release.** **Hands off until 1:40.** |
 | **1:25** | Ragù done — walnuts in for the last 5 min. Salt hard. Off the heat. |
 | **1:30** | Wash down the wet station. |
 | **1:40** | Rice out. Fluff, spread on a sheet pan to cool fast. |
 
-### Person 2 — dry track
+### The dry track
 
 | Clock | Do this |
 |---|---|
@@ -111,6 +117,7 @@ en place list onto the counter.
 | **1:14** | Tofu out of the air fryer. |
 | **1:24** | Veg trays out. |
 | **1:26** | **Quick-pickled onions.** 1 red onion sliced thin · ½ cup vinegar · ½ cup hot water · 1 tbsp sugar · 1½ tsp salt. Into a jar. |
+| **1:30** | **Falafel weeks only — 12 min.** Stir **1 tsp baking powder** into the rested mix, form **patties, not balls**, and freeze on a tray until solid, then bag. |
 | **1:32** | Wash and chop the herbs — **cilantro, parsley, scallions**. Store the parsley and cilantro stems-down in a jar of water; they last twice as long. |
 
 ### 1:40–2:25 — Both: cool, portion, label
@@ -145,19 +152,25 @@ the stir-fry pack — those are the three things the week depends on.
 
 ---
 
-## Week B — freezer week, ~50 min
+## Week B — freezer week, ~1 hr
 
 Move the frozen anchors to the fridge **Friday night** so they're thawed.
 
 | Clock | Do this |
 |---|---|
-| **0:00** | Oven to 425°F. Crumble 2 blocks of tofu, toss in the base, three zones, into the oven. |
-| **0:15** | Wash and chop one veg tray — **different vegetables and a different spice from last week.** Into the oven. |
-| **0:25** | Rice into the Instant Pot. 6 min pressure, 10 min natural release. |
-| **0:28** | Shred the stir-fry pack, or open the coleslaw bag. |
-| **0:35** | One new sauce — pick one you didn't make last week. |
-| **0:40** | Squeeze, cube, marinate and air-fry the tofu. |
-| **0:50** | Portion, label, done. |
+| **0:00** | Oven to 425°F. **Crumble and season 2 blocks of tofu — 15 min**, three zones. |
+| **0:15** | Crumbles into the oven, 25–30 min. |
+| **0:17** | Squeeze, cube and marinate the thawed tofu. |
+| **0:27** | Rice into the Instant Pot. 6 min pressure, 10 min natural release. |
+| **0:30** | Wash and chop **one** veg tray — different vegetables and a different spice from last week. |
+| **0:45** | Crumbles out, veg tray in, 30 min. Tofu into the air fryer. |
+| **0:48** | Shred the stir-fry pack, or open the coleslaw bag. |
+| **1:00** | One new sauce — pick one you didn't make last week. |
+| **1:15** | Veg out. Portion, label, done. |
+
+That's ~1 hr with two people, closer to 1h30 solo. The old "50 minutes" was optimistic —
+it had the crumbles hitting the oven at 0:00, but crumbling and seasoning them is itself a
+fifteen-minute job.
 
 ---
 

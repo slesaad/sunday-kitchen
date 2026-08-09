@@ -68,6 +68,23 @@
     }
   }
 
+
+  /* ---- show one prep track at a time ---- */
+  var picks = document.querySelectorAll('.track-pick button');
+  var tracks = document.querySelector('.tracks');
+  if (picks.length && tracks) {
+    picks.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var want = btn.dataset.track;
+        picks.forEach(function (b) {
+          b.setAttribute('aria-pressed', String(b === btn));
+        });
+        tracks.classList.remove('only-wet', 'only-dry');
+        if (want !== 'both') tracks.classList.add('only-' + want);
+      });
+    });
+  }
+
   /* ---- shopping list, remembered on this device ---- */
   var boxes = document.querySelectorAll('.shop input[type="checkbox"]');
   if (boxes.length) {

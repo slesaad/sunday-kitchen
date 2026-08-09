@@ -495,3 +495,16 @@ td.num, th.num { text-align: right; font-family: var(--font-mono); font-variant-
   .r-body { display: block !important; }
   body { font-size: 11pt; }
 }
+
+/* one-track view — so each person can follow only their own track */
+.track-pick { margin-bottom: 1.25rem; }
+.track-pick button[aria-pressed="true"] {
+  background: var(--amber-tint);
+  border-color: var(--amber);
+  color: var(--amber);
+}
+.tracks.only-wet .track.dry,
+.tracks.only-dry .track.wet { display: none; }
+@media (min-width: 48rem) {
+  .tracks.only-wet, .tracks.only-dry { grid-template-columns: 1fr; }
+}

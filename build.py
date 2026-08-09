@@ -249,7 +249,7 @@ The Instant Pot does the chana first and the rice second — don't try to run bo
 
 add("component-roasted-vegetables", "Roasted Vegetables, Two Trays", COMPONENT,
     """HARISSA TRAY
-1 head cauliflower
+1 head cauliflower, or broccoli
 1 red pepper
 1 red onion
 1 zucchini
@@ -842,7 +842,7 @@ def write_paprika():
             }
             z.writestr(
                 r["name"].replace("/", "-") + ".paprikarecipe",
-                gzip.compress(json.dumps(payload, ensure_ascii=False).encode(), mtime=0))
+                gzip.compress(json.dumps(payload).encode('ascii'), mtime=0))
     open("Sunday Kitchen Meal Prep.paprikarecipes", "wb").write(buf.getvalue())
     return len(RECIPES)
 

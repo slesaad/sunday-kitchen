@@ -11,7 +11,7 @@ Two trays, two spice profiles. The backbone of hands-off prep.
 
 **HARISSA TRAY**
 
-- 1 head cauliflower
+- 1 head cauliflower, or broccoli
 - 1 red pepper
 - 1 red onion
 - 1 zucchini

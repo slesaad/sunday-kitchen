@@ -85,8 +85,8 @@ tomatoes (case) · tomato paste · canned black beans · salsa · rigatoni
 | Ginger | large knob |
 | Carrots | 1 lb |
 | Celery | 1 bunch |
-| Cauliflower | 1 head |
-| Broccoli | 1 head |
+| Cauliflower | 1 head — or broccoli |
+| **Frozen corn** | 1 cup, for the chili-cumin tray |
 | Bell peppers | 4 |
 | Sweet potatoes | 2 |
 | Zucchini | 2 |
