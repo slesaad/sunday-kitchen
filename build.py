@@ -230,15 +230,18 @@ PROTEIN: about 19 g per serving, noticeably less dense than tofu or seitan. Add 
     ["dinner-fri-falafel-night"])
 
 add("component-basmati-rice", "Basmati Rice", COMPONENT,
-    """3 cups basmati rice
-3 cups water
+    """5 cups basmati rice (Instant Pot batch)
+5 cups water
+3 cups basmati rice (stovetop batch)
+4 1/2 cups water
 Pinch of salt""",
     ["Rinse the rice until the water runs clear. That's what keeps the grains separate.",
-     "3 cups rice, 3 cups water, a pinch of salt.",
+     "INSTANT POT BATCH: 5 cups rice, 5 cups water, a pinch of salt. Check your pot's half-full line first — 5 cups dry is about the limit on a 6-quart.",
      "6 minutes high pressure.",
      "FULL 10 minute natural release — cutting it short gives you wet rice.",
-     "Fluff and spread on a sheet pan to cool fast."],
-    """Yields about 9 cups cooked, which is most of the week.
+     "Fluff and spread on a sheet pan to cool fast.",
+     "STOVETOP BATCH: one batch is not enough. 3 cups rinsed rice, 4 1/2 cups water, boil then lowest heat, lid on, 15 minutes, rest 10. Run this on the stovetop once the ragu is off it."],
+    """Both batches together yield about 19 cups cooked, which is what the week actually needs: roughly 11 cups across the ten lunch containers, about 4 cups held back for Monday and Thursday dinners, and 4 cups frozen flat.
 
 STORAGE: half to the fridge, half frozen flat in portions. Frozen rice microwaves better than four-day-old fridge rice, and it skips the food-safety question entirely — cooked rice wants to get cold quickly and be eaten within four days.
 Reheat: 3 minutes from frozen, 90 seconds from the fridge.
@@ -246,8 +249,8 @@ Reheat: 3 minutes from frozen, 90 seconds from the fridge.
 JEERA RICE VARIATION: hot oil, 1 tsp cumin seeds until they pop, then cold rice tossed through with salt, 4 minutes.
 
 The Instant Pot does the chana first and the rice second — don't try to run both at once, the pressure times aren't compatible.""",
-    "About 9 cups — most of the week's grain.",
-    "9 cups", "3 min", "22 min", "25 min")
+    "About 19 cups across two batches — the week's grain.",
+    "19 cups", "5 min", "25 min", "30 min")
 
 add("component-roasted-vegetables", "Roasted Vegetables, Two Trays", COMPONENT,
     """HARISSA TRAY

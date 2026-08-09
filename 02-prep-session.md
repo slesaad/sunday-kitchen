@@ -97,8 +97,9 @@ en place list onto the counter.
 | | **Gochujang-sesame** — whisked in a jar, no processor: 3 tbsp gochujang · 2 tbsp rice vinegar · 2 tbsp toasted sesame oil · 1 tbsp maple syrup · 1 tbsp soy sauce · 1 tbsp sesame seeds · 1 grated garlic. |
 | **1:10** | **Falafel weeks only — 5 min.** Wash the processor bowl once, then pulse the **soaked-but-uncooked chickpeas, 1 onion, 5 cloves garlic, 1 packed cup parsley, 1 packed cup cilantro, 2 tsp cumin, 1 tsp coriander, ½ tsp cayenne, 1½ tsp salt** to a **coarse, couscous-like texture — not a purée.** Into the fridge to rest. *Baking powder goes in later, at forming time.* |
 | **1:12** | Chana done. Mash a handful of chickpeas against the pot to thicken. **1 tbsp garam masala** and **2 tsp amchur** in **off the heat**. Spread on a sheet pan to cool. |
-| **1:15** | **Rice.** Rinse the Instant Pot. **3 cups basmati, rinsed until the water runs clear, 3 cups water**, pinch of salt. **6 min high pressure, full 10 min natural release.** **Hands off until 1:40.** |
+| **1:15** | **Rice, batch 1.** Rinse the Instant Pot. **5 cups basmati, rinsed until the water runs clear, 5 cups water**, pinch of salt. **6 min high pressure, full 10 min natural release.** *Check your pot's half-full line — 5 cups dry is about the limit on a 6-quart.* **Hands off until 1:40.** |
 | **1:25** | Ragù done — walnuts in for the last 5 min. Salt hard. Off the heat. |
+| **1:28** | **Rice, batch 2.** The stovetop is free now. **3 cups rinsed basmati, 4½ cups water**, boil then lowest heat, lid on, 15 min, rest 10. One batch is not enough: ten lunches plus Monday and Thursday dinners need about 17 cups cooked, and 5 cups dry yields about 13. |
 | **1:30** | Wash down the wet station. |
 | **1:40** | Rice out. Fluff, spread on a sheet pan to cool fast. |
 
@@ -130,6 +131,16 @@ twenty containers.
 
 1. **Freeze half of both anchors** in bags laid **flat** — they stack, and flat bags thaw in
    an hour instead of a day. That's next week's dinner, already done.
+
+   Then split what's left. **Each anchor's fridge half covers one lunch and one dinner:**
+
+   | | Freezer | Pack now | Hold back in a labelled tub |
+   |---|---|---|---|
+   | **Chana masala** (8 servings) | 4 | 2 → Monday lunch | 2 → Thursday dinner |
+   | **Ragù** (8 servings) | 4 | — | 2 → Tuesday dinner, 2 → Friday lunch |
+
+   Friday's lunch gets packed Wednesday night, so leave all 4 ragù servings in the tub.
+   **Dinners are never packed into containers** — you eat them at home.
 2. **Rice: half to the fridge, half frozen flat in portions.** Frozen rice microwaves
    better than four-day-old fridge rice, and it skips the food-safety question entirely.
 3. **Pack Monday, Tuesday and Wednesday's lunches now.** Thursday and Friday get packed
@@ -183,7 +194,7 @@ fifteen-minute job.
 |---|---|---|
 | Chana masala | Half fridge, half frozen flat | Mon lunch ×2, Thu dinner ×2 (+ 4 next week) |
 | Lentil-walnut ragù | Half fridge, half frozen flat | Tue dinner ×2, Fri lunch ×2 (+ 4 next week) |
-| Cooked basmati rice | ~9 cups — half fridge, half frozen | Almost every meal |
+| Cooked basmati rice | ~19 cups — 4 cups frozen flat, the rest to the fridge | Ten lunches (~11 cups) + Monday and Thursday dinners (~4 cups) |
 | Crispy marinated tofu | 2 blocks | Mon dinner, plus the week's boosters |
 | Tofu crumbles | 3 zones, kept separate | Wed lunch, Wed dinner, Thu dinner, Fri dinner |
 | Roasted veg | 2 trays — harissa, chili-cumin | Mon dinner, Thu dinner, both Med bowls |

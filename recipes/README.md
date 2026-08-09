@@ -21,7 +21,7 @@ The kit. Made on prep day, combined into dinners all week.
 | [Crispy Marinated Tofu](component-crispy-tofu.md) | 4 | 26 min |
 | [Three-Zone Tofu Crumbles](component-tofu-crumbles.md) | 6 | 45 min |
 | [Falafel, Formed and Frozen Raw](component-falafel.md) | 4 | 30 min |
-| [Basmati Rice](component-basmati-rice.md) | 9 cups | 25 min |
+| [Basmati Rice](component-basmati-rice.md) | 19 cups | 30 min |
 | [Roasted Vegetables, Two Trays](component-roasted-vegetables.md) | 8 | 50 min |
 | [Wednesday Stir-Fry Pack](component-stir-fry-pack.md) | 2 | 15 min |
 | [Quick-Pickled Onions](component-pickled-onions.md) | 1 jar | 5 min |
