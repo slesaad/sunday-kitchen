@@ -101,7 +101,6 @@ tomatoes (case) · tomato paste · canned black beans · salsa · rigatoni
 | Limes, lemons | 4 each |
 | Bananas | 7 — peel and freeze them for the shakes |
 | Avocado | 2, for Friday |
-| Salad greens | 1 box |
 
 ### Other
 

@@ -21,10 +21,10 @@ so every other weekend is nearly free.
 
 | | Time |
 |---|---|
-| Week A (full prep, double batches) | **~2h30**, two people in parallel |
+| Week A (full prep, double batches) | **~2h45**, two people in parallel |
 | Week B (freezer week) | **~50 min** |
 | Any weeknight | **15–18 min wall clock**, 6–15 min hands-on |
-| Average per week | **~1h40** |
+| Average per week | **~1h50** |
 
 Against roughly ten hours a week of weeknight cooking.
 

@@ -81,10 +81,10 @@ roasted veg, three sauces, a shredded stir-fry pack, and a bag of frozen edamame
 
 | | What you do | Time |
 |---|---|---|
-| **Week A** | Full prep, double batches of both anchors | ~2h30 |
+| **Week A** | Full prep, double batches of both anchors | ~2h45 |
 | **Week B** | Thaw anchors. Fresh rice, one veg tray, one sauce, one tray of crumbles | ~50 min |
 
-Averages out to about **1h40 a week**, against roughly ten hours of weeknight cooking.
+Averages out to about **1h50 a week**, against roughly ten hours of weeknight cooking.
 
 ---
 
@@ -157,7 +157,7 @@ that's why those three flavors and not others.
 
 | Flavor | Takes this slot | What changes |
 |---|---|---|
-| **Char siu** | Monday, alternating with sticky tofu | Same technique. Sear the slices hard in a dry pan, then toss in the sticky glaze off the heat. Rice, greens, chili-cumin veg. |
+| **Char siu** | Monday, alternating with sticky tofu | Same technique. Sear the slices hard in a dry pan, then toss in the sticky glaze off the heat. Rice and chili-cumin veg. |
 | **Chorizo** | Friday, alternating with chili-lime crumbles | Straight swap into the tacos. Crumble it into the pan rather than slicing. |
 | **Shawarma** | Tuesday & Thursday **lunch** — upgrades the Mediterranean bowl | Tahini, pickled onion and harissa veg are already in that container. Adding sliced shawarma seitan turns a chickpea bowl into a shawarma bowl, and takes it from ~33 g protein to ~50 g. |
 
