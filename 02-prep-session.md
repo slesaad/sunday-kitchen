@@ -59,8 +59,11 @@ dried oregano · dried thyme · **fennel seeds** · garlic powder · onion powde
 
 ### From the fridge and freezer
 
-Thawed tofu (2 blocks) · fresh tofu (2 blocks, for the crumbles) · ginger · garlic (2 heads) · frozen corn · frozen edamame
-*(edamame needs no prep — it stays in the freezer)*
+Thawed tofu (2 blocks) · fresh tofu (2 blocks, for the crumbles) · ginger ·
+garlic (2 heads) · frozen corn · frozen **shelled** edamame
+*(shelled edamame needs no prep — it stays in the freezer. If yours is in pods, microwave
+the bag and squeeze the beans out during the portioning phase: 2 cups pods ≈ 1 cup shelled,
+about 10 minutes a bag.)*
 
 ### Equipment
 

@@ -43,7 +43,7 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 | | |
 |---|---|
 | **Extra-firm tofu** | the big multi-pack — you need ~4 blocks/week |
-| **Frozen shelled edamame** | biggest bag they have |
+| **Frozen SHELLED edamame** | biggest bag they have — see the note below on pods |
 | Rolled oats | |
 | Soy milk | unsweetened, fortified — **check for calcium and B12** |
 | Peanut butter, walnuts, almonds | |
@@ -104,8 +104,9 @@ tomatoes (case) · tomato paste · canned black beans · salsa · rigatoni
 
 ### Other
 
-Tortillas · tofu (4 blocks, if not stocked from Costco) · soy yogurt (optional, for raita)
-· eggs (optional, one dozen lasts weeks at 2 dishes)
+Tortillas · tofu (4 blocks, if not stocked from Costco) · **soy yogurt — optional, and
+only for Thursday's raita; skip it freely** · eggs (optional, one dozen lasts weeks at
+2 dishes)
 
 **Once a week at most:** Impossible grounds or TVP, for Friday.
 
@@ -126,6 +127,14 @@ herbs · limes · bananas · tofu
 - **Buy the biggest bag of frozen edamame you can carry.** It's the cheapest complete
   protein in the store, needs zero prep, and it's the booster that makes the portion
   difference between you two work.
+- **Get it shelled, not in pods.** Shelled is sometimes labelled *mukimame*. The plan puts
+  edamame *into* bowls, which pods can't do. If you only have pods: **2 cups of pods ≈ 1 cup
+  shelled ≈ 18 g protein** — about half the weight is inedible pod. Microwave the bag, cool,
+  and squeeze the beans into a container; roughly 10 minutes a bag, and the portioning phase
+  is a good time for it. Long-term, buy shelled and keep the pods as a snack — this plan
+  goes through 8–10 cups of shelled beans a week, which is more shelling than it's worth.
+- **Soy yogurt is genuinely optional.** Its only use is Thursday's raita. Skip it and
+  nothing else in the plan changes.
 - **Check your tofu label for calcium sulfate.** Most extra-firm tofu is set with it, which
   makes it a serious calcium source now that dairy is out. Tofu set with nigari isn't.
 - **Check your soy milk is fortified** with calcium, B12, and D. Unfortified soy milk is
