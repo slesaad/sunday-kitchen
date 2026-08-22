@@ -19,7 +19,7 @@ About 19 cups across two batches — the week's grain.
 3. 6 minutes high pressure.
 4. FULL 10 minute natural release — cutting it short gives you wet rice.
 5. Fluff and spread on a sheet pan to cool fast.
-6. STOVETOP BATCH: one batch is not enough. 3 cups rinsed rice, 4 1/2 cups water, boil then lowest heat, lid on, 15 minutes, rest 10. Run this on the stovetop once the ragu is off it.
+6. STOVETOP BATCH: one batch is not enough. 3 cups rinsed rice, 4 1/2 cups water, boil then lowest heat, lid on, 15 minutes, rest 10. Run this on the stovetop once the aloo tama is off it.
 
 ## Notes
 

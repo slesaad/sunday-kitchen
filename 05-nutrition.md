@@ -75,9 +75,8 @@ Worth knowing by heart. These are the numbers you'll use to patch a gap.
 | Hemp seeds | 3 tbsp | 10 g |
 | Peanut butter | 2 tbsp | 8 g |
 | Tahini | 2 tbsp | 5 g |
-| Dry pasta | 100 g | 12 g |
+| Cooked black-eyed peas | 1 cup | 13 g |
 | Cooked basmati rice | 1 cup | 4.5 g |
-| Walnuts | ¼ cup | 4.5 g |
 | Egg | 1 | 6 g |
 | TVP | ¼ cup dry | 12 g |
 
@@ -109,7 +108,7 @@ Get the D3 from lichen rather than lanolin if you want it vegan.
 
 **Iron.** Plant (non-heme) iron absorbs poorly on its own, but **vitamin C multiplies
 absorption several times over.** This plan does that by accident — the lemon on the chana,
-the tomatoes in the ragù, the peppers in the roasted veg, the lime on the tacos. Keep it
+the peppers in the roasted veg, the lime on the tacos, the lemon on Tuesday's curry. Keep it
 deliberate. **Don't drink tea or coffee with meals** — the polyphenols cut iron absorption
 substantially. Wait an hour. If Person A menstruates, this matters more; worth checking
 ferritin at your next physical.

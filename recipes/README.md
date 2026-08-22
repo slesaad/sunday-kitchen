@@ -10,7 +10,7 @@ Cooked in double batches. Half this week, half flat-frozen for next.
 | Recipe | Yield | Time |
 |---|---|---|
 | [Chana Masala](anchor-chana-masala.md) | 8 | 65 min |
-| [Lentil-Walnut Ragù](anchor-lentil-walnut-ragu.md) | 8 | 60 min |
+| [Aloo Tama Bodi](anchor-aloo-tama-bodi.md) | 8 | 50 min |
 
 ## Components
 
@@ -43,7 +43,7 @@ Assembly, not cooking. Wall clock first, hands-on second.
 | Recipe | Yield | Time |
 |---|---|---|
 | [Monday — Sticky Tofu, Rice, Roasted Veg](dinner-mon-sticky-tofu.md) | 2 | 15 min |
-| [Tuesday — Rigatoni + Ragù](dinner-tue-rigatoni-ragu.md) | 2 | 18 min |
+| [Tuesday — Aloo Tama Bodi, Rice, Crispy Tofu](dinner-tue-aloo-tama.md) | 2 | 10 min |
 | [Wednesday — Veggie Chowmein](dinner-wed-chowmein.md) | 2 | 18 min |
 | [Thursday — Chana, Jeera Rice, Crumble Sabzi](dinner-thu-chana-jeera-rice.md) | 2 | 15 min |
 | [Friday — Tacos with Chili-Lime Crumbles](dinner-fri-tacos.md) | 2 | 18 min |
@@ -58,7 +58,7 @@ All assembled on the weekend. Zero weekday cost.
 | [Monday Lunch — Chana Masala Bowl](lunch-mon-chana-bowl.md) | 1 | 5 min |
 | [Tuesday & Thursday Lunch — Mediterranean Bowl](lunch-mediterranean-bowl.md) | 1 | 5 min |
 | [Wednesday Lunch — Sichuan Crumble Rice Bowl](lunch-wed-sichuan-crumble-bowl.md) | 1 | 5 min |
-| [Friday Lunch — Ragù Rice Bowl](lunch-fri-ragu-rice-bowl.md) | 1 | 5 min |
+| [Friday Lunch — Aloo Tama Bowl](lunch-fri-aloo-tama-bowl.md) | 1 | 5 min |
 
 ## Breakfast
 

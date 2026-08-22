@@ -68,7 +68,7 @@ curl -s https://slesaad.github.io/sunday-kitchen/ | grep -c "<some new string>"
 
 ## Gotchas — these have already cost time
 
-1. **`index.html` uses HTML entities, not literal glyphs.** `Rag&ugrave;`, `&mdash;`, `&frac12;`, `&middot;`, `&deg;F`. A `grep` or `str.replace` for `Ragù` or `—` will silently find nothing. Always `grep -o` the real line first.
+1. **`index.html` mixes HTML entities and literal glyphs.** `&mdash;`, `&frac12;`, `&middot;`, `&deg;F` appear as entities in most places — but not all. The Saturday-soak paragraph, for one, uses a literal `—`. A `grep` or `str.replace` for either form alone will silently miss half the file. Always `grep -o` the real line first, and let a `count(old) == 1` assert catch you when you guess wrong.
 2. **Never `str.replace('', x)`.** A slice built from two `.index()` calls returned empty when the end marker preceded the start marker; `replace('', new)` inserted the block between every character and produced a 57 MB file. Recovered with `git checkout -- index.html`. **Guard every patch with `assert old and s.count(old) == 1`.**
 3. **Patch via a script file, not a heredoc.** Apostrophes and backslashes in prose break `<<'PY'` quoting. Write the script to the scratchpad, run it, iterate.
 4. **Validate after every HTML edit** — see snippet below.
@@ -141,7 +141,7 @@ Every one of these came from them actually cooking. **Assume remaining estimates
 | 1 | **Validate 2h45 against a real session** | They ran it 2026-08-09. Ask what it actually took. Every prior estimate was low. |
 | 2 | **Rice quantity unvalidated** | Just changed to 5+3 cups dry (~19 cooked). Confirm it lasted the week and fit the pot. |
 | 3 | **Mobile layout never verified at true phone width** | Chrome window resize was clamped by the OS. CSS is mobile-first so the phone layout is the default case, but nobody has seen it on a phone. |
-| 4 | **Anchor rotation cycles 2–5 have no recipes** | Named only: rajma, dal tadka, sambar-style, aloo chana; roasted red pepper & white bean, chickpea puttanesca, creamy cashew-tomato. Needed ~week 3 onward. |
+| 4 | **Anchor rotation cycles 2–5 have no recipes** | Named only: rajma, dal tadka, sambar-style, aloo chana; palak tofu, tofu keema matar, kwati, mismas tarkari. Needed ~week 3 onward. |
 | 5 | **`01-the-plan.md` / `02-prep-session.md` overlap `index.html`** | Two sources that will drift. Offered to fold them into the site and delete; user has not decided. **Ask before deleting.** |
 | 6 | **Swaps page offered, not built** | They hit 4 substitution questions in a row (harissa, edamame, balsamic, yogurt). Candidates: vital wheat gluten, gochujang, chili crisp, tahini, amchur, dark soy, kashmiri chili, fennel seeds, caraway. |
 | 7 | Week 3 seitan session not yet run | Char siu → Mon, chorizo → Fri tacos, shawarma → Med lunch bowls. |
@@ -160,9 +160,11 @@ Every one of these came from them actually cooking. **Assume remaining estimates
 Ask: actual wall-clock time, whether the rice lasted, what ran out, what was unclear.
 **Verify:** TBD — every number in `02-prep-session.md` and the `index.html` timeline matches what they report, or is corrected.
 
-### 2. Write anchor rotation cycle 2 (rajma + roasted red pepper & white bean)
-Add to `RECIPES` in `build.py` with slugs `anchor-rajma`, `anchor-red-pepper-white-bean`. Match the existing anchor shape: 8 servings, `used_in` links, rotation-partner note.
-**Verify:** `python3 build.py` reports 28 recipes; `recipes/anchor-rajma.md` exists; validation snippet OK.
+### 2. Write anchor rotation cycle 2 (rajma + palak tofu)
+Add to `RECIPES` in `build.py` with slugs `anchor-rajma`, `anchor-palak-tofu`. Match the existing anchor shape: 8 servings, `used_in` links, rotation-partner note.
+**Verify:** `python3 build.py` reports 27 recipes; `recipes/anchor-rajma.md` exists; validation snippet OK.
+
+**Note:** both anchors are South Asian as of the aloo tama swap, so anchor 2 must contrast on axis — sour, green, minced or brothy — not on cuisine. See the note under the rotation table in `01-the-plan.md`.
 
 ### 3. Build the swaps reference (only if asked)
 New `REFERENCE`-group recipe, slug `reference-swaps`.

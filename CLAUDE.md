@@ -26,8 +26,9 @@ Hand-authored: `index.html`, `style.css`, `app.js`, `README.md`, and the numbere
 
 ## Editing index.html
 
-- It uses **HTML entities**, not literal glyphs: `Rag&ugrave;`, `&mdash;`, `&frac12;`,
-  `&middot;`, `&deg;F`. Grepping for `Ragù` or `—` finds nothing. `grep -o` the real line first.
+- It uses **HTML entities**, not literal glyphs: `&ugrave;`, `&mdash;`, `&frac12;`,
+  `&middot;`, `&deg;F`. Grepping for `frac12` or `—` finds nothing where the entity is used.
+  `grep -o` the real line first — and note that some lines mix literal glyphs with entities.
 - Patch with a **script file**, not a shell heredoc — apostrophes break the quoting.
 - **Guard every replace:** `assert old and s.count(old) == 1`. A `replace('', x)` from an
   empty slice once produced a 57 MB file.

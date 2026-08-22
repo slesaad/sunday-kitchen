@@ -29,7 +29,7 @@ so every other weekend is nearly free.
 Against roughly ten hours a week of weeknight cooking.
 
 These are honest numbers — they include the Instant Pot coming to pressure, natural
-release, chopping two trays of vegetables, and waiting for pasta water to boil. There's a
+release, chopping two trays of vegetables, and soaking two pots of beans overnight. There's a
 trim list in [`02-prep-session.md`](02-prep-session.md) that gets Sunday closer to two
 hours.
 

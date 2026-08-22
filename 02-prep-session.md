@@ -25,7 +25,11 @@ marinade and crisps far better — and **you never have to press tofu again.**
 **Saturday, 5 minutes.**
 - Move the frozen tofu to the fridge to thaw overnight.
 - Soak **2 cups dried chickpeas** in plenty of water — these are for the chana.
-- On falafel weeks, soak a **second, separate** 2 cups. Those ones never get cooked.
+- Soak **2 cups dried black-eyed peas (bodi)** in a separate bowl — these are for the aloo tama.
+- On falafel weeks, soak a **third, separate** 2 cups of chickpeas. Those ones never get cooked.
+
+*Three bowls on the counter, labelled. Thirty seconds of work, and it's the difference between
+a 2h45 session and a 4h one.*
 
 **Saturday, 2 minutes.** Read the mise en place list below and check you have it all.
 Finding out at 0:40 that you have no rice vinegar is how a two-hour session becomes four.
@@ -40,22 +44,23 @@ opening cupboards with wet hands.
 ### Produce to wash
 
 Cauliflower · red pepper (1) · zucchini (1) · sweet potatoes (2) · bell or poblano pepper (1) ·
-carrots (4 — two for the ragù, two for the stir-fry pack) · celery (2 stalks) ·
-onions (3 yellow) · red onions (3) · cabbage (½) · cilantro · parsley · scallions ·
-lemons · limes
+carrots (2 — for the stir-fry pack) · **waxy potatoes (1 lb — Yukon Gold or red, for the
+aloo tama)** · onions (4 yellow) · red onions (3) · cabbage (½) · cilantro · parsley ·
+scallions · lemons · limes
 
 ### From the pantry
 
-Dried chickpeas (soaking) · dried **brown or green** lentils · basmati rice ·
-crushed tomatoes (2 × 28 oz) · tomato paste · canned chickpeas (1) · walnuts ·
-tahini · gochujang · harissa · cornstarch · nutritional yeast ·
-maple syrup · soy sauce · rice vinegar · balsamic vinegar · sesame oil · olive oil · chili crisp
+Dried chickpeas (soaking) · dried black-eyed peas (soaking) · basmati rice ·
+**tama — fermented bamboo shoot, drained and rinsed** · crushed tomatoes (1 × 28 oz) ·
+tomato paste · canned chickpeas (1) · tahini · gochujang · harissa · cornstarch ·
+nutritional yeast · maple syrup · soy sauce · rice vinegar · mustard oil · sesame oil ·
+olive oil · chili crisp
 
 ### Spices
 
 Cumin seeds · ground cumin · ground coriander · turmeric · kashmiri chili · garam masala ·
-amchur · smoked paprika · chipotle · chili powder · five-spice · Sichuan pepper ·
-dried oregano · dried thyme · **fennel seeds** · garlic powder · onion powder
+amchur · smoked paprika · chipotle · chili powder · five-spice · **timur, or the Sichuan
+pepper you already have** · fenugreek seeds (methi, optional) · garlic powder · onion powder
 
 ### From the fridge and freezer
 
@@ -83,22 +88,24 @@ en place list onto the counter.
 
 | Clock | Do this |
 |---|---|
-| **0:05** | **Knife work — 12 minutes, and it all has to happen before anything cooks.** Wash and dice **2 large onions** (for the chana). Mince **6 cloves garlic** and **2 tbsp ginger** (chana). Then wash and roughly chop the **soffritto — 1 large onion, 2 carrots, 2 celery stalks** — for the ragù. Rough is fine; the processor finishes it. |
+| **0:05** | **Knife work — 10 minutes, and it all has to happen before anything cooks.** Wash and dice **2 large onions** (for the chana). Mince **6 cloves garlic** and **2 tbsp ginger** (chana). Then quarter **2 more onions** for the aloo tama — rough is fine, the processor finishes them — and cut **1 lb waxy potatoes into 1-inch chunks**, held in cold water so they don't brown. |
 | **0:17** | **Chana masala.** Instant Pot on Sauté, 2 tbsp oil, **2 tsp cumin seeds** until they sizzle and darken. Then the diced onions — **a full 10 minutes**, until genuinely golden. Don't rush this one. |
 | **0:27** | Garlic and ginger, 1 min. Then **2 tbsp tomato paste** and the ground spices — **2 tbsp coriander, 1 tbsp cumin, 2 tsp turmeric, 1–2 tsp kashmiri chili** — 1 min, to bloom them in the fat. |
 | **0:30** | **1 × 28 oz crushed tomatoes**, the drained soaked chickpeas, **2½ cups water**, **2 tsp salt**. Cancel sauté, seal, **18 min high pressure**, 10 min natural release. *It takes ~12 min to come to pressure at this volume — that's why it's done at 1:12, not 0:48.* **Hands off until 1:12.** |
-| **0:32** | **Ragù.** Toast **1 cup walnuts** in a dry pan, 4 min, until they smell like walnuts. Chop coarse, set aside. |
-| **0:36** | Pulse the **soffritto (1 onion, 2 carrots, 2 celery)** in the food processor — 90 seconds, to a coarse mince. |
-| **0:38** | Soffritto into **3 tbsp olive oil**, **12 minutes**, until soft and sweet. **6 cloves garlic** for the last minute. |
-| **0:50** | **3 tbsp tomato paste**, 2 min, until it darkens to brick red. Then **1 × 28 oz crushed tomatoes**, **1½ cups DRY brown or green lentils — unsoaked, straight from the bag**, **3 cups broth or water**, **2 tbsp soy sauce**, **1 tbsp balsamic vinegar**, **2 tsp oregano**, **1 tsp thyme**, **1 tsp fennel seeds crushed**, chili flakes. Simmer uncovered. **Hands off until 1:25**, stir when you pass it. |
-| **0:55** | **Two sauces**, in this order so you wash the processor bowl once. *This used to be three. The third had no meal attached, so it's gone — that's 8 minutes of hands-on work back, though the wall clock doesn't move: the wet track is waiting on the chana until 1:12 either way.* |
+| **0:32** | Pulse the **2 quartered onions** in the food processor — 30 seconds, to a coarse dice. Wash the bowl; the sauces want it clean. |
+| **0:34** | **Aloo tama bodi. FRY THE TAMA FIRST** — **1½ cups drained, rinsed tama** into **3 tbsp mustard oil**, **5 minutes**. *This is the step people skip and it's the one that matters. Straight from the jar the bamboo shoot is aggressively sour; frying rounds it into something savory.* |
+| **0:39** | The onions in, **10 minutes**, until soft and browning at the edges. **8 cloves garlic** and **2 tbsp ginger** for the last minute. |
+| **0:50** | **2 tsp cumin seeds**, **½ tsp fenugreek**, then **1 tbsp coriander, 1 tbsp cumin, 2 tsp turmeric, 1–2 tsp kashmiri chili, 1 tsp timur** — 1 min, to bloom them in the oil. |
+| **0:51** | **The drained bodi** and **6 cups water**. Bring up, then simmer. |
+| **1:01** | **Potatoes in.** Simmer 20 more. |
+| **0:55** | **Two sauces**, in this order so you wash the processor bowl once. *This used to be three. The third had no meal attached, so it's gone.* |
 | | **Tahini-lemon** — ½ cup tahini · ¼ cup lemon juice · 2 cloves garlic · ½ tsp cumin · ½ tsp salt · 4–6 tbsp cold water. *It will seize into cement before it loosens. Keep adding water.* |
 | | **Gochujang-sesame** — whisked in a jar, no processor: 3 tbsp gochujang · 2 tbsp rice vinegar · 2 tbsp toasted sesame oil · 1 tbsp maple syrup · 1 tbsp soy sauce · 1 tbsp sesame seeds · 1 grated garlic. |
 | **1:10** | **Falafel weeks only — 5 min.** Wash the processor bowl once, then pulse the **soaked-but-uncooked chickpeas, 1 onion, 5 cloves garlic, 1 packed cup parsley, 1 packed cup cilantro, 2 tsp cumin, 1 tsp coriander, ½ tsp cayenne, 1½ tsp salt** to a **coarse, couscous-like texture — not a purée.** Into the fridge to rest. *Baking powder goes in later, at forming time.* |
 | **1:12** | Chana done. Mash a handful of chickpeas against the pot to thicken. **1 tbsp garam masala** and **2 tsp amchur** in **off the heat**. Spread on a sheet pan to cool. |
 | **1:15** | **Rice, batch 1.** Rinse the Instant Pot. **5 cups basmati, rinsed until the water runs clear, 5 cups water**, pinch of salt. **6 min high pressure, full 10 min natural release.** *Check your pot's half-full line — 5 cups dry is about the limit on a 6-quart.* **Hands off until 1:40.** |
-| **1:25** | Ragù done — walnuts in for the last 5 min. Salt hard. Off the heat. |
-| **1:28** | **Rice, batch 2.** The stovetop is free now. **3 cups rinsed basmati, 4½ cups water**, boil then lowest heat, lid on, 15 min, rest 10. One batch is not enough: ten lunches plus Monday and Thursday dinners need about 17 cups cooked, and 5 cups dry yields about 13. |
+| **1:21** | Aloo tama done — the bodi tender, the potatoes giving to a knife, the broth thickened to a loose gravy. Mash a few potatoes against the side if it's thin. **Salt hard.** Cilantro off the heat. |
+| **1:28** | **Rice, batch 2.** The stovetop is free now — the aloo tama came off at 1:21. **3 cups rinsed basmati, 4½ cups water**, boil then lowest heat, lid on, 15 min, rest 10. One batch is not enough: ten lunches plus Monday and Thursday dinners need about 17 cups cooked, and 5 cups dry yields about 13. |
 | **1:30** | Wash down the wet station. |
 | **1:40** | Rice out. Fluff, spread on a sheet pan to cool fast. |
 
@@ -136,9 +143,9 @@ twenty containers.
    | | Freezer | Pack now | Hold back in a labelled tub |
    |---|---|---|---|
    | **Chana masala** (8 servings) | 4 | 2 → Monday lunch | 2 → Thursday dinner |
-   | **Ragù** (8 servings) | 4 | — | 2 → Tuesday dinner, 2 → Friday lunch |
+   | **Aloo tama bodi** (8 servings) | 4 | — | 2 → Tuesday dinner, 2 → Friday lunch |
 
-   Friday's lunch gets packed Wednesday night, so leave all 4 ragù servings in the tub.
+   Friday's lunch gets packed Wednesday night, so leave all 4 aloo tama servings in the tub.
    **Dinners are never packed into containers** — you eat them at home.
 2. **Rice: half to the fridge, half frozen flat in portions.** Frozen rice microwaves
    better than four-day-old fridge rice, and it skips the food-safety question entirely.
@@ -156,7 +163,7 @@ twenty containers.
 |---|---|
 | **Buy pre-shredded coleslaw mix** instead of shredding the stir-fry pack | 14 min |
 | **Buy one bag of pre-cut vegetables** for a roasting tray | 10 min |
-| **Buy pre-diced onion** for the chana and the soffritto | 8 min |
+| **Buy pre-diced onion** for the chana and the aloo tama | 8 min |
 | **Use canned chickpeas** for the chana — 5 min pressure instead of 18 | 25 min of clock, 0 min of hands-on |
 
 The coleslaw mix is the one I'd actually take. **Never cut** the anchors, the crumbles, or
@@ -191,7 +198,7 @@ fifteen-minute job.
 | Container | Amount | Feeds |
 |---|---|---|
 | Chana masala | Half fridge, half frozen flat | Mon lunch ×2, Thu dinner ×2 (+ 4 next week) |
-| Lentil-walnut ragù | Half fridge, half frozen flat | Tue dinner ×2, Fri lunch ×2 (+ 4 next week) |
+| Aloo tama bodi | Half fridge, half frozen flat | Tue dinner ×2, Fri lunch ×2 (+ 4 next week) |
 | Cooked basmati rice | ~19 cups — 4 cups frozen flat, the rest to the fridge | Ten lunches (~11 cups) + Monday and Thursday dinners (~4 cups) |
 | Crispy marinated tofu | 2 blocks | Mon dinner, plus the week's boosters |
 | Tofu crumbles | 3 zones, kept separate | Wed lunch, Wed dinner, Thu dinner, Fri dinner |

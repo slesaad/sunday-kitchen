@@ -88,42 +88,44 @@ ROTATION PARTNERS for this slot: rajma, dal tadka, sambar-style lentil & vegetab
     "8", "15 min", "50 min", "65 min", ["South Asian"],
     ["lunch-mon-chana-bowl", "dinner-thu-chana-jeera-rice"])
 
-add("anchor-lentil-walnut-ragu", "Lentil-Walnut Ragù", ANCHOR,
-    """1 1/2 cups dried brown or green lentils
-1 cup walnuts, toasted and coarsely chopped
-1 large onion, finely diced
-2 carrots, finely diced
-2 celery stalks, finely diced
-6 cloves garlic
-1 can (28 oz) crushed tomatoes
-3 tbsp tomato paste
-3 cups water or vegetable broth
-2 tbsp soy sauce
-1 tbsp balsamic vinegar
-2 tsp dried oregano
-1 tsp dried thyme
-1 tsp fennel seeds, crushed
-Chili flakes, to taste
-3 tbsp olive oil
-Salt and pepper""",
-    ["Toast the walnuts in a dry pan, 4 minutes, until they smell like walnuts. Chop coarse and set aside.",
-     "Pulse the onion, carrot and celery in the food processor — a 90-second job instead of a ten-minute one, and nobody can tell.",
-     "Olive oil, soffritto, 12 minutes until soft and sweet. Garlic, 1 minute.",
-     "Tomato paste, 2 minutes, until it darkens to brick red.",
-     "Crushed tomatoes, lentils, liquid, soy sauce, balsamic, herbs. Simmer uncovered 30-35 minutes, stirring occasionally, until the lentils are tender and it's thick.",
-     "Walnuts in for the last 5 minutes. Salt aggressively at the end."],
-    """THE FENNEL SEEDS ARE THE WHOLE TRICK. They're what make this read as sausage ragù rather than lentils in tomato sauce. Don't leave them out.
+add("anchor-aloo-tama-bodi", "Aloo Tama Bodi", ANCHOR,
+    """2 cups dried black-eyed peas (bodi), soaked overnight
+1 1/2 cups tama (fermented bamboo shoot), drained and rinsed
+1 lb waxy potatoes — Yukon Gold or red, NOT russet — in 1-inch chunks
+2 large onions, diced
+8 cloves garlic
+2 tbsp ginger
+3 tbsp mustard oil, or neutral oil
+2 tsp cumin seeds
+1/2 tsp fenugreek seeds (methi), optional
+1 tbsp ground cumin
+1 tbsp ground coriander
+2 tsp turmeric
+1-2 tsp kashmiri chili powder
+1 tsp timur, or ground Sichuan pepper
+6 cups water
+Salt
+Cilantro, to finish""",
+    ["FRY THE TAMA FIRST, in the oil, 5 minutes. This is the step people skip and it's the one that matters — straight from the jar the bamboo shoot is aggressively sour, and frying rounds it into something savory.",
+     "Onions into the same pot, 10 minutes, until soft and browning at the edges. Garlic and ginger, 1 minute.",
+     "Cumin seeds, fenugreek, and the ground spices, 1 minute, to bloom them in the oil.",
+     "Drained bodi and 6 cups water. Bring up, then simmer.",
+     "AFTER 10 MINUTES, potatoes in. Simmer 20 more, until the bodi is tender and the potatoes give to a knife. The broth should thicken to a loose gravy, not a soup — mash a few potatoes against the side if it needs help.",
+     "Salt hard at the end. Cilantro off the heat."],
+    """FRYING THE TAMA IS THE WHOLE TRICK. Unfried, the sourness dominates everything else in the pot. Five minutes in hot oil turns it savory and a little nutty, and it's the difference between this tasting Nepali and tasting like a mistake.
 
 Four servings this week, four flat-frozen for next.
 
-WITH GARDEN TOMATOES: use about 2 lb fresh and simmer 10-20 minutes longer. Judge by look — when a spoon dragged through the pan leaves a channel that doesn't immediately fill, it's ready.
+WAXY POTATOES, NOT RUSSET, AND CUT THEM CHUNKY. Half this batch goes in the freezer, and potato does not love being frozen — it comes back slightly grainy. Waxy varieties hold their structure far better, and 1-inch chunks survive where dice turns to mush. It's a curry, so a soft potato is a small sin, but russet dice would genuinely disappoint you by week two.
 
-NO BALSAMIC? It is one tablespoon in a pot holding two cans of tomatoes, there for acidity and a touch of sweetness. Swap in 1 tbsp red wine vinegar or apple cider vinegar plus a pinch of sugar, or 2 tsp white vinegar, or 1 tbsp lemon juice. Balsamic dressing works too, but it is roughly a third vinegar, so use 2-3 tbsp and add it at the END rather than with the tomatoes — dressings vary in sweetness and a 35-minute simmer concentrates sugar. Or leave it out and add a squeeze of lemon at the end if it tastes flat.
+NO TIMUR? Ground Sichuan pepper is already in your kit for the crumbles, and it's a close cousin — same numbing citrus family. Use the same amount.
 
-ROTATION PARTNERS for this slot: roasted red pepper & white bean, chickpea puttanesca, creamy cashew-tomato with lentils.""",
-    "The stovetop anchor. Tuesday's pasta and Friday's lunch bowl, with half frozen flat for next week.",
-    "8", "20 min", "40 min", "60 min", ["Italian"],
-    ["dinner-tue-rigatoni-ragu", "lunch-fri-ragu-rice-bowl"])
+PROTEIN is about 10 g a serving, which is on the light side for an anchor. That's accounted for, and the kit covers it without new shopping: Tuesday takes crispy tofu alongside, Friday's bowl takes an edamame scoop.
+
+ROTATION PARTNERS for this slot: palak tofu, kwati, tofu keema matar, mismas tarkari.""",
+    "The stovetop anchor. Tuesday's dinner and Friday's lunch bowl, with half frozen flat for next week.",
+    "8", "15 min", "35 min", "50 min", ["Nepali"],
+    ["dinner-tue-aloo-tama", "lunch-fri-aloo-tama-bowl"])
 
 # ============================================================== COMPONENTS
 
@@ -242,7 +244,7 @@ Pinch of salt""",
      "6 minutes high pressure.",
      "FULL 10 minute natural release — cutting it short gives you wet rice.",
      "Fluff and spread on a sheet pan to cool fast.",
-     "STOVETOP BATCH: one batch is not enough. 3 cups rinsed rice, 4 1/2 cups water, boil then lowest heat, lid on, 15 minutes, rest 10. Run this on the stovetop once the ragu is off it."],
+     "STOVETOP BATCH: one batch is not enough. 3 cups rinsed rice, 4 1/2 cups water, boil then lowest heat, lid on, 15 minutes, rest 10. Run this on the stovetop once the aloo tama is off it."],
     """Both batches together yield about 19 cups cooked, which is what the week actually needs: roughly 11 cups across the ten lunch containers, about 4 cups held back for Monday and Thursday dinners, and 4 cups frozen flat.
 
 STORAGE: half to the fridge, half frozen flat in portions. Frozen rice microwaves better than four-day-old fridge rice, and it skips the food-safety question entirely — cooked rice wants to get cold quickly and be eaten within four days.
@@ -394,18 +396,22 @@ Scallions""",
 ROTATION: from week 3 this slot alternates with char siu seitan — sear the slices hard in a dry pan, then the same glaze off the heat. From week 5, optionally satay tempeh: steam it 10 minutes first — that removes the bitterness, and skipping it is why most people think they don't like tempeh — then sear and use the same glaze. If you want it peanutty, whisk 2 tbsp peanut butter and a squeeze of lime into the glaze.""",
     "", "2", "5 min", "10 min", "15 min", ["Chinese"])
 
-add("dinner-tue-rigatoni-ragu", "Tuesday — Rigatoni + Ragù", DINNER,
-    """Lentil-walnut ragù, from the prep session
-Rigatoni
-Toasted breadcrumbs or nutritional yeast""",
-    ["PUT THE WATER ON BEFORE YOU DO ANYTHING ELSE. Before you change, before you sit down. An electric kettle takes this to 12 minutes: boil the kettle, pour into the pot, back to a rolling boil in about a minute.",
-     "Rigatoni, 11 minutes. Warm the ragù while it cooks.",
-     "Save half a cup of pasta water. Toss everything together in the pan with a splash — that's what makes sauce cling instead of sit.",
-     "Toasted breadcrumbs or nutritional yeast on top."],
-    """18 minutes wall clock, 6 minutes hands-on. Twelve of those eighteen minutes are water and pasta doing their own thing.
+add("dinner-tue-aloo-tama", "Tuesday — Aloo Tama Bodi, Rice, Crispy Tofu", DINNER,
+    """Aloo tama bodi, from the prep session
+Cooked rice
+Crispy marinated tofu, from the prep session
+Cilantro
+Lemon wedges""",
+    ["Crispy tofu into the air fryer, 400°F for 5 minutes. Start here — everything else finishes faster than it does.",
+     "Aloo tama into a pan or the microwave, 4 minutes. A splash of water if it tightened up in the fridge.",
+     "Rice — 3 minutes from frozen, 90 seconds from the fridge.",
+     "Tofu on top or alongside, cilantro, a squeeze of lemon."],
+    """10 minutes wall clock, 4 minutes hands-on. This is now the easiest dinner of the week — nothing here is cooking, it's all reheating.
 
-ROTATION: the anchor in this slot changes every cycle — lentil-walnut ragù, roasted red pepper & white bean, chickpea puttanesca, creamy cashew-tomato with lentils.""",
-    "", "2", "3 min", "15 min", "18 min", ["Italian"])
+THE TOFU ISN'T OPTIONAL HERE. Aloo tama runs about 10 g of protein a serving on its own; the crispy tofu is what brings the plate up to where the rest of the week sits. Monday only uses half the batch, so it's already in the fridge waiting.
+
+ROTATION: the anchor in this slot changes every cycle — aloo tama bodi, palak tofu, kwati, tofu keema matar.""",
+    "", "2", "4 min", "6 min", "10 min", ["Nepali"])
 
 add("dinner-wed-chowmein", "Wednesday — Veggie Chowmein", DINNER,
     """Chowmein or lo mein noodles, for 2
@@ -554,16 +560,19 @@ Gochujang-sesame sauce, PACKED SEPARATELY""",
     "Crumbles packed against wet rice lose everything that makes them worth making. The two extra containers are worth the thirty seconds.",
     "", "1", "5 min", "", "5 min")
 
-add("lunch-fri-ragu-rice-bowl", "Friday Lunch — Ragù Rice Bowl", LUNCH,
-    """Lentil-walnut ragù
+add("lunch-fri-aloo-tama-bowl", "Friday Lunch — Aloo Tama Bowl", LUNCH,
+    """Aloo tama bodi
 Cooked rice
 Roasted vegetables
-Nutritional yeast, packed separately""",
-    ["Ragù over rice, roasted veg alongside.",
-     "Nutritional yeast in a separate corner.",
+Shelled edamame
+Cilantro
+Lemon wedge, packed separately""",
+    ["Aloo tama over rice, roasted veg alongside.",
+     "EDAMAME STRAIGHT FROM FROZEN, half a cup at least. It thaws in the fridge overnight and reheats with everything else — and it's what closes the protein gap this anchor leaves.",
+     "Lemon wedge in its own corner.",
      "Packed Wednesday night rather than prep day, so it's two days old rather than five."],
-    "OVER RICE, NOT PASTA. Reheated pasta in a container goes gluey and sad by Friday. Rice takes exactly the same sauce and holds up for four days.",
-    "", "1", "5 min", "", "5 min")
+    "THE EDAMAME MATTERS MORE IN THIS BOWL THAN THE OTHERS. Aloo tama is the lightest anchor on protein — about 10 g a serving — so this is the one lunch where skipping the scoop actually shows up in your day's total.",
+    "", "1", "5 min", "", "5 min", ["Nepali"])
 
 # =============================================================== BREAKFAST
 
@@ -628,19 +637,21 @@ No new shopping, no new sauces, no new techniques. And a seitan week is LESS pre
 
 add("reference-garden-tomatoes", "Using Garden Tomatoes", REFERENCE,
     """1 can (28 oz) crushed tomatoes = about 2 lb / 900 g fresh
+The week needs ONE can, for the chana masala
 1 can (14 oz) crushed tomatoes = about 1 lb / 450 g fresh
 Tomato paste = KEEP IT, don't substitute""",
     ["CONVERSION: canned tomatoes are already cooked down; fresh ones are about 94% water. That's why you need more by weight, and why the tomato paste matters MORE, not less — it carries the depth and body the fresh fruit can't.",
-     "RAGÙ, stovetop and uncovered — easy. Swap them in and simmer 10-20 minutes longer. The water evaporates on its own. Judge by look: when a spoon dragged through the pan leaves a channel that doesn't immediately fill, it's ready.",
      "CHANA MASALA, Instant Pot — needs two changes, because a sealed pressure cooker evaporates nothing and fresh tomatoes would thin the gravy into soup. First, cut the added water from 2 1/2 cups to 1 1/2 cups. Second, cook the tomatoes down during the sauté stage: after the spices bloom, let them break down and darken for 5-8 minutes before the chickpeas go in and you seal.",
      "WHICH TOMATOES: paste types are best — Roma, San Marzano, Amish Paste, any plum shape. Less water, more flesh. Beefsteaks work but need more reduction. Cherry tomatoes are excellent and sweet.",
      "SKINS, fastest first: blitz them whole in the food processor, skins and all — it's already out, and the skins pulverize and disappear. Or grate them on a box grater, cut side down, holding onto the skin, so the flesh goes through and the skin stays in your hand — about 5 minutes for 2 lb. Or blanch and peel: score an X, 30 seconds in boiling water, ice bath, skins slip off. Best result, slowest.",
      "Don't leave skins whole in a long simmer — they curl into little rolls that are unpleasant to find."],
-    """TASTE BEFORE YOU FOLLOW THE RECIPE. Canned tomatoes are consistent and fairly acidic. Garden tomatoes vary a lot, and are often sweeter and less acidic, especially late in the season. You'll likely need less sugar (or none) in the ragù, and MORE acid at the end — a squeeze of lemon in the chana, an extra splash of balsamic in the ragù — to stop it tasting flat. This is the one place in the plan where the recipe can't tell you the answer.
+    """TASTE BEFORE YOU FOLLOW THE RECIPE. Canned tomatoes are consistent and fairly acidic. Garden tomatoes vary a lot, and are often sweeter and less acidic, especially late in the season. Late-season fruit usually wants MORE acid at the end — a squeeze of lemon in the chana — to stop it tasting flat. This is the one place in the plan where the recipe can't tell you the answer.
+
+ONLY ONE DISH IN THE WEEK IS TOMATO-BASED NOW: the chana masala. Aloo tama bodi has no tomatoes in it at all, so a glut goes further than it used to — into the freezer, onto Friday's pico, and into Thursday's kachumber.
 
 WHEN YOU HAVE TOO MANY: freeze them whole and raw. Wash, dry, bag, freeze. That's the entire method. The skins slip off under warm water as they thaw, and frozen tomatoes are only good for cooking anyway — which is all you need them for here. Zero prep.
 
-OR ROAST A TRAY: halve them, olive oil, garlic, salt, 400°F for 45 minutes until collapsed and a little caramelized. Freeze flat in 2-cup portions. These are genuinely BETTER than canned in the ragù. The oven is free late in the prep session, so a glut week costs almost nothing.
+OR ROAST A TRAY: halve them, olive oil, garlic, salt, 400°F for 45 minutes until collapsed and a little caramelized. Freeze flat in 2-cup portions. These are genuinely BETTER than canned in the chana. The oven is free late in the prep session, so a glut week costs almost nothing.
 
 OTHER PLACES THEY EARN THEIR SPOT: fresh pico de gallo instead of jarred salsa on Friday; kachumber alongside Thursday's chana — diced tomato, cucumber, red onion, lemon, cumin, cilantro; and the Mediterranean bowls already use them raw.""",
     "Conversions, skins, and what to do with a glut. Not a recipe — a cheat sheet.",

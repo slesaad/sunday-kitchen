@@ -8,16 +8,16 @@ includes waiting for water to boil and rice to microwave.
 | | Lunch | Dinner | Cuisine | Hands-on | Wall clock |
 |---|---|---|---|---|---|
 | **Mon** | Chana masala bowl | Sticky tofu, rice, roasted veg | Chinese | 10 min | **15 min** |
-| **Tue** | Mediterranean bowl | Rigatoni + lentil-walnut ragù | Italian | 6 min | **18 min** |
+| **Tue** | Mediterranean bowl | Aloo tama bodi, rice, crispy tofu | Nepali | 4 min | **10 min** |
 | **Wed** | Sichuan crumble bowl | Veggie chowmein, egg, edamame | Nepali · Indo-Chinese | 14 min | **18 min** |
 | **Thu** | Mediterranean bowl | Chana masala, jeera rice, crumble sabzi | South Asian | 12 min | **15 min** |
-| **Fri** | Ragù rice bowl | Tacos, chili-lime crumbles | Mexican | 15 min | **18 min** |
+| **Fri** | Aloo tama bowl | Tacos, chili-lime crumbles | Mexican | 15 min | **18 min** |
 
 Lunches are assembled on the weekend and reheated at work — they cost you nothing on the day.
 
-**Tuesday's 18 minutes is mostly the water boiling.** Put the pot on the second you walk in
-the door, before you change out of your work clothes, and it overlaps with everything else.
-An electric kettle cuts it to 12.
+**Tuesday is now the easiest night of the week.** Nothing on that plate is cooked on the
+night — the curry is reheated, the rice is reheated, the tofu goes through the air fryer.
+Ten minutes, and four of them are hands-on. It used to be pasta night at 18.
 
 **Breakfast, every day:** the post-workout shake — protein + creatine + rolled oats +
 frozen banana + ground flax + soy milk. See [`05-nutrition.md`](05-nutrition.md).
@@ -35,10 +35,11 @@ pack Thursday and Friday on Wednesday night so nothing you eat is five days old.
 | **Tue** | Rice · harissa roasted veg · roasted chickpeas · cucumber · cherry tomato · pickled onion · parsley | **Tahini-lemon sauce** |
 | **Wed** | Rice · roasted veg · edamame · cucumber | **Sichuan crumbles** and **gochujang-sesame** |
 | **Thu** | Same as Tuesday | **Tahini-lemon sauce** |
-| **Fri** | Rice · lentil-walnut ragù · roasted veg | Nutritional yeast |
+| **Fri** | Rice · aloo tama bodi · roasted veg · edamame | Lemon wedge |
 
-**Friday's ragù goes over rice, not pasta.** Reheated pasta in a container turns gluey and
-sad. Rice takes the same sauce and survives four days.
+**Friday's bowl needs its edamame scoop.** Aloo tama is the lightest anchor on protein at
+about 10 g a serving, so this is the one lunch where skipping the scoop actually shows up in
+your day's total.
 
 **Anything crisp or creamy travels separately.** Tahini dressed on Sunday turns grains to
 paste by Tuesday. Crumbles packed against wet rice lose everything that makes them good.
@@ -74,7 +75,7 @@ chickpeas and the crumbles from competing for the same slot.
 
 ## Why it's built this way
 
-**Anchors carry the low-energy load.** The chana masala and the ragù are finished dishes
+**Anchors carry the low-energy load.** The chana masala and the aloo tama are finished dishes
 that need nothing but a microwave. Both taste better on day three than day one.
 
 **The kit carries the variety.** Crispy tofu, three-zone crumbles, rice, two trays of
@@ -98,13 +99,18 @@ Averages out to about **1h55 a week**, against roughly ten hours of weeknight co
 
 Fixed slots, different dish each cycle. Same technique, same prep time.
 
-| Cycle | Anchor 1 — South Asian, Instant Pot | Anchor 2 — pasta sauce, stovetop |
+| Cycle | Anchor 1 — South Asian, Instant Pot | Anchor 2 — Nepali/Indian, stovetop |
 |---|---|---|
-| 1 | Chana masala | Lentil-walnut ragù |
-| 2 | Rajma (kidney bean curry) | Roasted red pepper & white bean |
-| 3 | Dal tadka | Chickpea puttanesca |
-| 4 | Sambar-style lentil & vegetable | Creamy cashew-tomato with lentils |
-| 5 | Aloo chana | Back to lentil-walnut ragù |
+| 1 | Chana masala | Aloo tama bodi |
+| 2 | Rajma (kidney bean curry) | Palak tofu |
+| 3 | Dal tadka | Tofu keema matar |
+| 4 | Sambar-style lentil & vegetable | Kwati (nine-bean) |
+| 5 | Aloo chana | Mismas tarkari |
+
+**Both anchors are South Asian now, so the contrast has to come from the slot, not the
+cuisine.** Anchor 1 is a sealed, tomato-based Instant Pot curry; anchor 2 is an open-pot
+stovetop dish built on a different axis each cycle — sour (tama), green (palak), minced
+(keema), brothy (kwati). Pick a cycle-2 dish that doesn't share anchor 1's colour.
 
 With alternating freezer weeks, one pass through this table is **ten weeks** before
 anything repeats.

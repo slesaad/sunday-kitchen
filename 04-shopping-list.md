@@ -14,7 +14,7 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 | | |
 |---|---|
 | Dried chickpeas | 4 lb bag — you'll use ~4 cups a week on falafel weeks |
-| Brown or green lentils | 4 lb bag |
+| **Black-eyed peas (bodi)** | 4 lb bag — the aloo tama anchor, 2 cups a week |
 | Red lentils (masoor dal) | small bag — the optional ½ cup that thickens the chana |
 | Basmati rice | 10 lb bag |
 | Cumin seeds, ground cumin, ground coriander | large packs |
@@ -37,6 +37,9 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 | Gochujang | tub |
 | Five-spice powder, ground Sichuan pepper | |
 | Chowmein / lo mein noodles | several packs, they keep |
+| **Tama — fermented bamboo shoot** | jarred or vacuum-packed. The aloo tama anchor depends on it; buy two |
+| **Timur** | if they have it. Otherwise the ground Sichuan pepper above stands in |
+| Mustard oil | for the aloo tama — pungent, and worth it. Neutral oil works |
 | **Check the refrigerated case for tempeh** | if they have it, this plan gets better |
 
 ### Costco / bulk
@@ -48,7 +51,6 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 | Rolled oats | |
 | Soy milk | unsweetened, fortified — **check for calcium and B12** |
 | Peanut butter | for the shake |
-| Walnuts | for the ragù |
 | Almonds | the afternoon snack |
 | Olive oil, neutral oil | |
 | Protein powder | soy or pea, unflavored or vanilla |
@@ -58,13 +60,17 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 Cornstarch · nutritional yeast · maple syrup · **harissa paste** *(international aisle or
 near the hot sauces; Trader Joe's carries it — or make your own in 5 minutes, see
 [`recipes/sauce-harissa.md`](recipes/sauce-harissa.md))* · smoked paprika · chipotle
-powder · dried oregano · dried thyme · **fennel seeds** · white vinegar · canned crushed
-tomatoes (case) · tomato paste · canned black beans · salsa · rigatoni
+powder · white vinegar · canned crushed tomatoes — **one 28 oz can a week, for the chana
+only** · tomato paste · canned black beans · salsa
+
+> **Dried oregano** is worth buying only when you reach the **week 3 seitan project** — the
+> chorizo flavouring is its one use in this plan.
 
 > **In tomato season**, skip the canned crushed tomatoes and the salsa — you need ~2 lb of
-> garden tomatoes per anchor, plus enough for pico de gallo. **Keep buying tomato paste
-> regardless**; fresh tomatoes make it more necessary, not less. See the conversion notes
-> in [`recipes/reference-garden-tomatoes.md`](recipes/reference-garden-tomatoes.md).
+> garden tomatoes for the chana, plus enough for pico de gallo. Aloo tama has no tomatoes in
+> it at all, so a glut goes further than it used to. **Keep buying tomato paste regardless**;
+> fresh tomatoes make it more necessary, not less. See the conversion notes in
+> [`recipes/reference-garden-tomatoes.md`](recipes/reference-garden-tomatoes.md).
 
 ### Supplements
 
@@ -84,16 +90,16 @@ tomatoes (case) · tomato paste · canned black beans · salsa · rigatoni
 
 | | |
 |---|---|
-| Onions | 4–5 |
+| Onions | 4 — two for the chana, two for the aloo tama |
 | Red onions | 3 |
 | Garlic | 2 heads |
 | Ginger | large knob |
-| Carrots | 1 lb |
-| Celery | 1 bunch |
+| Carrots | 2 — for the stir-fry pack |
 | Cauliflower | 1 head — or broccoli |
 | **Frozen corn** | 1 cup, for the chili-cumin tray |
 | Bell peppers | 3 — one each for the harissa tray, the chili-cumin tray, and the stir-fry pack |
-| Sweet potatoes | 2 |
+| Sweet potatoes | 2 — the chili-cumin tray |
+| **Waxy potatoes** | 1 lb Yukon Gold or red, **not russet** — for the aloo tama. Waxy holds up in the freezer; russet turns grainy |
 | Zucchini | 1 — the harissa tray |
 | Cabbage | 1 medium — the stir-fry pack **and** the taco slaw |
 | **Pre-shredded coleslaw mix** | 1 bag — optional, saves 12 min of Sunday shredding |
@@ -124,6 +130,8 @@ the freezer. Buy:
 
 Onions · garlic · one tray's worth of vegetables (**pick different ones than last week**) ·
 herbs · limes · bananas · tofu
+
+*No tama or bodi on these weeks — the anchors come out of the freezer.*
 
 ---
 
