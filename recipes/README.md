@@ -28,12 +28,11 @@ The kit. Made on prep day, combined into dinners all week.
 
 ## Sauces
 
-The three bowl sauces, in the order that saves washing the processor bowl — plus a harissa you make once and keep for weeks.
+The two bowl sauces, in the order that saves washing the processor bowl — plus a harissa you make once and keep for weeks.
 
 | Recipe | Yield | Time |
 |---|---|---|
 | [Tahini-Lemon Sauce](sauce-tahini-lemon.md) | 1 jar | 5 min |
-| [Peanut-Lime Sauce](sauce-peanut-lime.md) | 1 jar | 5 min |
 | [Gochujang-Sesame Sauce](sauce-gochujang-sesame.md) | 1 jar | 3 min |
 | [Pantry Harissa](sauce-harissa.md) | About 1/2 cup | 5 min |
 

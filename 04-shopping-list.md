@@ -15,15 +15,16 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 |---|---|
 | Dried chickpeas | 4 lb bag — you'll use ~4 cups a week on falafel weeks |
 | Brown or green lentils | 4 lb bag |
-| Red lentils (masoor dal) | 2 lb |
-| Toor dal | 2 lb — for the dal tadka rotation |
+| Red lentils (masoor dal) | small bag — the optional ½ cup that thickens the chana |
 | Basmati rice | 10 lb bag |
-| **Vital wheat gluten** | 2 lb — for the week 3 seitan project |
 | Cumin seeds, ground cumin, ground coriander | large packs |
 | Turmeric, garam masala, kashmiri chili powder | |
 | Amchur (dried mango powder) | small |
-| Asafoetida (hing) | small — a pinch does a lot |
 | Tahini | often cheaper here than the supermarket |
+
+> **Skip these until week 3** — they're for rotations you haven't reached yet, and the first
+> trip is expensive enough: **toor dal** (2 lb, for the dal tadka rotation) and **vital wheat
+> gluten** (2 lb, for the seitan project). Add them to the week-3 list instead.
 
 ### Asian grocery
 
@@ -46,7 +47,9 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 | **Frozen SHELLED edamame** | biggest bag they have — see the note below on pods |
 | Rolled oats | |
 | Soy milk | unsweetened, fortified — **check for calcium and B12** |
-| Peanut butter, walnuts, almonds | |
+| Peanut butter | for the shake |
+| Walnuts | for the ragù |
+| Almonds | the afternoon snack |
 | Olive oil, neutral oil | |
 | Protein powder | soy or pea, unflavored or vanilla |
 
@@ -89,9 +92,9 @@ tomatoes (case) · tomato paste · canned black beans · salsa · rigatoni
 | Celery | 1 bunch |
 | Cauliflower | 1 head — or broccoli |
 | **Frozen corn** | 1 cup, for the chili-cumin tray |
-| Bell peppers | 4 |
+| Bell peppers | 3 — one each for the harissa tray, the chili-cumin tray, and the stir-fry pack |
 | Sweet potatoes | 2 |
-| Zucchini | 2 |
+| Zucchini | 1 — the harissa tray |
 | Cabbage | 1 medium — the stir-fry pack **and** the taco slaw |
 | **Pre-shredded coleslaw mix** | 1 bag — optional, saves 12 min of Sunday shredding |
 | **Canned chickpeas** | 1 can — roasted on the harissa tray, protein for both Med bowls |
@@ -137,6 +140,8 @@ herbs · limes · bananas · tofu
   goes through 8–10 cups of shelled beans a week, which is more shelling than it's worth.
 - **Soy yogurt is genuinely optional.** Its only use is Thursday's raita. Skip it and
   nothing else in the plan changes.
+- **Every item on this list names what it's for.** If you find one that doesn't, it's a bug —
+  the plan doesn't buy anything it doesn't cook.
 - **Check your tofu label for calcium sulfate.** Most extra-firm tofu is set with it, which
   makes it a serious calcium source now that dairy is out. Tofu set with nigari isn't.
 - **Check your soy milk is fortified** with calcium, B12, and D. Unfortified soy milk is

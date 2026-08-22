@@ -51,7 +51,7 @@ quarter cup. **Leave the protein alone.** It's the one number that shouldn't mov
 | **Total** | **~145 g** | **~2,825** |
 
 Ten grams short of target — close it with a second scoop of protein in the shake, another
-half cup of edamame at lunch, or hemp seeds on the dinner bowl.
+half cup of edamame at lunch, or 100 g more of the crispy tofu on the dinner bowl.
 
 ---
 

@@ -13,7 +13,7 @@ has a "Screen on" button so your phone doesn't dim mid-recipe.
 Cook **two anchor dishes** and **one component kit** on the weekend. The anchors are
 finished, freezer-proof, and get better as the week goes on — they cover every lunch and
 any night you have nothing left. The kit is a handful of parts (crispy tofu, tofu
-crumbles, rice, roasted veg, three sauces, a shredded stir-fry pack, a bag of edamame)
+crumbles, rice, roasted veg, two sauces, a shredded stir-fry pack, a bag of edamame)
 that combine into a different dinner every night. Anchors are cooked in **double batches**,
 so every other weekend is nearly free.
 
@@ -22,9 +22,9 @@ so every other weekend is nearly free.
 | | Time |
 |---|---|
 | Week A (full prep, double batches) | **~2h45**, two people in parallel |
-| Week B (freezer week) | **~50 min** |
+| Week B (freezer week) | **~1 hr**, two people in parallel |
 | Any weeknight | **15–18 min wall clock**, 6–15 min hands-on |
-| Average per week | **~1h50** |
+| Average per week | **~1h55** |
 
 Against roughly ten hours a week of weeknight cooking.
 

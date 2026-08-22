@@ -61,6 +61,8 @@ Sichuan — Wednesday lunch bowls x2, Wednesday dinner chowmein.
 Cumin-garam masala — Thursday dinner sabzi x2, scattered on Monday's lunch.
 Chili-lime — Friday dinner tacos x2.
 
+ON FALAFEL WEEKS, SEASON TWO ZONES, NOT THREE. Friday is falafel night that week, so nothing eats the chili-lime. Split the pan between Sichuan and cumin-garam masala instead.
+
 Store them separately from wet food, and keep the three zones apart — they go soft against rice, and the whole point is that they're three different things.
 
 Whatever's left over is the snack. That isn't a consolation prize.

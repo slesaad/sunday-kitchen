@@ -29,4 +29,4 @@
 
 15 minutes wall clock, 10 minutes hands-on.
 
-ROTATION: from week 3 this slot alternates with char siu seitan — sear the slices hard in a dry pan, then the same glaze off the heat. From week 5, optionally satay tempeh with the peanut-lime sauce. Steam the tempeh 10 minutes first — that removes the bitterness, and skipping it is why most people think they don't like tempeh.
+ROTATION: from week 3 this slot alternates with char siu seitan — sear the slices hard in a dry pan, then the same glaze off the heat. From week 5, optionally satay tempeh: steam it 10 minutes first — that removes the bitterness, and skipping it is why most people think they don't like tempeh — then sear and use the same glaze. If you want it peanutty, whisk 2 tbsp peanut butter and a squeeze of lime into the glaze.

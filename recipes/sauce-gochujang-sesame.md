@@ -20,4 +20,4 @@
 
 ## Notes
 
-This one never touches the food processor, which is why it comes last in the sequence.
+This one never touches the food processor, which is why it comes second. Whisk it in the jar while the tahini is blitzing.

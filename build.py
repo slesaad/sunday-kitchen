@@ -24,7 +24,7 @@ GROUP_ORDER = [ANCHOR, COMPONENT, SAUCE, DINNER, LUNCH, BREAKFAST, PROJECT, REFE
 GROUP_BLURB = {
     ANCHOR: "Cooked in double batches. Half this week, half flat-frozen for next.",
     COMPONENT: "The kit. Made on prep day, combined into dinners all week.",
-    SAUCE: "The three bowl sauces, in the order that saves washing the processor bowl — plus a harissa you make once and keep for weeks.",
+    SAUCE: "The two bowl sauces, in the order that saves washing the processor bowl — plus a harissa you make once and keep for weeks.",
     DINNER: "Assembly, not cooking. Wall clock first, hands-on second.",
     LUNCH: "All assembled on the weekend. Zero weekday cost.",
     BREAKFAST: "",
@@ -190,6 +190,8 @@ Sichuan — Wednesday lunch bowls x2, Wednesday dinner chowmein.
 Cumin-garam masala — Thursday dinner sabzi x2, scattered on Monday's lunch.
 Chili-lime — Friday dinner tacos x2.
 
+ON FALAFEL WEEKS, SEASON TWO ZONES, NOT THREE. Friday is falafel night that week, so nothing eats the chili-lime. Split the pan between Sichuan and cumin-garam masala instead.
+
 Store them separately from wet food, and keep the three zones apart — they go soft against rice, and the whole point is that they're three different things.
 
 Whatever's left over is the snack. That isn't a consolation prize.""",
@@ -324,24 +326,9 @@ add("sauce-tahini-lemon", "Tahini-Lemon Sauce", SAUCE,
 4-6 tbsp cold water""",
     ["Blitz everything in the food processor, adding the water last and slowly.",
      "IT WILL SEIZE INTO CEMENT BEFORE IT LOOSENS. This alarms everyone the first time. Keep adding water. Keep going. It comes back."],
-    "Make this FIRST in the sauce sequence — tahini, then peanut-lime, then gochujang-sesame — and you never have to wash the food processor bowl between them.",
+    "Make this FIRST in the sauce sequence — tahini, then gochujang-sesame — and the gochujang never touches the processor, so the bowl gets washed once.",
     "", "1 jar", "5 min", "", "5 min", (),
     ["lunch-mediterranean-bowl", "dinner-fri-falafel-night"])
-
-add("sauce-peanut-lime", "Peanut-Lime Sauce", SAUCE,
-    """1/2 cup peanut butter
-3 tbsp soy sauce
-2 tbsp lime juice
-2 tbsp maple syrup
-1 clove garlic
-1 tbsp ginger
-1-2 tsp chili crisp
-4-6 tbsp water""",
-    ["Blitz, thinning with water to a pourable consistency."],
-    """Second in the sauce sequence, straight after the tahini-lemon — no washing needed between them.
-
-For grain bowls, satay tempeh, and anything that wants a Southeast Asian turn.""",
-    "", "1 jar", "5 min", "", "5 min")
 
 add("sauce-gochujang-sesame", "Gochujang-Sesame Sauce", SAUCE,
     """3 tbsp gochujang
@@ -352,7 +339,7 @@ add("sauce-gochujang-sesame", "Gochujang-Sesame Sauce", SAUCE,
 1 tbsp sesame seeds
 1 clove garlic, grated""",
     ["Whisk together in the jar you'll store it in. That's it."],
-    "This one never touches the food processor, which is why it comes last in the sequence.",
+    "This one never touches the food processor, which is why it comes second. Whisk it in the jar while the tahini is blitzing.",
     "", "1 jar", "3 min", "", "3 min", (), ["lunch-wed-sichuan-crumble-bowl"])
 
 add("sauce-harissa", "Pantry Harissa", SAUCE,
@@ -404,7 +391,7 @@ Scallions""",
      "Sesame seeds, scallions."],
     """15 minutes wall clock, 10 minutes hands-on.
 
-ROTATION: from week 3 this slot alternates with char siu seitan — sear the slices hard in a dry pan, then the same glaze off the heat. From week 5, optionally satay tempeh with the peanut-lime sauce. Steam the tempeh 10 minutes first — that removes the bitterness, and skipping it is why most people think they don't like tempeh.""",
+ROTATION: from week 3 this slot alternates with char siu seitan — sear the slices hard in a dry pan, then the same glaze off the heat. From week 5, optionally satay tempeh: steam it 10 minutes first — that removes the bitterness, and skipping it is why most people think they don't like tempeh — then sear and use the same glaze. If you want it peanutty, whisk 2 tbsp peanut butter and a squeeze of lime into the glaze.""",
     "", "2", "5 min", "10 min", "15 min", ["Chinese"])
 
 add("dinner-tue-rigatoni-ragu", "Tuesday — Rigatoni + Ragù", DINNER,

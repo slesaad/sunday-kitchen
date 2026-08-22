@@ -39,7 +39,7 @@ opening cupboards with wet hands.
 
 ### Produce to wash
 
-Cauliflower · red peppers (2) · zucchini · sweet potatoes (2) · bell or poblano pepper ·
+Cauliflower · red pepper (1) · zucchini (1) · sweet potatoes (2) · bell or poblano pepper (1) ·
 carrots (4 — two for the ragù, two for the stir-fry pack) · celery (2 stalks) ·
 onions (3 yellow) · red onions (3) · cabbage (½) · cilantro · parsley · scallions ·
 lemons · limes
@@ -48,7 +48,7 @@ lemons · limes
 
 Dried chickpeas (soaking) · dried **brown or green** lentils · basmati rice ·
 crushed tomatoes (2 × 28 oz) · tomato paste · canned chickpeas (1) · walnuts ·
-tahini · peanut butter · gochujang · harissa · cornstarch · nutritional yeast ·
+tahini · gochujang · harissa · cornstarch · nutritional yeast ·
 maple syrup · soy sauce · rice vinegar · balsamic vinegar · sesame oil · olive oil · chili crisp
 
 ### Spices
@@ -91,9 +91,8 @@ en place list onto the counter.
 | **0:36** | Pulse the **soffritto (1 onion, 2 carrots, 2 celery)** in the food processor — 90 seconds, to a coarse mince. |
 | **0:38** | Soffritto into **3 tbsp olive oil**, **12 minutes**, until soft and sweet. **6 cloves garlic** for the last minute. |
 | **0:50** | **3 tbsp tomato paste**, 2 min, until it darkens to brick red. Then **1 × 28 oz crushed tomatoes**, **1½ cups DRY brown or green lentils — unsoaked, straight from the bag**, **3 cups broth or water**, **2 tbsp soy sauce**, **1 tbsp balsamic vinegar**, **2 tsp oregano**, **1 tsp thyme**, **1 tsp fennel seeds crushed**, chili flakes. Simmer uncovered. **Hands off until 1:25**, stir when you pass it. |
-| **0:55** | **Three sauces**, in this order so you never wash the processor bowl. |
+| **0:55** | **Two sauces**, in this order so you wash the processor bowl once. *This used to be three. The third had no meal attached, so it's gone — that's 8 minutes of hands-on work back, though the wall clock doesn't move: the wet track is waiting on the chana until 1:12 either way.* |
 | | **Tahini-lemon** — ½ cup tahini · ¼ cup lemon juice · 2 cloves garlic · ½ tsp cumin · ½ tsp salt · 4–6 tbsp cold water. *It will seize into cement before it loosens. Keep adding water.* |
-| | **Peanut-lime** — ½ cup peanut butter · 3 tbsp soy sauce · 2 tbsp lime juice · 2 tbsp maple syrup · 1 clove garlic · 1 tbsp ginger · 1–2 tsp chili crisp · 4–6 tbsp water. |
 | | **Gochujang-sesame** — whisked in a jar, no processor: 3 tbsp gochujang · 2 tbsp rice vinegar · 2 tbsp toasted sesame oil · 1 tbsp maple syrup · 1 tbsp soy sauce · 1 tbsp sesame seeds · 1 grated garlic. |
 | **1:10** | **Falafel weeks only — 5 min.** Wash the processor bowl once, then pulse the **soaked-but-uncooked chickpeas, 1 onion, 5 cloves garlic, 1 packed cup parsley, 1 packed cup cilantro, 2 tsp cumin, 1 tsp coriander, ½ tsp cayenne, 1½ tsp salt** to a **coarse, couscous-like texture — not a purée.** Into the fridge to rest. *Baking powder goes in later, at forming time.* |
 | **1:12** | Chana done. Mash a handful of chickpeas against the pot to thicken. **1 tbsp garam masala** and **2 tsp amchur** in **off the heat**. Spread on a sheet pan to cool. |
@@ -108,7 +107,7 @@ en place list onto the counter.
 | Clock | Do this |
 |---|---|
 | **0:05** | **Tofu crumbles — 15 minutes.** Crumble **2 blocks** of extra-firm tofu by hand into pea-to-marble pieces. Toss with the shared base: **3 tbsp soy sauce, 2 tbsp chili oil or chili crisp, 1 tbsp rice vinegar, 2 tbsp cornstarch, 2 tsp garlic powder, 1 tsp onion powder, black pepper.** |
-| **0:15** | Spread on **one pan in three zones** and season each: **Sichuan** — ½ tsp five-spice, ½ tsp Sichuan pepper, extra chili crisp. **Cumin–garam masala** — 1 tsp cumin, 1 tsp coriander, ½ tsp garam masala, ½ tsp turmeric, ½ tsp kashmiri chili. **Chili–lime** — 1 tsp smoked paprika, 1 tsp cumin, ½ tsp chipotle, zest of 1 lime. |
+| **0:15** | Spread on **one pan in three zones** — **two on falafel weeks**, since nothing eats the chili–lime that week — and season each: **Sichuan** — ½ tsp five-spice, ½ tsp Sichuan pepper, extra chili crisp. **Cumin–garam masala** — 1 tsp cumin, 1 tsp coriander, ½ tsp garam masala, ½ tsp turmeric, ½ tsp kashmiri chili. **Chili–lime** — 1 tsp smoked paprika, 1 tsp cumin, ½ tsp chipotle, zest of 1 lime. |
 | **0:20** | Crumbles into the oven. **25–30 min, stir at 15.** |
 | **0:22** | **Tofu — 10 minutes.** Squeeze the 2 thawed blocks hard over the sink; they release a startling amount of water. Cube. **Mix the marinade: 3 tbsp soy sauce · 1 tbsp rice vinegar · 1 tbsp maple syrup · 2 tsp sesame oil · 3 cloves grated garlic · 1 tbsp grated ginger · 2 tbsp cornstarch.** Toss the cubes through it. Set aside. |
 | **0:32** | **Two veg trays — 22 minutes, washing included.** This is the longest single job in the session. Cut everything roughly the same size; that matters more than what you cut. |
@@ -157,7 +156,6 @@ twenty containers.
 |---|---|
 | **Buy pre-shredded coleslaw mix** instead of shredding the stir-fry pack | 14 min |
 | **Buy one bag of pre-cut vegetables** for a roasting tray | 10 min |
-| **Make two sauces instead of three** | 8 min |
 | **Buy pre-diced onion** for the chana and the soffritto | 8 min |
 | **Use canned chickpeas** for the chana — 5 min pressure instead of 18 | 25 min of clock, 0 min of hands-on |
 
@@ -179,7 +177,7 @@ Move the frozen anchors to the fridge **Friday night** so they're thawed.
 | **0:30** | Wash and chop **one** veg tray — different vegetables and a different spice from last week. |
 | **0:45** | Crumbles out, veg tray in, 30 min. Tofu into the air fryer. |
 | **0:48** | Shred the stir-fry pack, or open the coleslaw bag. |
-| **1:00** | One new sauce — pick one you didn't make last week. |
+| **1:00** | One sauce — whichever of the two the week's bowls need. |
 | **1:15** | Veg out. Portion, label, done. |
 
 That's ~1 hr with two people, closer to 1h30 solo. The old "50 minutes" was optimistic —
@@ -199,7 +197,7 @@ fifteen-minute job.
 | Tofu crumbles | 3 zones, kept separate | Wed lunch, Wed dinner, Thu dinner, Fri dinner |
 | Roasted veg | 2 trays — harissa, chili-cumin | Mon dinner, Thu dinner, both Med bowls |
 | Roasted chickpeas | On the harissa tray | Both Mediterranean bowls |
-| Three sauces | Jars | Bowls and Monday's glaze |
+| Two sauces | Jars | Tahini → Med bowls and falafel · gochujang → Wednesday lunch |
 | Stir-fry pack | 1 bag, shredded | Wednesday |
 | Quick-pickled onions | 1 jar | Med bowls, tacos |
 | Herbs | Washed, chopped | Everything |

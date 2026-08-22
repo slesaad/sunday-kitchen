@@ -56,6 +56,9 @@ One sheet pan, three zones, roughly **two cups of each**. Every zone has a job:
 | **Cumin–garam masala** — cumin, coriander, garam masala, turmeric | Thursday dinner sabzi ×2 · scattered on Monday's lunch | ~2 cups |
 | **Chili–lime** — smoked paprika, cumin, chipotle, lime | Friday dinner tacos ×2 | ~2 cups |
 
+**On falafel weeks, season two zones, not three.** Friday is falafel night, so nothing eats
+the chili–lime. Split the pan between Sichuan and cumin–garam masala instead.
+
 Whatever's left over is the snack. That's not a consolation prize — a bowl of Sichuan
 crumbles at 4pm is the reason this component exists.
 
@@ -75,16 +78,19 @@ chickpeas and the crumbles from competing for the same slot.
 that need nothing but a microwave. Both taste better on day three than day one.
 
 **The kit carries the variety.** Crispy tofu, three-zone crumbles, rice, two trays of
-roasted veg, three sauces, a shredded stir-fry pack, and a bag of frozen edamame.
+roasted veg, two sauces, a shredded stir-fry pack, and a bag of frozen edamame.
+
+**Nothing is made "spare."** Every jar, tray and zone below names the meal that eats it. If
+something on prep day has no meal attached, don't make it.
 
 **Everything is doubled and half is frozen:**
 
 | | What you do | Time |
 |---|---|---|
 | **Week A** | Full prep, double batches of both anchors | ~2h45 |
-| **Week B** | Thaw anchors. Fresh rice, one veg tray, one sauce, one tray of crumbles | ~50 min |
+| **Week B** | Thaw anchors. Fresh rice, one veg tray, one sauce, one tray of crumbles | ~1 hr |
 
-Averages out to about **1h50 a week**, against roughly ten hours of weeknight cooking.
+Averages out to about **1h55 a week**, against roughly ten hours of weeknight cooking.
 
 ---
 
@@ -125,7 +131,6 @@ cooking two menus, cook one and **boost at the plate.**
 | 1 cup shelled edamame | 18 g | 180 |
 | 100 g extra-firm tofu | 10 g | 145 |
 | ¼ cup tofu crumbles | ~8 g | 110 |
-| 3 tbsp hemp seeds | 10 g | 170 |
 | 2 tbsp peanut butter | 8 g | 190 |
 
 ---
@@ -188,8 +193,10 @@ full cup of edamame or a scoop of hummus alongside.
 
 ### Where the tempeh goes
 
-The peanut-lime sauce is already in your kit, so the obvious first move is a **satay-style
-tempeh bowl** in the Monday slot: rice, cucumber, edamame, peanut-lime, crushed peanuts.
+The obvious first move is a **satay-style tempeh bowl** in the Monday slot: rice, cucumber,
+edamame, crushed peanuts, and Monday's usual glaze with 2 tbsp peanut butter and a squeeze
+of lime whisked in. That's a sauce made for one meal, on the night, rather than a jar that
+sits in the fridge all week.
 
 **Steam the tempeh for 10 minutes before you cook it.** This removes the bitterness, and
 skipping it is the single reason most people think they don't like tempeh. Then pan-sear

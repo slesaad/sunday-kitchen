@@ -20,4 +20,4 @@
 
 ## Notes
 
-Make this FIRST in the sauce sequence — tahini, then peanut-lime, then gochujang-sesame — and you never have to wash the food processor bowl between them.
+Make this FIRST in the sauce sequence — tahini, then gochujang-sesame — and the gochujang never touches the processor, so the bowl gets washed once.
