@@ -262,7 +262,7 @@ add("component-roasted-vegetables", "Roasted Vegetables, Two Trays", COMPONENT,
 1 red pepper
 1 red onion
 1 zucchini
-1 can chickpeas, drained and patted dry
+2 cans chickpeas, drained and patted dry
 2 tbsp harissa
 2 tbsp olive oil
 Salt
@@ -277,10 +277,12 @@ CHILI-CUMIN TRAY
 Oil
 Salt""",
     ["Cut everything roughly the same size. This matters more than what you cut.",
-     "Toss the harissa tray with harissa, olive oil and salt. Jarred is fine; the five-minute Pantry Harissa in the sauces section is better and cheaper. The chickpeas roast crisp and become the protein in both Mediterranean bowls.",
+     "Toss the harissa tray with harissa, olive oil and salt. Jarred is fine; the five-minute Pantry Harissa in the sauces section is better and cheaper. The chickpeas roast crisp and become the protein in all four Mediterranean bowls, so GIVE THEM ROOM — crowded chickpeas steam instead of crisping. Tip the second can onto the chili-cumin tray if the harissa one is full.",
      "Toss the chili-cumin tray with cumin, chili powder, smoked paprika, oil and salt.",
      "Both trays at 425°F for 30 minutes."],
-    """Budget 20 minutes of chopping for the pair — it's the longest single job in the prep session.
+    """TWO CANS OF CHICKPEAS, NOT ONE. The Mediterranean bowl runs Tuesday AND Thursday for both of you — that is four bowls, not two. One can yields about 1 1/4 cups roasted, which works out to a third of a cup a bowl and is not enough to be anyone's protein.
+
+Budget 20 minutes of chopping for the pair — it's the longest single job in the prep session.
 
 SHORTCUT: a bag of pre-cut vegetables for one tray saves about 10 minutes.
 
@@ -525,7 +527,9 @@ Lemon wedge, packed separately""",
      "The edamame goes in STRAIGHT FROM FROZEN — it thaws in the fridge overnight and reheats with everything else.",
      "Scatter cumin-garam masala crumbles on top if there are spare.",
      "Lemon wedge in a separate corner. Assembled on prep day."],
-    "PORTIONS: Person A — 1 1/2 cups chana, 1 cup rice, 1/2 cup edamame. Person B — 2 cups chana, 1 1/2 cups rice, 1 cup edamame.",
+    """PORTIONS — Person A: 1 1/2 cups chana, 1 cup rice, 1/2 cup edamame. Person B: 2 cups chana, 1 1/2 cups rice, 1 cup edamame.
+
+THIS CONTAINER LEAVES THE KITCHEN FINISHED. Initial and day on the lid, nothing to add on the day. You take it out of the fridge and go.""",
     "", "1", "5 min", "", "5 min")
 
 add("lunch-mediterranean-bowl", "Tuesday & Thursday Lunch — Mediterranean Bowl", LUNCH,
@@ -542,6 +546,10 @@ Tahini-lemon sauce, PACKED SEPARATELY""",
      "Tuesday's is packed on prep day; Thursday's is packed Wednesday night, so nothing you eat is five days old."],
     """This is the one bowl with no tofu in it, and that's deliberate — the protein is the roasted chickpeas off the harissa tray plus the tahini, around 33 g. It keeps chickpeas and crumbles from competing for the same slot. Add an edamame scoop if you're short.
 
+PORTIONS — Person A: 1 cup rice, 1 cup harissa veg, 1/2 cup roasted chickpeas, cucumber and tomato, 2 tbsp tahini. Person B: 1 1/2 cups rice, 1 1/2 cups harissa veg, 3/4 cup roasted chickpeas, PLUS 1/2 cup edamame, 3 tbsp tahini.
+
+The edamame is Person B's only addition here — this bowl's protein is the chickpeas, and B needs the extra scoop to match the other days.
+
 IT'S GENUINELY GOOD COLD. Don't feel obliged to microwave it.
 
 From week 3, sliced shawarma seitan turns this into a shawarma bowl and takes it to about 50 g of protein. The tahini and pickled onions are already there.""",
@@ -557,7 +565,11 @@ Gochujang-sesame sauce, PACKED SEPARATELY""",
     ["Rice, roasted veg, edamame and cucumber in the main container.",
      "Sichuan crumbles and gochujang-sesame in two small separate containers.",
      "At work: reheat the main container, THEN scatter the crumbles on and add the sauce."],
-    "Crumbles packed against wet rice lose everything that makes them worth making. The two extra containers are worth the thirty seconds.",
+    """PORTIONS — Person A: 1 cup rice, 1 cup roasted veg, 1/2 cup edamame, cucumber; 1/2 cup crumbles and 2 tbsp sauce in their own pots. Person B: 1 1/2 cups rice, 1 cup roasted veg, 1 cup edamame, cucumber; 3/4 cup crumbles and 3 tbsp sauce.
+
+Crumbles packed against wet rice lose everything that makes them worth making. The two extra pots travel WITH the container, taped to it or nested inside — they are part of this lunch, not a thing to remember on the day.
+
+THE SICHUAN ZONE IS THE TIGHTEST OF THE THREE. These two bowls take about 1 1/4 cups of roughly 2. That's why Wednesday dinner's crumbles are optional — if you want them in the chowmein too, make that zone bigger on prep day rather than short the lunches.""",
     "", "1", "5 min", "", "5 min")
 
 add("lunch-fri-aloo-tama-bowl", "Friday Lunch — Aloo Tama Bowl", LUNCH,
@@ -571,7 +583,9 @@ Lemon wedge, packed separately""",
      "EDAMAME STRAIGHT FROM FROZEN, half a cup at least. It thaws in the fridge overnight and reheats with everything else — and it's what closes the protein gap this anchor leaves.",
      "Lemon wedge in its own corner.",
      "Packed Wednesday night rather than prep day, so it's two days old rather than five."],
-    "THE EDAMAME MATTERS MORE IN THIS BOWL THAN THE OTHERS. Aloo tama is the lightest anchor on protein — about 10 g a serving — so this is the one lunch where skipping the scoop actually shows up in your day's total.",
+    """PORTIONS — Person A: 1 1/2 cups aloo tama, 1 cup rice, 1/2 cup roasted veg, 1/2 cup edamame. Person B: 2 cups aloo tama, 1 1/2 cups rice, 1/2 cup roasted veg, 1 cup edamame.
+
+THE EDAMAME MATTERS MORE IN THIS BOWL THAN THE OTHERS. Aloo tama is the lightest anchor on protein — about 10 g a serving — so this is the one lunch where skipping the scoop actually shows up in your day's total. It goes in on Wednesday night with everything else.""",
     "", "1", "5 min", "", "5 min", ["Nepali"])
 
 # =============================================================== BREAKFAST

@@ -103,7 +103,7 @@ only** · tomato paste · canned black beans · salsa
 | Zucchini | 1 — the harissa tray |
 | Cabbage | 1 medium — the stir-fry pack **and** the taco slaw |
 | **Pre-shredded coleslaw mix** | 1 bag — optional, saves 12 min of Sunday shredding |
-| **Canned chickpeas** | 1 can — roasted on the harissa tray, protein for both Med bowls |
+| **Canned chickpeas** | 2 cans — roasted on the harissa tray, the protein in all four Med bowls (Tue + Thu, both of you) |
 | Cucumber | 2 |
 | Cherry tomatoes | 1 pint |
 | Scallions | 2 bunches |

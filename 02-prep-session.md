@@ -52,7 +52,7 @@ scallions · lemons · limes
 
 Dried chickpeas (soaking) · dried black-eyed peas (soaking) · basmati rice ·
 **tama — fermented bamboo shoot, drained and rinsed** · crushed tomatoes (1 × 28 oz) ·
-tomato paste · canned chickpeas (1) · tahini · gochujang · harissa · cornstarch ·
+tomato paste · canned chickpeas (2) · tahini · gochujang · harissa · cornstarch ·
 nutritional yeast · maple syrup · soy sauce · rice vinegar · mustard oil · sesame oil ·
 olive oil · chili crisp
 
@@ -118,7 +118,7 @@ en place list onto the counter.
 | **0:20** | Crumbles into the oven. **25–30 min, stir at 15.** |
 | **0:22** | **Tofu — 10 minutes.** Squeeze the 2 thawed blocks hard over the sink; they release a startling amount of water. Cube. **Mix the marinade: 3 tbsp soy sauce · 1 tbsp rice vinegar · 1 tbsp maple syrup · 2 tsp sesame oil · 3 cloves grated garlic · 1 tbsp grated ginger · 2 tbsp cornstarch.** Toss the cubes through it. Set aside. |
 | **0:32** | **Two veg trays — 22 minutes, washing included.** This is the longest single job in the session. Cut everything roughly the same size; that matters more than what you cut. |
-| | **Harissa tray** — 1 head cauliflower · 1 red pepper · 1 red onion · 1 zucchini · **1 can chickpeas, drained and patted dry**. Toss with 2 tbsp harissa, 2 tbsp olive oil, salt. *The chickpeas roast crisp and become the protein in both Mediterranean bowls.* |
+| | **Harissa tray** — 1 head cauliflower · 1 red pepper · 1 red onion · 1 zucchini · **2 cans chickpeas, drained and patted dry**. Toss with 2 tbsp harissa, 2 tbsp olive oil, salt. *The chickpeas roast crisp and become the protein in all four Mediterranean bowls — Tuesday and Thursday, both of you. Give them room; crowded chickpeas steam instead of crisping, so tip the second can onto the chili-cumin tray if the harissa one is full.* |
 | | **Chili-cumin tray** — 2 sweet potatoes · 1 red onion · 1 bell or poblano pepper · 1 cup corn. Toss with 2 tsp cumin, 2 tsp chili powder, 1 tsp smoked paprika, oil, salt. |
 | **0:50** | Crumbles out of the oven. |
 | **0:54** | Both veg trays in. **30 min at 425°F.** |
@@ -149,11 +149,29 @@ twenty containers.
    **Dinners are never packed into containers** — you eat them at home.
 2. **Rice: half to the fridge, half frozen flat in portions.** Frozen rice microwaves
    better than four-day-old fridge rice, and it skips the food-safety question entirely.
-3. **Pack Monday, Tuesday and Wednesday's lunches now.** Thursday and Friday get packed
-   Wednesday night. See [`01-the-plan.md`](01-the-plan.md) for what goes in each.
+3. **Pack Monday, Tuesday and Wednesday's lunches now** — Thursday and Friday get packed
+   Wednesday night. Amounts for each bowl are in [`01-the-plan.md`](01-the-plan.md) and on
+   every lunch recipe.
+
+   **A container leaves this kitchen finished.** One container is one person's whole lunch.
+   Nothing gets added on the day, nothing gets decided in the morning — you open the fridge,
+   take the one with your initial on it, and leave. If a bowl needs a sauce or crumbles kept
+   dry, those small pots are taped to it or nested inside, so they travel as one object.
+
+   **You do not need measuring cups for this.** Fill by layer and let the container's own
+   height do the work: **rice to a third, the main to three-quarters, edamame and veg fill
+   the rest.** In a 3-cup container that lands on 1 cup rice, 1½ cups main, ½ cup edamame —
+   Person A's portion, hit without measuring anything.
+
+   **Person B doesn't measure differently — Person B gets a bigger container.** Use the
+   larger ones you own for B and the smaller for A, and the same fill-by-layer rule gives
+   both of you the right portion. If all your containers are the same size, B's extra
+   half-cup of edamame goes in a side pot.
 4. **Crumbles get their own container**, and stay divided by zone.
 5. **Sauces into jars, undressed.**
-6. **Label everything with the date.** You will not remember.
+6. **Label every lunch with an initial and a day** — `A · Tue`, `B · Wed`. Date the bulk
+   tubs and freezer bags. You will not remember, and a morning spent working out whose
+   container is whose is the thing this whole session exists to prevent.
 
 ---
 

@@ -29,13 +29,29 @@ frozen banana + ground flax + soy milk. See [`05-nutrition.md`](05-nutrition.md)
 Five lunches × two people = **ten containers**. Pack Monday through Wednesday on Sunday;
 pack Thursday and Friday on Wednesday night so nothing you eat is five days old.
 
+**One container is one person's whole lunch, finished.** Nothing gets added on the day and
+nothing gets decided in the morning — you open the fridge, take the one with your initial
+on it, and leave. Amounts below are *Person A / Person B*.
+
 | Day | Container | Packed separately |
 |---|---|---|
-| **Mon** | Chana masala · rice · shelled edamame · cilantro | Lemon wedge |
-| **Tue** | Rice · harissa roasted veg · roasted chickpeas · cucumber · cherry tomato · pickled onion · parsley | **Tahini-lemon sauce** |
-| **Wed** | Rice · roasted veg · edamame · cucumber | **Sichuan crumbles** and **gochujang-sesame** |
-| **Thu** | Same as Tuesday | **Tahini-lemon sauce** |
-| **Fri** | Rice · aloo tama bodi · roasted veg · edamame | Lemon wedge |
+| **Mon** | Chana 1½ / 2 c · rice 1 / 1½ c · edamame ½ / 1 c · cilantro | Lemon wedge |
+| **Tue** | Rice 1 / 1½ c · harissa veg 1 / 1½ c · roasted chickpeas ½ / ¾ c · cucumber · cherry tomato · pickled onion · parsley · **B adds ½ c edamame** | **Tahini-lemon** 2 / 3 tbsp |
+| **Wed** | Rice 1 / 1½ c · roasted veg 1 c · edamame ½ / 1 c · cucumber | **Sichuan crumbles** ½ / ¾ c · **gochujang-sesame** 2 / 3 tbsp |
+| **Thu** | Same as Tuesday, packed Wednesday night | **Tahini-lemon** 2 / 3 tbsp |
+| **Fri** | Aloo tama 1½ / 2 c · rice 1 / 1½ c · roasted veg ½ c · edamame ½ / 1 c | Lemon wedge |
+
+**You don't need measuring cups for this.** Fill by layer and let the container's own height
+do the work: **rice to a third, the main to three-quarters, edamame and veg fill the rest.**
+In a 3-cup container that lands on 1 cup rice, 1½ cups main, ½ cup edamame — Person A's
+portion, hit without measuring anything.
+
+**Person B doesn't measure differently — Person B gets a bigger container.** Use the larger
+ones you own for B and the smaller for A. If every container is the same size, B's extra
+edamame goes in a side pot.
+
+**Label each one with an initial and a day** — `A · Tue`, `B · Wed`. Small pots of sauce or
+crumbles get taped to their container or nested inside, so each lunch travels as one object.
 
 **Friday's bowl needs its edamame scoop.** Aloo tama is the lightest anchor on protein at
 about 10 g a serving, so this is the one lunch where skipping the scoop actually shows up in
@@ -120,7 +136,8 @@ anything repeats.
 ## Portioning
 
 You two are roughly 100 lb and 183 lb, so a single portion size can't work. Rather than
-cooking two menus, cook one and **boost at the plate.**
+cooking two menus, cook one and **boost at the plate** — which for lunches means a bigger
+container, not a different recipe. The per-bowl amounts above all come from this table.
 
 | | Person A (~103 lb) | Person B (~183 lb) |
 |---|---|---|

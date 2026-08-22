@@ -23,6 +23,10 @@
 
 This is the one bowl with no tofu in it, and that's deliberate — the protein is the roasted chickpeas off the harissa tray plus the tahini, around 33 g. It keeps chickpeas and crumbles from competing for the same slot. Add an edamame scoop if you're short.
 
+PORTIONS — Person A: 1 cup rice, 1 cup harissa veg, 1/2 cup roasted chickpeas, cucumber and tomato, 2 tbsp tahini. Person B: 1 1/2 cups rice, 1 1/2 cups harissa veg, 3/4 cup roasted chickpeas, PLUS 1/2 cup edamame, 3 tbsp tahini.
+
+The edamame is Person B's only addition here — this bowl's protein is the chickpeas, and B needs the extra scoop to match the other days.
+
 IT'S GENUINELY GOOD COLD. Don't feel obliged to microwave it.
 
 From week 3, sliced shawarma seitan turns this into a shawarma bowl and takes it to about 50 g of protein. The tahini and pickled onions are already there.

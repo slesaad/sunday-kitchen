@@ -15,7 +15,7 @@ Two trays, two spice profiles. The backbone of hands-off prep.
 - 1 red pepper
 - 1 red onion
 - 1 zucchini
-- 1 can chickpeas, drained and patted dry
+- 2 cans chickpeas, drained and patted dry
 - 2 tbsp harissa
 - 2 tbsp olive oil
 - Salt
@@ -35,11 +35,13 @@ Two trays, two spice profiles. The backbone of hands-off prep.
 ## Method
 
 1. Cut everything roughly the same size. This matters more than what you cut.
-2. Toss the harissa tray with harissa, olive oil and salt. Jarred is fine; the five-minute Pantry Harissa in the sauces section is better and cheaper. The chickpeas roast crisp and become the protein in both Mediterranean bowls.
+2. Toss the harissa tray with harissa, olive oil and salt. Jarred is fine; the five-minute Pantry Harissa in the sauces section is better and cheaper. The chickpeas roast crisp and become the protein in all four Mediterranean bowls, so GIVE THEM ROOM — crowded chickpeas steam instead of crisping. Tip the second can onto the chili-cumin tray if the harissa one is full.
 3. Toss the chili-cumin tray with cumin, chili powder, smoked paprika, oil and salt.
 4. Both trays at 425°F for 30 minutes.
 
 ## Notes
+
+TWO CANS OF CHICKPEAS, NOT ONE. The Mediterranean bowl runs Tuesday AND Thursday for both of you — that is four bowls, not two. One can yields about 1 1/4 cups roasted, which works out to a third of a cup a bowl and is not enough to be anyone's protein.
 
 Budget 20 minutes of chopping for the pair — it's the longest single job in the prep session.
 

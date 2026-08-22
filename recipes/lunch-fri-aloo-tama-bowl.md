@@ -20,4 +20,6 @@
 
 ## Notes
 
-THE EDAMAME MATTERS MORE IN THIS BOWL THAN THE OTHERS. Aloo tama is the lightest anchor on protein — about 10 g a serving — so this is the one lunch where skipping the scoop actually shows up in your day's total.
+PORTIONS — Person A: 1 1/2 cups aloo tama, 1 cup rice, 1/2 cup roasted veg, 1/2 cup edamame. Person B: 2 cups aloo tama, 1 1/2 cups rice, 1/2 cup roasted veg, 1 cup edamame.
+
+THE EDAMAME MATTERS MORE IN THIS BOWL THAN THE OTHERS. Aloo tama is the lightest anchor on protein — about 10 g a serving — so this is the one lunch where skipping the scoop actually shows up in your day's total. It goes in on Wednesday night with everything else.
