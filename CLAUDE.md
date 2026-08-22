@@ -12,9 +12,10 @@ and the open items. Read it before changing anything.
 ## The one architectural rule
 
 **`build.py` is the single source of truth for all recipes.** It generates `recipes.html`,
-every file in `recipes/`, the icons, the manifest, and the Paprika archive.
+every file in `recipes/`, the icons, the manifest, `anchors.js`, and the Paprika archive.
 
-**Never hand-edit `recipes.html` or `recipes/*.md`** — edit `RECIPES` in `build.py` and rerun:
+**Never hand-edit `recipes.html`, `recipes/*.md`, or `anchors.js`** — edit `RECIPES` (or
+`ANCHOR_SWAP`, for the plan page's anchor picker) in `build.py` and rerun:
 
 ```bash
 python3 build.py              # site + markdown + icons
@@ -23,6 +24,16 @@ python3 build.py --paprika    # also rebuild the Paprika archive (gitignored)
 
 Hand-authored: `index.html`, `style.css`, `app.js`, `README.md`, and the numbered
 `0*.md` files.
+
+## The anchor picker
+
+The plan page can switch its Instant Pot anchor (chana / rajma). The cooking facts that
+differ live in `ANCHOR_SWAP` in `build.py`, which emits `anchors.js`; `app.js` drops them
+into `[data-anchor-slot]` elements in `index.html`. **Adding a fact that differs by anchor
+means adding a key to `ANCHOR_SWAP` and a matching `data-anchor-slot` in `index.html`** —
+otherwise it silently keeps saying "chana" on a rajma week. Grep `index.html` for `chana`
+after any change; only the picker button, the rotation table, and the rajma note should
+mention it once rajma is selected.
 
 ## Editing index.html
 

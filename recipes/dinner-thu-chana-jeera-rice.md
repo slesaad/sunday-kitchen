@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- Chana masala, from the prep session
+- Chana masala — or rajma, or whichever Instant Pot anchor this week uses
 - Cooked rice
 - 1 tsp cumin seeds
 - Oil

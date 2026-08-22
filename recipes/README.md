@@ -10,6 +10,7 @@ Cooked in double batches. Half this week, half flat-frozen for next.
 | Recipe | Yield | Time |
 |---|---|---|
 | [Chana Masala](anchor-chana-masala.md) | 8 | 65 min |
+| [Rajma](anchor-rajma.md) | 8 | 75 min |
 | [Aloo Tama Bodi](anchor-aloo-tama-bodi.md) | 8 | 50 min |
 
 ## Components

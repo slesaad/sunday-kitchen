@@ -99,6 +99,51 @@
   }
 
 
+  /* ---- this week's Instant Pot anchor ----
+     The cooking data lives in build.py and reaches us via anchors.js; all this
+     does is drop each anchor's facts into the [data-anchor-slot] elements and
+     remember which one you picked. Swapping the anchor moves real timings, not
+     just a name — kidney beans hold the pot ~12 minutes longer than chickpeas —
+     which is why the pot steps and the rice clocks are slots too. */
+  var anchorPick = document.querySelector('.anchor-pick');
+  var ANCHORS = window.SK_ANCHORS;
+  if (anchorPick && ANCHORS) {
+    var ANCHOR_KEY = 'sk-anchor-v1';
+    var fallback = anchorPick.querySelector('button').dataset.anchor;
+
+    var applyAnchor = function (key) {
+      var data = ANCHORS[key];
+      if (!data) return false;
+      Object.keys(data).forEach(function (slot) {
+        document.querySelectorAll('[data-anchor-slot="' + slot + '"]').forEach(function (el) {
+          el.innerHTML = data[slot];
+          // A slot with nothing to say (chana has no note) shouldn't leave a gap.
+          if (el.hasAttribute('hidden') || el.classList.contains('anchor-note')) {
+            el.hidden = !data[slot];
+          }
+        });
+      });
+      anchorPick.querySelectorAll('button').forEach(function (b) {
+        b.setAttribute('aria-pressed', String(b.dataset.anchor === key));
+      });
+      return true;
+    };
+
+    var stored = null;
+    try { stored = localStorage.getItem(ANCHOR_KEY); } catch (e) { stored = null; }
+    if (!applyAnchor(stored)) applyAnchor(fallback);
+
+    anchorPick.addEventListener('click', function (e) {
+      var btn = e.target.closest('button[data-anchor]');
+      if (!btn || !applyAnchor(btn.dataset.anchor)) return;
+      try { localStorage.setItem(ANCHOR_KEY, btn.dataset.anchor); } catch (err) {}
+    });
+
+    // Only reveal the picker once we know the data loaded — without anchors.js
+    // the page is still a complete, correct chana week.
+    anchorPick.hidden = false;
+  }
+
   /* ---- show one prep track at a time ---- */
   var picks = document.querySelectorAll('.track-pick button');
   var tracks = document.querySelector('.tracks');

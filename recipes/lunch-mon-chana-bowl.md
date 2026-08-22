@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- Chana masala
+- Chana masala, or whichever Instant Pot anchor this week uses
 - Cooked rice
 - Shelled edamame
 - Cilantro

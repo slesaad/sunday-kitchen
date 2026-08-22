@@ -39,28 +39,34 @@
     <h1>Sunday Kitchen</h1>
     <p>Two anchor dishes carry the lunches. A kit of parts becomes a different dinner each night. Half of it goes in the freezer, so every other weekend is nearly free.</p>
     <dl class="ledger">
-      <div><dt>Week A prep</dt><dd>2:45</dd></div>
+      <div><dt>Week A prep</dt><dd data-anchor-slot="session">2:45</dd></div>
       <div><dt>Week B prep</dt><dd>1:00</dd></div>
       <div><dt>Weeknight</dt><dd>15–18<small> min</small></dd></div>
       <div><dt>Protein / day</dt><dd>95<small> + 160 g</small></dd></div>
     </dl>
     <p style="font-size:0.88rem;margin-top:1rem;color:var(--ink-faint);">Add ~15 min on falafel weeks. Every time here is wall clock, not hands-on — it counts the Instant Pot coming to pressure, the natural release, and two pots of beans soaking overnight.</p>
     <div class="controls">
-      <a class="controls-link" href="recipes.html" style="text-decoration:none;"><button type="button">All 25 recipes &rarr;</button></a>
+      <a class="controls-link" href="recipes.html" style="text-decoration:none;"><button type="button">All 26 recipes &rarr;</button></a>
     </div>
+    <div class="controls anchor-pick" hidden>
+      <span class="anchor-pick-label">This week&rsquo;s Instant&nbsp;Pot anchor</span>
+      <button type="button" data-anchor="chana" aria-pressed="true">Chana masala</button>
+      <button type="button" data-anchor="rajma" aria-pressed="false">Rajma</button>
+    </div>
+    <p class="anchor-note" data-anchor-slot="note" hidden></p>
   </header>
 
   <section id="week">
     <div class="head">
       <p class="eyebrow">One</p>
       <h2>The week</h2>
-      <p>Nothing repeats within three days. The chana masala appears Monday lunch and Thursday dinner; the aloo tama, Tuesday dinner and Friday lunch. Tofu crumbles show up three times, but in three different spice profiles, so they don't read as the same food.</p>
+      <p>Nothing repeats within three days. The <span data-anchor-slot="short">chana</span> appears Monday lunch and Thursday dinner; the aloo tama, Tuesday dinner and Friday lunch. Tofu crumbles show up three times, but in three different spice profiles, so they don't read as the same food.</p>
     </div>
 
     <div class="week">
       <div class="day">
         <p class="eyebrow">Monday</p>
-        <div class="meal"><b>Lunch</b><span>Chana masala bowl</span></div>
+        <div class="meal"><b>Lunch</b><span data-anchor-slot="mon-lunch">Chana masala bowl</span></div>
         <div class="meal"><b>Dinner</b><span><a href="recipes.html#dinner-mon-sticky-tofu">Sticky tofu, rice, roasted veg</a></span><span class="mins">15 min · 10 hands-on</span></div>
         <p class="cuisine">Chinese</p>
       </div>
@@ -79,7 +85,7 @@
       <div class="day">
         <p class="eyebrow">Thursday</p>
         <div class="meal"><b>Lunch</b><span>Mediterranean bowl</span></div>
-        <div class="meal"><b>Dinner</b><span><a href="recipes.html#dinner-thu-chana-jeera-rice">Chana, jeera rice, crumble sabzi</a></span><span class="mins">15 min · 12 hands-on</span></div>
+        <div class="meal"><b>Dinner</b><span><a href="recipes.html#dinner-thu-chana-jeera-rice" data-anchor-slot="thu-dinner">Chana, jeera rice, crumble sabzi</a></span><span class="mins">15 min · 12 hands-on</span></div>
         <p class="cuisine">South Asian</p>
       </div>
       <div class="day">
@@ -125,7 +131,7 @@
       <table>
         <thead><tr><th>Component</th><th>Batch makes</th><th>Freezer</th><th>The rest of it</th></tr></thead>
         <tbody>
-          <tr><td><strong>Chana masala</strong></td><td>8 servings</td><td>4, flat</td><td><strong>2 → Monday lunch containers</strong> (pack Sunday) · <strong>2 → tub labelled "Thursday dinner"</strong></td></tr>
+          <tr><td><strong data-anchor-slot="batch-name">Chana masala</strong></td><td>8 servings</td><td>4, flat</td><td><strong>2 → Monday lunch containers</strong> (pack Sunday) · <strong>2 → tub labelled "Thursday dinner"</strong></td></tr>
           <tr><td><strong>Aloo tama bodi</strong></td><td>8 servings</td><td>4, flat</td><td><strong>2 → tub labelled "Tuesday dinner"</strong> · <strong>2 → Friday lunch</strong>, packed Wednesday night</td></tr>
           <tr><td><strong>Rice</strong></td><td>~19 cups</td><td>4 cups, flat</td><td>~11 cups across the ten lunch containers · ~4 cups held back for Monday and Thursday dinners</td></tr>
           <tr><td><strong>Crispy tofu</strong></td><td>2 blocks</td><td>—</td><td>Half → Monday dinner · half → the week's protein boosters</td></tr>
@@ -157,7 +163,7 @@
       <table>
         <thead><tr><th>Day</th><th>In the container <span style="font-weight:400;text-transform:none;letter-spacing:0;">(Person A / Person B)</span></th><th>Separately</th></tr></thead>
         <tbody>
-          <tr><td><a href="recipes.html#lunch-mon-chana-bowl">Mon</a></td><td>Chana masala 1½ / 2 cups · rice 1 / 1½ cups · edamame ½ / 1 cup · cilantro</td><td>Lemon wedge</td></tr>
+          <tr><td><a href="recipes.html#lunch-mon-chana-bowl">Mon</a></td><td data-anchor-slot="mon-row">Chana masala 1½ / 2 cups · rice 1 / 1½ cups · edamame ½ / 1 cup · cilantro</td><td>Lemon wedge</td></tr>
           <tr><td><a href="recipes.html#lunch-mediterranean-bowl">Tue</a></td><td>Rice 1 / 1½ cups · harissa veg 1 / 1½ cups · roasted chickpeas ½ / ¾ cup · cucumber · tomato · pickled onion · parsley · <strong>B adds ½ cup edamame</strong></td><td><strong>Tahini-lemon</strong> 2 / 3 tbsp</td></tr>
           <tr><td><a href="recipes.html#lunch-wed-sichuan-crumble-bowl">Wed</a></td><td>Rice 1 / 1½ cups · roasted veg 1 cup · edamame ½ / 1 cup · cucumber</td><td><strong>Sichuan crumbles</strong> ½ / ¾ cup · gochujang-sesame 2 / 3 tbsp</td></tr>
           <tr><td><a href="recipes.html#lunch-mediterranean-bowl">Thu</a></td><td>Same as Tuesday, packed Wednesday night</td><td><strong>Tahini-lemon</strong> 2 / 3 tbsp</td></tr>
@@ -210,7 +216,7 @@
           <tr><td><a href="recipes.html#dinner-mon-sticky-tofu"><strong>Mon</strong></a></td><td>Crispy tofu · rice · chili-cumin veg</td><td>Air-fry the tofu 5 min, make the glaze, toss off the heat</td><td>15 · 10</td></tr>
           <tr><td><a href="recipes.html#dinner-tue-aloo-tama"><strong>Tue</strong></a></td><td><strong>Aloo tama tub — 2 servings</strong></td><td>Reheat curry and rice; crispy tofu through the air fryer</td><td>10 · 4</td></tr>
           <tr><td><a href="recipes.html#dinner-wed-chowmein"><strong>Wed</strong></a></td><td>Stir-fry pack · Sichuan crumbles · edamame</td><td>Noodles, hard-heat stir-fry, eggs, sauce</td><td>18 · 14</td></tr>
-          <tr><td><a href="recipes.html#dinner-thu-chana-jeera-rice"><strong>Thu</strong></a></td><td><strong>Chana tub — 2 servings</strong> · rice · cumin–garam crumbles · roasted veg</td><td>Jeera rice in one pan, sabzi in another, chana in the microwave</td><td>15 · 12</td></tr>
+          <tr><td><a href="recipes.html#dinner-thu-chana-jeera-rice"><strong>Thu</strong></a></td><td><strong><span data-anchor-slot="name">Chana masala</span> tub — 2 servings</strong> · rice · cumin–garam crumbles · roasted veg</td><td>Jeera rice in one pan, sabzi in another, <span data-anchor-slot="short">chana</span> in the microwave</td><td>15 · 12</td></tr>
           <tr><td><a href="recipes.html#dinner-fri-tacos"><strong>Fri</strong></a></td><td>Chili-lime crumbles · pickled onions</td><td>Beans, slaw, blistered tortillas — or <a href="recipes.html#dinner-fri-falafel-night">falafel from the freezer</a></td><td>18 · 15</td></tr>
         </tbody>
       </table>
@@ -227,14 +233,14 @@
       <p class="eyebrow">Five</p>
       <h2>Sunday, minute by minute</h2>
       <p>Most meal prep is slow because people use one heat source at a time. Here the Instant Pot, oven, stovetop and air fryer all run unattended and overlapping.</p>
-      <p><strong>The Instant Pot does two jobs:</strong> chana first, then rice. Don't run both at once — the pressure times aren't compatible.</p>
+      <p><strong>The Instant Pot does two jobs:</strong> <span data-anchor-slot="short">chana</span> first, then rice. Don't run both at once — the pressure times aren't compatible.</p>
       <p><strong>Either of you can take either track</strong> — they're interchangeable. That's different from Person A / Person B further down, which are fixed by bodyweight and only decide portion sizes.</p>
     </div>
 
     <div class="gantt-scroll">
       <div class="gantt">
         <div class="gantt-row"><span class="gantt-label">Knife work</span><div class="gantt-lane"><span class="bar wet" style="left:3%; width:7.3%;">aromatics</span><span class="bar dry" style="left:19.4%; width:13.3%;">veg trays</span><span class="bar dry" style="left:36.4%; width:10.9%;">stir-fry</span></div></div>
-        <div class="gantt-row"><span class="gantt-label">Instant Pot</span><div class="gantt-lane"><span class="bar wet" style="left:10.3%; width:32.1%;">chana</span><span class="bar wet" style="left:45.5%; width:15.2%;">rice</span></div></div>
+        <div class="gantt-row"><span class="gantt-label">Instant Pot</span><div class="gantt-lane" data-anchor-slot="gantt"><span class="bar wet" style="left:10.3%; width:32.1%;">chana</span><span class="bar wet" style="left:45.5%; width:15.2%;">rice</span></div></div>
         <div class="gantt-row"><span class="gantt-label">Stovetop</span><div class="gantt-lane"><span class="bar wet" style="left:20.6%; width:28.5%;">aloo tama</span></div></div>
         <div class="gantt-row"><span class="gantt-label">Oven</span><div class="gantt-lane"><span class="bar dry" style="left:12.1%; width:18.2%;">crumbles</span><span class="bar dry" style="left:32.7%; width:18.2%;">veg trays</span></div></div>
         <div class="gantt-row"><span class="gantt-label">Air fryer</span><div class="gantt-lane"><span class="bar dry" style="left:33.9%; width:10.9%;">tofu</span></div></div>
@@ -248,7 +254,7 @@
       </div>
     </div>
 
-    <div class="note" style="margin-bottom:1.75rem;"><p><strong>Two days before:</strong> put <strong>two</strong> blocks of extra-firm tofu in the freezer, still in their packages. <strong>Only these two</strong> — the crumbles are hand-crumbled from fresh tofu and want no freezing at all. <strong>Saturday:</strong> move them to the fridge to thaw, and soak <strong>2 cups dried chickpeas</strong> for the chana and <strong>2 cups dried black-eyed peas</strong> for the aloo tama, in separate bowls &mdash; plus a third, separate 2 cups of chickpeas on falafel weeks. Then read the mise en place list below, so you do not discover at 0:40 that there is no rice vinegar.</p></div>
+    <div class="note" style="margin-bottom:1.75rem;"><p><strong>Two days before:</strong> put <strong>two</strong> blocks of extra-firm tofu in the freezer, still in their packages. <strong>Only these two</strong> — the crumbles are hand-crumbled from fresh tofu and want no freezing at all. <strong>Saturday:</strong> move them to the fridge to thaw, and <span data-anchor-slot="soak">soak <strong>2 cups dried chickpeas</strong> for the chana</span> and <strong>2 cups dried black-eyed peas</strong> for the aloo tama, in separate bowls &mdash; plus a third, separate 2 cups of chickpeas on falafel weeks. Then read the mise en place list below, so you do not discover at 0:40 that there is no rice vinegar.</p></div>
 
     <h3 class="sub">Mise en place &mdash; take all of this out first</h3>
     <div class="prose"><p>Set it on the counter before the clock starts. Five minutes here saves twenty of opening cupboards with wet hands.</p></div>
@@ -259,7 +265,7 @@
       </div>
       <div class="card">
         <h3>Pantry</h3>
-        <p>Dried chickpeas (soaking) &middot; dried <strong>black-eyed peas</strong> (soaking) &middot; basmati rice &middot; <strong>tama &mdash; drained and rinsed</strong> &middot; crushed tomatoes (1 &times; 28 oz) &middot; tomato paste &middot; canned chickpeas (2) &middot; tahini &middot; gochujang &middot; harissa &middot; cornstarch &middot; nutritional yeast &middot; maple syrup &middot; soy sauce &middot; rice vinegar &middot; mustard oil &middot; sesame oil &middot; olive oil &middot; chili crisp</p>
+        <p><span data-anchor-slot="mise">Dried chickpeas (soaking)</span> &middot; dried <strong>black-eyed peas</strong> (soaking) &middot; basmati rice &middot; <strong>tama &mdash; drained and rinsed</strong> &middot; crushed tomatoes (1 &times; 28 oz) &middot; tomato paste &middot; canned chickpeas (2) &middot; tahini &middot; gochujang &middot; harissa &middot; cornstarch &middot; nutritional yeast &middot; maple syrup &middot; soy sauce &middot; rice vinegar &middot; mustard oil &middot; sesame oil &middot; olive oil &middot; chili crisp</p>
       </div>
       <div class="card">
         <h3>Spices</h3>
@@ -286,10 +292,10 @@
         </header>
         <ol>
           <li><span class="clock">0:00</span><span>Setup, both of you. Oven to 425&deg;F. Three sheet pans lined. Everything from the mise en place list onto the counter.</span></li>
-          <li><span class="clock">0:05</span><span><strong>Knife work &mdash; 10 minutes, and all of it before anything cooks.</strong> Wash and dice <strong>2 large onions</strong> (chana). Mince <strong>6 cloves garlic</strong> and <strong>2 tbsp ginger</strong> (chana). Then quarter <strong>2 more onions</strong> for the aloo tama, and cut <strong>1 lb waxy potatoes into 1-inch chunks</strong>, held in cold water so they don't brown.</span></li>
-          <li><span class="clock">0:17</span><span><strong>Chana.</strong> Saut&eacute; mode, 2 tbsp oil, <strong>2 tsp cumin seeds</strong> until they sizzle and darken. Then the diced onions &mdash; <strong>a full 10 minutes</strong>, until genuinely golden.</span></li>
+          <li><span class="clock">0:05</span><span><strong>Knife work &mdash; 10 minutes, and all of it before anything cooks.</strong> Wash and dice <strong>2 large onions</strong> (<span data-anchor-slot="short">chana</span>). Mince <strong>6 cloves garlic</strong> and <strong>2 tbsp ginger</strong> (<span data-anchor-slot="short">chana</span>). Then quarter <strong>2 more onions</strong> for the aloo tama, and cut <strong>1 lb waxy potatoes into 1-inch chunks</strong>, held in cold water so they don't brown.</span></li>
+<span data-anchor-slot="pot-steps" style="display:contents;"><li><span class="clock">0:17</span><span><strong>Chana.</strong> Saut&eacute; mode, 2 tbsp oil, <strong>2 tsp cumin seeds</strong> until they sizzle and darken. Then the diced onions &mdash; <strong>a full 10 minutes</strong>, until genuinely golden.</span></li>
           <li><span class="clock">0:27</span><span>Garlic and ginger, 1 min. Then <strong>2 tbsp tomato paste</strong> and the ground spices &mdash; <strong>2 tbsp coriander, 1 tbsp cumin, 2 tsp turmeric, 1&ndash;2 tsp kashmiri chili</strong> &mdash; 1 min, to bloom in the fat.</span></li>
-          <li><span class="clock">0:30</span><span><strong>1 &times; 28 oz crushed tomatoes</strong>, the drained soaked chickpeas, <strong>2&frac12; cups water</strong>, <strong>2 tsp salt</strong>. Seal, 18 min high pressure, 10 min natural release. <strong>~12 min just to come to pressure</strong> &mdash; that is why it is done at 1:12.<span class="hands-off">hands off &rarr; 1:12</span></span></li>
+          <li><span class="clock">0:30</span><span><strong>1 &times; 28 oz crushed tomatoes</strong>, the drained soaked chickpeas, <strong>2&frac12; cups water</strong>, <strong>2 tsp salt</strong>. Seal, 18 min high pressure, 10 min natural release. <strong>~12 min just to come to pressure</strong> &mdash; that is why it is done at 1:12.<span class="hands-off">hands off &rarr; 1:12</span></span></li></span>
           <li><span class="clock">0:32</span><span>Pulse the <strong>2 quartered onions</strong> in the food processor &mdash; 30 seconds, to a coarse dice. Wash the bowl; the sauces want it clean.</span></li>
           <li><span class="clock">0:34</span><span><strong>Aloo tama bodi. FRY THE TAMA FIRST</strong> &mdash; <strong>1&frac12; cups drained, rinsed tama</strong> into <strong>3 tbsp mustard oil</strong>, <strong>5 minutes</strong>. <em>This is the step people skip and it is the one that matters. Straight from the jar the bamboo shoot is aggressively sour; frying rounds it into something savory.</em></span></li>
           <li><span class="clock">0:39</span><span>The onions in, <strong>10 minutes</strong>, until soft and browning at the edges. <strong>8 cloves garlic</strong> and <strong>2 tbsp ginger</strong> for the last minute.</span></li>
@@ -297,11 +303,11 @@
           <li><span class="clock">0:51</span><span><strong>The drained bodi</strong> and <strong>6 cups water</strong>. Bring up, then simmer.<span class="hands-off">potatoes in at 1:01</span></span></li>
           <li><span class="clock">0:55</span><span><strong>Two sauces</strong>, in this order so you wash the bowl once.<br><br><strong>Tahini-lemon</strong> &mdash; &frac12; cup tahini &middot; &frac14; cup lemon juice &middot; 2 cloves garlic &middot; &frac12; tsp cumin &middot; &frac12; tsp salt &middot; 4&ndash;6 tbsp cold water. <em>It seizes into cement before it loosens. Keep adding water.</em><br><br><strong>Gochujang-sesame</strong> &mdash; whisked in a jar, no processor: 3 tbsp gochujang &middot; 2 tbsp rice vinegar &middot; 2 tbsp toasted sesame oil &middot; 1 tbsp maple syrup &middot; 1 tbsp soy sauce &middot; 1 tbsp sesame seeds &middot; 1 grated garlic.</span></li>
           <li><span class="clock">1:10</span><span><strong>Falafel weeks only — 5 min.</strong> Wash the processor bowl once, then pulse the <strong>soaked-but-uncooked chickpeas, 1 onion, 5 cloves garlic, 1 packed cup parsley, 1 packed cup cilantro, 2 tsp cumin, 1 tsp coriander, ½ tsp cayenne, 1½ tsp salt</strong> to a <strong>coarse, couscous-like texture — not a purée</strong>. Into the fridge to rest. <em>Baking powder goes in later, at forming time.</em></span></li>
-          <li><span class="clock">1:12</span><span>Chana done. Mash a few chickpeas against the pot to thicken. <strong>1 tbsp garam masala</strong> and <strong>2 tsp amchur</strong> in <em>off the heat</em>. Spread on a pan to cool.</span></li>
-          <li><span class="clock">1:15</span><span><strong>Rice, batch 1.</strong> Rinse the pot. <strong>5 cups basmati, rinsed until the water runs clear, 5 cups water</strong>, pinch of salt. 6 min high pressure, <strong>full 10 min natural release</strong>. <em>Check your Instant Pot's half-full line — 5 cups dry is about the limit on a 6-quart.</em><span class="hands-off">hands off &rarr; 1:40</span></span></li>
+<span data-anchor-slot="pot-done" style="display:contents;"><li><span class="clock">1:12</span><span>Chana done. Mash a few chickpeas against the pot to thicken. <strong>1 tbsp garam masala</strong> and <strong>2 tsp amchur</strong> in <em>off the heat</em>. Spread on a pan to cool.</span></li>
+          <li><span class="clock">1:15</span><span><strong>Rice, batch 1.</strong> Rinse the pot. <strong>5 cups basmati, rinsed until the water runs clear, 5 cups water</strong>, pinch of salt. 6 min high pressure, <strong>full 10 min natural release</strong>. <em>Check your Instant Pot's half-full line — 5 cups dry is about the limit on a 6-quart.</em><span class="hands-off">hands off &rarr; 1:40</span></span></li></span>
           <li><span class="clock">1:21</span><span>Aloo tama done &mdash; bodi tender, potatoes giving to a knife, broth thickened to a loose gravy. Mash a few potatoes against the side if it is thin. <strong>Salt hard.</strong> Cilantro off the heat.</span></li>
           <li><span class="clock">1:28</span><span><strong>Rice, batch 2.</strong> The stovetop is free now. <strong>3 cups rinsed basmati, 4½ cups water</strong>, boil then lowest heat, lid on, 15 min, rest 10. One batch isn't enough — ten lunches plus two dinners need about 17 cups cooked.</span></li>
-          <li><span class="clock">1:40</span><span>Rice out. Fluff and spread on a sheet pan to cool fast.</span></li>
+<span data-anchor-slot="rice-out" style="display:contents;"><li><span class="clock">1:40</span><span>Rice out. Fluff and spread on a sheet pan to cool fast.</span></li></span>
         </ol>
       </div>
 
@@ -347,8 +353,8 @@
         <tbody>
           <tr><td><strong>Pre-shredded coleslaw mix</strong> instead of shredding the stir-fry pack</td><td class="num">12 min</td></tr>
           <tr><td><strong>One bag of pre-cut vegetables</strong> for a roasting tray</td><td class="num">10 min</td></tr>
-                    <tr><td><strong>Pre-diced onion</strong> for the chana and the aloo tama</td><td class="num">8 min</td></tr>
-          <tr><td><strong>Canned chickpeas</strong> for the chana — 5 min pressure instead of 18</td><td class="num">25 min clock</td></tr>
+                    <tr><td><strong>Pre-diced onion</strong> for the <span data-anchor-slot="short">chana</span> and the aloo tama</td><td class="num">8 min</td></tr>
+          <tr><td><strong>Canned beans</strong> for the <span data-anchor-slot="short">chana</span> — far less time at pressure</td><td class="num">25 min clock</td></tr>
         </tbody>
       </table>
     </div>
@@ -375,9 +381,9 @@
       <section>
         <h3>Indian grocery</h3>
         <ul>
-          <li><label><input type="checkbox"><span>Dried chickpeas, 4 lb</span></label></li>
+          <li><label><input type="checkbox"><span data-anchor-slot="shop">Dried chickpeas, 4 lb &mdash; 2 cups a week for the chana</span></label></li>
           <li><label><input type="checkbox"><span><strong>Black-eyed peas (bodi), 4 lb</strong> &mdash; the aloo tama anchor, 2 cups a week</span></label></li>
-          <li><label><input type="checkbox"><span>Red lentils, small bag &mdash; only for the optional ½ cup in the chana</span></label></li>
+          <li><label><input type="checkbox"><span>Red lentils, small bag &mdash; only for the optional ½ cup in the <span data-anchor-slot="short">chana</span></span></label></li>
           <li><label><input type="checkbox"><span>Basmati rice, 10 lb</span></label></li>
           <li><label><input type="checkbox"><span><strong>Week 3, not now:</strong> toor dal (dal tadka) &middot; vital wheat gluten, 2 lb (seitan)</span></label></li>
           <li><label><input type="checkbox"><span>Cumin seeds, ground cumin, coriander</span></label></li>
@@ -421,7 +427,7 @@
           <li><label><input type="checkbox"><span>Smoked paprika · chipotle</span></label></li>
           <li><label><input type="checkbox"><span>Caraway seeds — only if making your own harissa</span></label></li>
           <li><label><input type="checkbox"><span>Oregano &mdash; <strong>week 3 only</strong>, for the seitan chorizo</span></label></li>
-          <li><label><input type="checkbox"><span>Crushed tomatoes &mdash; <strong>one 28 oz can a week</strong>, for the chana only · tomato paste</span></label></li>
+          <li><label><input type="checkbox"><span>Crushed tomatoes &mdash; <strong>one 28 oz can a week</strong>, for the <span data-anchor-slot="short">chana</span> only · tomato paste</span></label></li>
           <li><label><input type="checkbox"><span>Black beans · salsa · tortillas</span></label></li>
           <li><label><input type="checkbox"><span>White vinegar</span></label></li>
         </ul>
@@ -429,7 +435,7 @@
       <section>
         <h3>Weekly produce</h3>
         <ul>
-          <li><label><input type="checkbox"><span>Onions ×4 — two for the chana, two for the aloo tama · red onions ×3 · garlic ×2</span></label></li>
+          <li><label><input type="checkbox"><span>Onions ×4 — two for the <span data-anchor-slot="short">chana</span>, two for the aloo tama · red onions ×3 · garlic ×2</span></label></li>
           <li><label><input type="checkbox"><span>Ginger, large knob</span></label></li>
           <li><label><input type="checkbox"><span>Carrots ×2 — for the stir-fry pack</span></label></li>
           <li><label><input type="checkbox"><span>Cauliflower (or broccoli)</span></label></li>
@@ -510,7 +516,7 @@
       </div>
       <div class="card">
         <h3>Iron, without a supplement</h3>
-        <p>Plant iron absorbs poorly alone, but <strong>vitamin C multiplies absorption several times over</strong>. This plan does it by accident — lemon on the chana, peppers in the roasted veg, lime on the tacos, lemon on Tuesday's curry. Keep it deliberate.</p>
+        <p>Plant iron absorbs poorly alone, but <strong>vitamin C multiplies absorption several times over</strong>. This plan does it by accident — lemon on the <span data-anchor-slot="short">chana</span>, peppers in the roasted veg, lime on the tacos, lemon on Tuesday's curry. Keep it deliberate.</p>
         <p><strong>Don't drink tea or coffee with meals.</strong> The polyphenols cut absorption substantially. Wait an hour.</p>
       </div>
       <div class="card">
@@ -537,6 +543,7 @@
   <p><a href="recipes.html">All 25 recipes</a></p>
 </footer>
 
+<script src="anchors.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

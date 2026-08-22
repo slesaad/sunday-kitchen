@@ -88,6 +88,46 @@ ROTATION PARTNERS for this slot: rajma, dal tadka, sambar-style lentil & vegetab
     "8", "15 min", "50 min", "65 min", ["South Asian"],
     ["lunch-mon-chana-bowl", "dinner-thu-chana-jeera-rice"])
 
+add("anchor-rajma", "Rajma", ANCHOR,
+    """2 cups dried red kidney beans, soaked overnight
+2 large onions, finely diced
+8 cloves garlic, minced
+2 tbsp ginger, minced
+1 can (28 oz) crushed tomatoes
+2 tbsp tomato paste
+2 tsp cumin seeds
+1 tsp fenugreek seeds (methi), optional
+2 tbsp ground coriander
+1 tbsp ground cumin
+2 tsp turmeric
+1-2 tsp kashmiri chili powder
+1 tbsp garam masala
+1 tsp amchur, or juice of 1 lemon
+3 tbsp oil
+2 tsp salt
+4 cups water
+Cilantro, to finish""",
+    ["Sauté mode. Oil, then cumin seeds and fenugreek until they sizzle and darken, about 30 seconds.",
+     "Onions, a full 12 minutes — longer than the chana wants. Rajma has less acidity to hide behind, so the onion sweetness is doing more of the work. Take it to genuinely brown, not just soft.",
+     "Garlic and ginger, 1 minute. Then tomato paste and all the GROUND spices, 1 minute, to bloom them in the fat.",
+     "Crushed tomatoes, drained beans, 4 cups water, salt. Cancel sauté, seal, 25 min high pressure, then a full 15 minutes natural release. Kidney beans want longer than chickpeas at both ends.",
+     "Mash a generous handful of beans against the side of the pot. Rajma should be thick enough to sit on rice, not run off it — this is the step that gets it there.",
+     "Garam masala and amchur OFF the heat. Cilantro."],
+    """SOAK THEM AND PRESSURE-COOK THEM. Raw red kidney beans contain a lectin that makes you genuinely ill, and — this is the counterintuitive part — a low, gentle simmer concentrates it rather than destroying it. A pressure cooker demolishes it completely, so the Instant Pot method here is the safe one. Never finish rajma in a slow cooker on low, and discard the soaking water.
+
+Four servings this week, four flat-frozen for next. Like the chana, better on day three.
+
+IT TAKES THE POT LONGER. 25 minutes at pressure plus a 15-minute natural release, against the chana's 18 and 10. On the prep-session timeline that pushes the anchor's finish from 1:12 to about 1:24, which still clears the stovetop before rice batch 2 — but it's why the Sunday plan shows different times when you switch anchors.
+
+Canned kidney beans work — 4 x 15 oz, drained and rinsed, dropped to 8 minutes at pressure. They're already cooked through, so the safety question doesn't arise.
+
+WITH GARDEN TOMATOES: about 2 lb fresh, and cut the added water to 3 cups. A sealed pot evaporates nothing.
+
+ROTATION PARTNERS for this slot: chana masala, dal tadka, sambar-style lentil & vegetable, aloo chana.""",
+    "The Instant Pot anchor, rajma week. Carries Monday's lunch and Thursday's dinner, half flat-frozen.",
+    "8", "15 min", "60 min", "75 min", ["South Asian"],
+    ["lunch-mon-chana-bowl", "dinner-thu-chana-jeera-rice"])
+
 add("anchor-aloo-tama-bodi", "Aloo Tama Bodi", ANCHOR,
     """2 cups dried black-eyed peas (bodi), soaked overnight
 1 1/2 cups tama (fermented bamboo shoot), drained and rinsed
@@ -443,7 +483,7 @@ TO GET IT TO 12 MINUTES: cook the noodles on prep day, two minutes under, tossed
     "", "2", "4 min", "14 min", "18 min", ["Nepali", "Indo-Chinese"])
 
 add("dinner-thu-chana-jeera-rice", "Thursday — Chana, Jeera Rice, Crumble Sabzi", DINNER,
-    """Chana masala, from the prep session
+    """Chana masala — or rajma, or whichever Instant Pot anchor this week uses
 Cooked rice
 1 tsp cumin seeds
 Oil
@@ -518,7 +558,7 @@ OPTIONAL HUMMUS takes four minutes in the food processor you already have out on
 # ================================================================= LUNCHES
 
 add("lunch-mon-chana-bowl", "Monday Lunch — Chana Masala Bowl", LUNCH,
-    """Chana masala
+    """Chana masala, or whichever Instant Pot anchor this week uses
 Cooked rice
 Shelled edamame
 Cilantro
@@ -946,10 +986,110 @@ def write_icons():
     return 3
 
 
+# ================================================== ANCHOR 1 — SWAPPABLE
+
+# The Instant Pot anchor changes every cycle, and swapping it moves more than a
+# name: kidney beans want longer at pressure than chickpeas, which pushes the
+# rice batches and the whole back half of the session. Each entry below is the
+# complete set of facts that differ. app.js drops these into [data-anchor-slot]
+# elements on the plan page, so the cooking data lives here and only here.
+ANCHOR_SWAP = {
+    "chana": {
+        "name": "Chana masala",
+        "short": "chana",
+        "mon-lunch": "Chana masala bowl",
+        "thu-dinner": "Chana, jeera rice, crumble sabzi",
+        "batch-name": "Chana masala",
+        "mon-row": "Chana masala 1\u00bd / 2 cups \u00b7 rice 1 / 1\u00bd cups \u00b7 edamame \u00bd / 1 cup \u00b7 cilantro",
+        "soak": "soak <strong>2 cups dried chickpeas</strong> for the chana",
+        "mise": "Dried chickpeas (soaking)",
+        "shop": "Dried chickpeas, 4 lb &mdash; 2 cups a week for the chana",
+        "session": "2:45",
+        "gantt": ('<span class="bar wet" style="left:10.3%; width:32.1%;">chana</span>'
+                  '<span class="bar wet" style="left:45.5%; width:15.2%;">rice</span>'),
+        "pot-steps": (
+            '<li><span class="clock">0:17</span><span><strong>Chana.</strong> Saut&eacute; mode, 2 tbsp oil, '
+            '<strong>2 tsp cumin seeds</strong> until they sizzle and darken. Then the diced onions &mdash; '
+            '<strong>a full 10 minutes</strong>, until genuinely golden.</span></li>'
+            '<li><span class="clock">0:27</span><span>Garlic and ginger, 1 min. Then <strong>2 tbsp tomato paste</strong> '
+            'and the ground spices &mdash; <strong>2 tbsp coriander, 1 tbsp cumin, 2 tsp turmeric, '
+            '1&ndash;2 tsp kashmiri chili</strong> &mdash; 1 min, to bloom in the fat.</span></li>'
+            '<li><span class="clock">0:30</span><span><strong>1 &times; 28 oz crushed tomatoes</strong>, the drained '
+            'soaked chickpeas, <strong>2&frac12; cups water</strong>, <strong>2 tsp salt</strong>. Seal, 18 min high '
+            'pressure, 10 min natural release. <strong>~12 min just to come to pressure</strong> &mdash; that is why '
+            'it is done at 1:12.<span class="hands-off">hands off &rarr; 1:12</span></span></li>'),
+        "pot-done": (
+            '<li><span class="clock">1:12</span><span>Chana done. Mash a few chickpeas against the pot to thicken. '
+            '<strong>1 tbsp garam masala</strong> and <strong>2 tsp amchur</strong> in <em>off the heat</em>. '
+            'Spread on a pan to cool.</span></li>'
+            '<li><span class="clock">1:15</span><span><strong>Rice, batch 1.</strong> Rinse the pot. <strong>5 cups '
+            'basmati, rinsed until the water runs clear, 5 cups water</strong>, pinch of salt. 6 min high pressure, '
+            '<strong>full 10 min natural release</strong>. <em>Check your Instant Pot’s half-full line &mdash; 5 cups '
+            'dry is about the limit on a 6-quart.</em><span class="hands-off">hands off &rarr; 1:40</span></span></li>'),
+        "rice-out": '<li><span class="clock">1:40</span><span>Rice out. Fluff and spread on a sheet pan to cool fast.</span></li>',
+        "note": "",
+    },
+    "rajma": {
+        "name": "Rajma",
+        "short": "rajma",
+        "mon-lunch": "Rajma bowl",
+        "thu-dinner": "Rajma, jeera rice, crumble sabzi",
+        "batch-name": "Rajma",
+        "mon-row": "Rajma 1\u00bd / 2 cups \u00b7 rice 1 / 1\u00bd cups \u00b7 edamame \u00bd / 1 cup \u00b7 cilantro",
+        "soak": "soak <strong>2 cups dried red kidney beans</strong> for the rajma, and <strong>throw the soaking water away</strong>",
+        "mise": "Dried red kidney beans (soaking)",
+        "shop": "Dried red kidney beans, 4 lb &mdash; 2 cups a week for the rajma",
+        "session": "3:00",
+        "gantt": ('<span class="bar wet" style="left:10.3%; width:40.0%;">rajma</span>'
+                  '<span class="bar wet" style="left:52.1%; width:15.2%;">rice</span>'),
+        "pot-steps": (
+            '<li><span class="clock">0:17</span><span><strong>Rajma.</strong> Saut&eacute; mode, 3 tbsp oil, '
+            '<strong>2 tsp cumin seeds</strong> and <strong>1 tsp fenugreek</strong> until they sizzle and darken. '
+            'Then the diced onions &mdash; <strong>a full 12 minutes</strong>, to genuinely brown, not just soft. '
+            '<em>Rajma has less acidity to hide behind, so the onions do more of the work.</em></span></li>'
+            '<li><span class="clock">0:29</span><span>Garlic and ginger, 1 min. Then <strong>2 tbsp tomato paste</strong> '
+            'and the ground spices &mdash; <strong>2 tbsp coriander, 1 tbsp cumin, 2 tsp turmeric, '
+            '1&ndash;2 tsp kashmiri chili</strong> &mdash; 1 min, to bloom in the fat.</span></li>'
+            '<li><span class="clock">0:31</span><span><strong>1 &times; 28 oz crushed tomatoes</strong>, the drained '
+            'soaked beans, <strong>4 cups water</strong>, <strong>2 tsp salt</strong>. Seal, <strong>25 min high '
+            'pressure, 15 min natural release</strong> &mdash; kidney beans want longer at both ends. '
+            '<strong>~12 min just to come to pressure.</strong><span class="hands-off">hands off &rarr; 1:23</span></span></li>'),
+        "pot-done": (
+            '<li><span class="clock">1:23</span><span>Rajma done. Mash a <em>generous</em> handful of beans against the '
+            'pot &mdash; rajma should sit on rice, not run off it. <strong>1 tbsp garam masala</strong> and '
+            '<strong>1 tsp amchur</strong> in <em>off the heat</em>. Spread on a pan to cool.</span></li>'
+            '<li><span class="clock">1:26</span><span><strong>Rice, batch 1.</strong> Rinse the pot. <strong>5 cups '
+            'basmati, rinsed until the water runs clear, 5 cups water</strong>, pinch of salt. 6 min high pressure, '
+            '<strong>full 10 min natural release</strong>. <em>Check your Instant Pot’s half-full line &mdash; 5 cups '
+            'dry is about the limit on a 6-quart.</em><span class="hands-off">hands off &rarr; 1:51</span></span></li>'),
+        "rice-out": '<li><span class="clock">1:51</span><span>Rice out. Fluff and spread on a sheet pan to cool fast.</span></li>',
+        "note": ('<strong>Rajma weeks run about fifteen minutes longer.</strong> Kidney beans need 25 minutes at pressure '
+                 'and a full 15-minute natural release against the chana’s 18 and 10, so the pot is busy until 1:23. '
+                 'Everything after it &mdash; both rice batches, portioning &mdash; shifts back with it. The dry track is '
+                 'unaffected. <strong>Soak them and pressure-cook them:</strong> a low, gentle simmer concentrates the '
+                 'lectin in raw kidney beans rather than destroying it, which is why there is no stovetop fallback here.'),
+    },
+}
+
+
+def write_anchors():
+    """Emit anchors.js — the swappable anchor facts, for the plan page's picker.
+
+    A plain script rather than JSON fetched at runtime, so the page still works
+    when opened straight off disk instead of over HTTP."""
+    body = json.dumps(ANCHOR_SWAP, indent=2, ensure_ascii=False)
+    open("anchors.js", "w").write(
+        "/* GENERATED BY build.py — DO NOT EDIT.\n"
+        "   Edit ANCHOR_SWAP in build.py and rerun `python3 build.py`. */\n"
+        "window.SK_ANCHORS = " + body + ";\n")
+    return len(ANCHOR_SWAP)
+
+
 if __name__ == "__main__":
     print(f"recipes.html      {write_recipes_html()} recipes")
     print(f"recipes/*.md      {write_markdown()} files")
     print(f"icons + manifest  {write_icons()} icons")
+    print(f"anchors.js        {write_anchors()} anchors")
     if "--paprika" in sys.argv:
         print(f"paprika archive   {write_paprika()} recipes")
     else:
