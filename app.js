@@ -28,43 +28,73 @@
   openTarget();
   window.addEventListener('hashchange', openTarget);
 
-  /* ---- keep the screen awake while cooking ---- */
+  /* ---- keep the screen awake while cooking ----
+     On both pages, and remembered between them: a page navigation drops the
+     lock the same way switching apps does, and you move between the plan and
+     the recipes constantly while cooking. `wanted` is the choice; `lock` is
+     whether we currently hold one. Keeping them separate is what lets us take
+     the lock back after the browser takes it away. */
   var wakeBtn = document.getElementById('wake');
   if (wakeBtn) {
     if (!('wakeLock' in navigator)) {
       wakeBtn.hidden = true;
     } else {
+      var WAKE_KEY = 'sk-wake-v1';
       var lock = null;
+      var wanted = false;
+      try { wanted = localStorage.getItem(WAKE_KEY) === '1'; } catch (e) { wanted = false; }
 
-      var release = function () {
-        if (lock) { lock.release(); lock = null; }
-        wakeBtn.setAttribute('aria-pressed', 'false');
+      var paint = function () {
+        wakeBtn.setAttribute('aria-pressed', String(wanted));
       };
 
-      var acquire = function () {
+      var remember = function () {
+        try { localStorage.setItem(WAKE_KEY, wanted ? '1' : '0'); } catch (e) {}
+      };
+
+      var release = function () {
+        if (!lock) return;
+        var l = lock;
+        lock = null;
+        l.release().catch(function () {});
+      };
+
+      // Only NotSupportedError means this device will never do it — hide the
+      // button for good. Everything else is transient: NotAllowedError fires
+      // simply because the page wasn't visible at that instant, and hiding the
+      // button on that would delete the feature until a reload. Reset the
+      // toggle so the UI isn't lying, and leave the button there to retry.
+      var acquire = function (silent) {
         return navigator.wakeLock.request('screen').then(function (l) {
           lock = l;
-          wakeBtn.setAttribute('aria-pressed', 'true');
-          l.addEventListener('release', function () {
-            lock = null;
-            wakeBtn.setAttribute('aria-pressed', 'false');
-          });
-        }).catch(function () {
-          wakeBtn.hidden = true;
+          l.addEventListener('release', function () { lock = null; });
+        }).catch(function (e) {
+          if (e && e.name === 'NotSupportedError') {
+            wanted = false;
+            remember();
+            paint();
+            wakeBtn.hidden = true;
+            return;
+          }
+          if (!silent) { wanted = false; remember(); paint(); }
         });
       };
 
       wakeBtn.addEventListener('click', function () {
-        if (lock) { release(); } else { acquire(); }
+        wanted = !wanted;
+        remember();
+        paint();
+        if (wanted) { acquire(false); } else { release(); }
       });
 
-      // iOS drops the lock when you switch apps — take it back on return.
+      // iOS drops the lock when you switch apps, and any navigation drops it too.
+      // Take it back whenever the page is visible and the choice is still on.
       document.addEventListener('visibilitychange', function () {
-        if (document.visibilityState === 'visible' &&
-            wakeBtn.getAttribute('aria-pressed') === 'true' && !lock) {
-          acquire();
-        }
+        if (document.visibilityState === 'visible' && wanted && !lock) acquire(true);
       });
+
+      paint();
+      if (wanted) acquire(true);
     }
   }
 
