@@ -1,4 +1,4 @@
-# Monday — Sticky Tofu, Rice, Roasted Veg
+# Monday — Sticky Tofu, Rice, Chili-Cumin Veg
 
 **2 servings · 15 min**
 

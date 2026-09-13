@@ -4,7 +4,7 @@
 
 Built on the freeze-thaw trick, which eliminates pressing entirely.
 
-**Used in:** [Monday — Sticky Tofu, Rice, Roasted Veg](dinner-mon-sticky-tofu.md)
+**Used in:** [Monday — Sticky Tofu, Rice, Chili-Cumin Veg](dinner-mon-sticky-tofu.md)
 
 ## Ingredients
 

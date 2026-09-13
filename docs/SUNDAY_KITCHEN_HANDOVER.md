@@ -134,6 +134,7 @@ Every one of these came from them actually cooking. **Assume remaining estimates
 | Week B said "marinate the tofu at 0:17" with no marinade; the recipe said "toss in the marinade" | Week B is a real timeline with the marinade inline; recipe step spells it out | see git log |
 | Shopping lines bundled several items ("Light soy · dark soy") — hard to tick, easy to miss one | One ingredient per line, each with its purpose | see git log |
 | "One 28 oz can of crushed tomatoes a week" bought two cans; anchors are only cooked on Week A | One can per anchor batch; freezer weeks need none | see git log |
+| Crumbles and veg trays had no portion counts; "roasted veg" named either tray; a stray "roasted chickpeas, 1 can" row contradicted the two-can tray | Batch table states portions per meal and how to split at 1:40; every "roasted veg" now says harissa or chili-cumin; harissa veg = the four Med bowls only | see git log |
 
 ---
 

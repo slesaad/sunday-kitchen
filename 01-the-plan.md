@@ -7,7 +7,7 @@ includes waiting for water to boil and rice to microwave.
 
 | | Lunch | Dinner | Cuisine | Hands-on | Wall clock |
 |---|---|---|---|---|---|
-| **Mon** | Chana masala bowl | Sticky tofu, rice, roasted veg | Chinese | 10 min | **15 min** |
+| **Mon** | Chana masala bowl | Sticky tofu, rice, chili-cumin veg | Chinese | 10 min | **15 min** |
 | **Tue** | Mediterranean bowl | Aloo tama bodi, rice, crispy tofu | Nepali | 4 min | **10 min** |
 | **Wed** | Sichuan crumble bowl | Veggie chowmein, egg, edamame | Nepali · Indo-Chinese | 14 min | **18 min** |
 | **Thu** | Mediterranean bowl | Chana masala, jeera rice, crumble sabzi | South Asian | 12 min | **15 min** |
@@ -37,9 +37,9 @@ on it, and leave. Amounts below are *Person A / Person B*.
 |---|---|---|
 | **Mon** | Chana 1½ / 2 c · rice 1 / 1½ c · edamame ½ / 1 c · cilantro | Lemon wedge |
 | **Tue** | Rice 1 / 1½ c · harissa veg 1 / 1½ c · roasted chickpeas ½ / ¾ c · cucumber · cherry tomato · pickled onion · parsley · **B adds ½ c edamame** | **Tahini-lemon** 2 / 3 tbsp |
-| **Wed** | Rice 1 / 1½ c · roasted veg 1 c · edamame ½ / 1 c · cucumber | **Sichuan crumbles** ½ / ¾ c · **gochujang-sesame** 2 / 3 tbsp |
+| **Wed** | Rice 1 / 1½ c · chili-cumin veg 1 c · edamame ½ / 1 c · cucumber | **Sichuan crumbles** ½ / ¾ c · **gochujang-sesame** 2 / 3 tbsp |
 | **Thu** | Same as Tuesday, packed Wednesday night | **Tahini-lemon** 2 / 3 tbsp |
-| **Fri** | Aloo tama 1½ / 2 c · rice 1 / 1½ c · roasted veg ½ c · edamame ½ / 1 c | Lemon wedge |
+| **Fri** | Aloo tama 1½ / 2 c · rice 1 / 1½ c · chili-cumin veg ½ c · edamame ½ / 1 c | Lemon wedge |
 
 **You don't need measuring cups for this.** Fill by layer and let the container's own height
 do the work: **rice to a third, the main to three-quarters, edamame and veg fill the rest.**
@@ -67,11 +67,11 @@ Two small containers is worth the extra thirty seconds.
 
 One sheet pan, three zones, roughly **two cups of each**. Every zone has a job:
 
-| Zone | Goes to | Uses |
+| Zone | Divide into | Goes to |
 |---|---|---|
-| **Sichuan** — five-spice, Sichuan pepper, chili crisp | Wednesday lunch bowls ×2 · Wednesday dinner chowmein | ~2 cups |
-| **Cumin–garam masala** — cumin, coriander, garam masala, turmeric | Thursday dinner sabzi ×2 · scattered on Monday's lunch | ~2 cups |
-| **Chili–lime** — smoked paprika, cumin, chipotle, lime | Friday dinner tacos ×2 | ~2 cups |
+| **Sichuan** — five-spice, Sichuan pepper, chili crisp | 3 portions | Wednesday lunch pots ×2 (½ c A, ¾ c B) · the rest (~¾ c) in a tub for Wednesday's chowmein |
+| **Cumin–garam masala** — cumin, coriander, garam masala, turmeric | 2 portions | 1½ c in a tub for Thursday's sabzi (both servings) · the rest (~½ c) scattered on Monday's lunches |
+| **Chili–lime** — smoked paprika, cumin, chipotle, lime | 1 portion | One tub, all of it, for Friday's tacos (both servings) |
 
 **On falafel weeks, season two zones, not three.** Friday is falafel night, so nothing eats
 the chili–lime. Split the pan between Sichuan and cumin–garam masala instead.
