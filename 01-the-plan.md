@@ -11,7 +11,7 @@ includes waiting for water to boil and rice to microwave.
 | **Tue** | Mediterranean bowl | Aloo tama bodi, rice, crispy tofu | Nepali | 4 min | **10 min** |
 | **Wed** | Sichuan crumble bowl | Veggie chowmein, egg, edamame | Nepali · Indo-Chinese | 14 min | **18 min** |
 | **Thu** | Mediterranean bowl | Chana masala, jeera rice, crumble sabzi | South Asian | 12 min | **15 min** |
-| **Fri** | Aloo tama bowl | Tacos, chili-lime crumbles | Mexican | 15 min | **18 min** |
+| **Fri** | *Out* | Tacos, chili-lime crumbles | Mexican | 15 min | **18 min** |
 
 Lunches are assembled on the weekend and reheated at work — they cost you nothing on the day.
 
@@ -26,8 +26,8 @@ frozen banana + ground flax + soy milk. See [`05-nutrition.md`](05-nutrition.md)
 
 ## Lunches — what's in each container
 
-Five lunches × two people = **ten containers**. Pack Monday through Wednesday on Sunday;
-pack Thursday and Friday on Wednesday night so nothing you eat is five days old.
+Four lunches × two people = **eight containers** — Friday lunch is eaten out. Pack Monday
+through Wednesday on Sunday; pack Thursday on Wednesday night so nothing you eat is five days old.
 
 **One container is one person's whole lunch, finished.** Nothing gets added on the day and
 nothing gets decided in the morning — you open the fridge, take the one with your initial
@@ -39,7 +39,6 @@ on it, and leave. Amounts below are *Person A / Person B*.
 | **Tue** | Rice 1 / 1½ c · harissa veg 1 / 1½ c · roasted chickpeas ½ / ¾ c · cucumber · cherry tomato · pickled onion · parsley · **B adds ½ c edamame** | **Tahini-lemon** 2 / 3 tbsp |
 | **Wed** | Rice 1 / 1½ c · chili-cumin veg 1 c · edamame ½ / 1 c · cucumber | **Sichuan crumbles** ½ / ¾ c · **gochujang-sesame** 2 / 3 tbsp |
 | **Thu** | Same as Tuesday, packed Wednesday night | **Tahini-lemon** 2 / 3 tbsp |
-| **Fri** | Aloo tama 1½ / 2 c · rice 1 / 1½ c · chili-cumin veg ½ c · edamame ½ / 1 c | Lemon wedge |
 
 **You don't need measuring cups for this.** Fill by layer and let the container's own height
 do the work: **rice to a third, the main to three-quarters, edamame and veg fill the rest.**
@@ -53,10 +52,6 @@ edamame goes in a side pot.
 **Label each one with an initial and a day** — `A · Tue`, `B · Wed`. Small pots of sauce or
 crumbles get taped to their container or nested inside, so each lunch travels as one object.
 
-**Friday's bowl needs its edamame scoop.** Aloo tama is the lightest anchor on protein at
-about 10 g a serving, so this is the one lunch where skipping the scoop actually shows up in
-your day's total.
-
 **Anything crisp or creamy travels separately.** Tahini dressed on Sunday turns grains to
 paste by Tuesday. Crumbles packed against wet rice lose everything that makes them good.
 Two small containers is worth the extra thirty seconds.
@@ -69,7 +64,7 @@ One sheet pan, three zones, roughly **two cups of each**. Every zone has a job:
 
 | Zone | Divide into | Goes to |
 |---|---|---|
-| **Sichuan** — five-spice, Sichuan pepper, chili crisp | 3 portions | Wednesday lunch pots ×2 (½ c A, ¾ c B) · the rest (~¾ c) in a tub for Wednesday's chowmein |
+| **Sichuan** — Sichuan pepper, chili crisp | 3 portions | Wednesday lunch pots ×2 (½ c A, ¾ c B) · the rest (~¾ c) in a tub for Wednesday's chowmein |
 | **Cumin–garam masala** — cumin, coriander, garam masala, turmeric | 2 portions | 1½ c in a tub for Thursday's sabzi (both servings) · the rest (~½ c) scattered on Monday's lunches |
 | **Chili–lime** — smoked paprika, cumin, chipotle, lime | 1 portion | One tub, all of it, for Friday's tacos (both servings) |
 

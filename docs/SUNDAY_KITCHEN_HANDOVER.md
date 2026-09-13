@@ -16,6 +16,8 @@ Single handover, no separate inventory: the open items are unvalidated estimates
 - The 1.7× spread is handled by **boosting at the plate**, never by cooking two versions.
 - Kit: Instant Pot, oven, air fryer, food processor. Shops at Asian + Indian groceries and Costco.
 - **Dairy: out. Eggs: 2 dishes max, both droppable. Impossible/TVP: once a week max.**
+- **Friday lunch is eaten out** (since 2026-09-13). Four lunch days, **eight containers**, not ten. The aloo tama anchor feeds only Tuesday dinner, so six of its eight servings freeze and one batch lasts four Tuesdays.
+- **No amchur, no five-spice** (2026-09-13) — lemon juice finishes the chana and rajma; the Sichuan crumble zone is Sichuan pepper and chili crisp only.
 - Likes Yeung Man Cooking and Rainbow Plant Life. The tofu crumbles are adapted from the former.
 
 ## Hard constraints — do not quietly relax these
@@ -108,8 +110,8 @@ PY
 ## Design decisions worth not re-litigating
 
 - **Anchors + Kit**, not "5 finished dishes". Two freezer-proof anchors carry all lunches and low-energy nights; a component kit carries fresh dinners. Rejected alternatives are in `~/repo/claude-docs/mealprep/2026-08-08-mealprep-design.md`.
-- **Each anchor's fridge half covers one lunch AND one dinner** — that's why it's 4 servings, not 2. This is the single most confusing thing about the plan; it now has its own "Where every batch goes" section on the site.
-- **Dinners are never packed into containers.** Held back in a labelled tub. Only the 10 lunch containers get assembled.
+- **The Instant Pot anchor's fridge half covers one lunch AND one dinner** — that's why it's 4 servings, not 2. This is the single most confusing thing about the plan; it has its own "Where every batch goes" section on the site. The stovetop anchor is dinner-only since Friday lunch went: 2 in the fridge, 6 frozen.
+- **Dinners are never packed into containers.** Held back in a labelled tub. Only the 8 lunch containers get assembled.
 - **Tracks are "wet" and "dry", not "Person 1/2".** Deliberate: tracks are interchangeable, whereas Person A/B is fixed by bodyweight. An outside review suggested unifying on A/B — **don't**, it would imply the lighter partner must take the wet track.
 - **Mediterranean bowls use roasted chickpeas, not crumbles** — keeps chickpeas and crumbles from competing for the same slot.
 - **Freeze only 2 tofu blocks** (crispy tofu). The crumbles are hand-crumbled from *fresh* tofu.
@@ -134,6 +136,7 @@ Every one of these came from them actually cooking. **Assume remaining estimates
 | Week B said "marinate the tofu at 0:17" with no marinade; the recipe said "toss in the marinade" | Week B is a real timeline with the marinade inline; recipe step spells it out | see git log |
 | Shopping lines bundled several items ("Light soy · dark soy") — hard to tick, easy to miss one | One ingredient per line, each with its purpose | see git log |
 | "One 28 oz can of crushed tomatoes a week" bought two cans; anchors are only cooked on Week A | One can per anchor batch; freezer weeks need none | see git log |
+| Friday lunch was planned; they eat out on Fridays | Friday bowl removed; 8 containers; aloo tama freezes 6; chili-cumin veg is 6 portions | see git log |
 | Crumbles and veg trays had no portion counts; "roasted veg" named either tray; a stray "roasted chickpeas, 1 can" row contradicted the two-can tray | Batch table states portions per meal and how to split at 1:40; every "roasted veg" now says harissa or chili-cumin; harissa veg = the four Med bowls only | see git log |
 
 ---

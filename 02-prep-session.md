@@ -59,7 +59,7 @@ olive oil · chili crisp
 ### Spices
 
 Cumin seeds · ground cumin · ground coriander · turmeric · kashmiri chili · garam masala ·
-amchur · smoked paprika · chipotle · chili powder · five-spice · **timur, or the Sichuan
+smoked paprika · chipotle · chili powder · **timur, or the Sichuan
 pepper you already have** · fenugreek seeds (methi, optional) · garlic powder · onion powder
 
 ### From the fridge and freezer
@@ -102,10 +102,10 @@ en place list onto the counter.
 | | **Tahini-lemon** — ½ cup tahini · ¼ cup lemon juice · 2 cloves garlic · ½ tsp cumin · ½ tsp salt · 4–6 tbsp cold water. *It will seize into cement before it loosens. Keep adding water.* |
 | | **Gochujang-sesame** — whisked in a jar, no processor: 3 tbsp gochujang · 2 tbsp rice vinegar · 2 tbsp toasted sesame oil · 1 tbsp maple syrup · 1 tbsp soy sauce · 1 tbsp sesame seeds · 1 grated garlic. |
 | **1:10** | **Falafel weeks only — 5 min.** Wash the processor bowl once, then pulse the **soaked-but-uncooked chickpeas, 1 onion, 5 cloves garlic, 1 packed cup parsley, 1 packed cup cilantro, 2 tsp cumin, 1 tsp coriander, ½ tsp cayenne, 1½ tsp salt** to a **coarse, couscous-like texture — not a purée.** Into the fridge to rest. *Baking powder goes in later, at forming time.* |
-| **1:12** | Chana done. Mash a handful of chickpeas against the pot to thicken. **1 tbsp garam masala** and **2 tsp amchur** in **off the heat**. Spread on a sheet pan to cool. |
+| **1:12** | Chana done. Mash a handful of chickpeas against the pot to thicken. **1 tbsp garam masala** and **the juice of 1 lemon** in **off the heat**. Spread on a sheet pan to cool. |
 | **1:15** | **Rice, batch 1.** Rinse the Instant Pot. **5 cups basmati, rinsed until the water runs clear, 5 cups water**, pinch of salt. **6 min high pressure, full 10 min natural release.** *Check your pot's half-full line — 5 cups dry is about the limit on a 6-quart.* **Hands off until 1:40.** |
 | **1:21** | Aloo tama done — the bodi tender, the potatoes giving to a knife, the broth thickened to a loose gravy. Mash a few potatoes against the side if it's thin. **Salt hard.** Cilantro off the heat. |
-| **1:28** | **Rice, batch 2.** The stovetop is free now — the aloo tama came off at 1:21. **3 cups rinsed basmati, 4½ cups water**, boil then lowest heat, lid on, 15 min, rest 10. One batch is not enough: ten lunches plus Monday and Thursday dinners need about 17 cups cooked, and 5 cups dry yields about 13. |
+| **1:28** | **Rice, batch 2.** The stovetop is free now — the aloo tama came off at 1:21. **3 cups rinsed basmati, 4½ cups water**, boil then lowest heat, lid on, 15 min, rest 10. One batch is not enough: eight lunches plus Monday and Thursday dinners need about 15 cups cooked, and 5 cups dry yields about 13. What is over freezes flat. |
 | **1:30** | Wash down the wet station. |
 | **1:40** | Rice out. Fluff, spread on a sheet pan to cool fast. |
 
@@ -114,7 +114,7 @@ en place list onto the counter.
 | Clock | Do this |
 |---|---|
 | **0:05** | **Tofu crumbles — 15 minutes.** Crumble **2 blocks** of extra-firm tofu by hand into pea-to-marble pieces. Toss with the shared base: **3 tbsp soy sauce, 2 tbsp chili oil or chili crisp, 1 tbsp rice vinegar, 2 tbsp cornstarch, 2 tsp garlic powder, 1 tsp onion powder, black pepper.** |
-| **0:15** | Spread on **one pan in three zones** — **two on falafel weeks**, since nothing eats the chili–lime that week — and season each: **Sichuan** — ½ tsp five-spice, ½ tsp Sichuan pepper, extra chili crisp. **Cumin–garam masala** — 1 tsp cumin, 1 tsp coriander, ½ tsp garam masala, ½ tsp turmeric, ½ tsp kashmiri chili. **Chili–lime** — 1 tsp smoked paprika, 1 tsp cumin, ½ tsp chipotle, zest of 1 lime. |
+| **0:15** | Spread on **one pan in three zones** — **two on falafel weeks**, since nothing eats the chili–lime that week — and season each: **Sichuan** — 1 tsp Sichuan pepper, extra chili crisp. **Cumin–garam masala** — 1 tsp cumin, 1 tsp coriander, ½ tsp garam masala, ½ tsp turmeric, ½ tsp kashmiri chili. **Chili–lime** — 1 tsp smoked paprika, 1 tsp cumin, ½ tsp chipotle, zest of 1 lime. |
 | **0:20** | Crumbles into the oven. **25–30 min, stir at 15.** |
 | **0:22** | **Tofu — 10 minutes.** Squeeze the 2 thawed blocks hard over the sink; they release a startling amount of water. Cube. **Mix the marinade: 3 tbsp soy sauce · 1 tbsp rice vinegar · 1 tbsp maple syrup · 2 tsp sesame oil · 3 cloves grated garlic · 1 tbsp grated ginger · 2 tbsp cornstarch.** Toss the cubes through it. Set aside. |
 | **0:32** | **Two veg trays — 22 minutes, washing included.** This is the longest single job in the session. Cut everything roughly the same size; that matters more than what you cut. |
@@ -132,8 +132,8 @@ en place list onto the counter.
 
 ### 1:40–2:25 — Both: cool, portion, label
 
-Forty-five minutes, and it's the part everyone underestimates. You're filling roughly
-twenty containers.
+Forty-five minutes, and it's the part everyone underestimates. You're filling the better
+part of twenty containers.
 
 1. **Freeze half of both anchors** in bags laid **flat** — they stack, and flat bags thaw in
    an hour instead of a day. That's next week's dinner, already done.
@@ -143,14 +143,16 @@ twenty containers.
    | | Freezer | Pack now | Hold back in a labelled tub |
    |---|---|---|---|
    | **Chana masala** (8 servings) | 4 | 2 → Monday lunch | 2 → Thursday dinner |
-   | **Aloo tama bodi** (8 servings) | 4 | — | 2 → Tuesday dinner, 2 → Friday lunch |
+   | **Aloo tama bodi** (8 servings) | 6, in three bags of 2 | — | 2 → Tuesday dinner |
 
-   Friday's lunch gets packed Wednesday night, so leave all 4 aloo tama servings in the tub.
+   Friday lunch is eaten out, so Tuesday dinner is the aloo tama's only meal. One batch is
+   four Tuesdays: thaw a bag each week, and skip cooking it on the next cooking week while
+   the freezer still holds two bags.
    **Dinners are never packed into containers** — you eat them at home.
 2. **Rice: half to the fridge, half frozen flat in portions.** Frozen rice microwaves
    better than four-day-old fridge rice, and it skips the food-safety question entirely.
-3. **Pack Monday, Tuesday and Wednesday's lunches now** — Thursday and Friday get packed
-   Wednesday night. Amounts for each bowl are in [`01-the-plan.md`](01-the-plan.md) and on
+3. **Pack Monday, Tuesday and Wednesday's lunches now** — Thursday's get packed Wednesday
+   night. Nothing for Friday. Amounts for each bowl are in [`01-the-plan.md`](01-the-plan.md) and on
    every lunch recipe.
 
    **A container leaves this kitchen finished.** One container is one person's whole lunch.
@@ -216,14 +218,14 @@ fifteen-minute job.
 | Container | Amount | Feeds |
 |---|---|---|
 | Chana masala | Half fridge, half frozen flat | Mon lunch ×2, Thu dinner ×2 (+ 4 next week) |
-| Aloo tama bodi | Half fridge, half frozen flat | Tue dinner ×2, Fri lunch ×2 (+ 4 next week) |
-| Cooked basmati rice | ~19 cups — 4 cups frozen flat, the rest to the fridge | Ten lunches (~11 cups) + Monday and Thursday dinners (~4 cups) |
+| Aloo tama bodi | 2 in the fridge, 6 frozen flat in bags of 2 | Tue dinner ×2 (+ three more Tuesdays) |
+| Cooked basmati rice | ~19 cups — 4 cups frozen flat, the rest to the fridge | Eight lunches (~10 cups) + Monday and Thursday dinners (~5 cups) |
 | Crispy marinated tofu | 2 blocks | Mon dinner, plus the week's boosters |
 | Sichuan crumbles | 3 portions — two lunch pots, one "Wed chowmein" tub | Wed lunch ×2, Wed dinner |
 | Cumin–garam crumbles | 2 portions — a 1½-cup "Thu sabzi" tub, the rest over Monday's lunches | Thu dinner ×2, Mon lunch |
 | Chili–lime crumbles | 1 portion — one "Fri tacos" tub | Fri dinner ×2 |
 | Harissa veg, with its roasted chickpeas | 4 portions — two in Tuesday's containers, two in a "Thu lunch" tub | Tue lunch ×2, Thu lunch ×2 — nothing else |
-| Chili-cumin veg | 4 tubs — 2 cups in the Wed lunches, 1 cup for Fri lunch, the rest halved for Mon dinner and Thu sabzi | Mon dinner ×2, Wed lunch ×2, Thu sabzi ×2, Fri lunch ×2 |
+| Chili-cumin veg | 3 tubs — 2 cups in the Wed lunches, the rest halved for Mon dinner and Thu sabzi | Mon dinner ×2, Wed lunch ×2, Thu sabzi ×2 |
 | Two sauces | Jars | Tahini → Med bowls and falafel · gochujang → Wednesday lunch |
 | Stir-fry pack | 1 bag, shredded | Wednesday |
 | Quick-pickled onions | 1 jar | Med bowls, tacos |

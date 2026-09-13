@@ -2,9 +2,9 @@
 
 **8 servings · 50 min**
 
-The stovetop anchor. Tuesday's dinner and Friday's lunch bowl, with half frozen flat for next week.
+The stovetop anchor. Tuesday's dinner, with six servings frozen flat for the Tuesdays after.
 
-**Used in:** [Tuesday — Aloo Tama Bodi, Rice, Crispy Tofu](dinner-tue-aloo-tama.md) · [Friday Lunch — Aloo Tama Bowl](lunch-fri-aloo-tama-bowl.md)
+**Used in:** [Tuesday — Aloo Tama Bodi, Rice, Crispy Tofu](dinner-tue-aloo-tama.md)
 
 ## Ingredients
 
@@ -39,12 +39,12 @@ The stovetop anchor. Tuesday's dinner and Friday's lunch bowl, with half frozen 
 
 FRYING THE TAMA IS THE WHOLE TRICK. Unfried, the sourness dominates everything else in the pot. Five minutes in hot oil turns it savory and a little nutty, and it's the difference between this tasting Nepali and tasting like a mistake.
 
-Four servings this week, four flat-frozen for next.
+Two servings this week (Tuesday dinner), six flat-frozen in bags of two. One batch is four Tuesdays: thaw a bag each week, and skip cooking this anchor on the next cooking week while the freezer still holds two bags.
 
 WAXY POTATOES, NOT RUSSET, AND CUT THEM CHUNKY. Half this batch goes in the freezer, and potato does not love being frozen — it comes back slightly grainy. Waxy varieties hold their structure far better, and 1-inch chunks survive where dice turns to mush. It's a curry, so a soft potato is a small sin, but russet dice would genuinely disappoint you by week two.
 
 NO TIMUR? Ground Sichuan pepper is already in your kit for the crumbles, and it's a close cousin — same numbing citrus family. Use the same amount.
 
-PROTEIN is about 10 g a serving, which is on the light side for an anchor. That's accounted for, and the kit covers it without new shopping: Tuesday takes crispy tofu alongside, Friday's bowl takes an edamame scoop.
+PROTEIN is about 10 g a serving, which is on the light side for an anchor. That's accounted for, and the kit covers it without new shopping: Tuesday takes crispy tofu alongside.
 
 ROTATION PARTNERS for this slot: palak tofu, kwati, tofu keema matar, mismas tarkari.

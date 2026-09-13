@@ -59,7 +59,6 @@ All assembled on the weekend. Zero weekday cost.
 | [Monday Lunch — Chana Masala Bowl](lunch-mon-chana-bowl.md) | 1 | 5 min |
 | [Tuesday & Thursday Lunch — Mediterranean Bowl](lunch-mediterranean-bowl.md) | 1 | 5 min |
 | [Wednesday Lunch — Sichuan Crumble Rice Bowl](lunch-wed-sichuan-crumble-bowl.md) | 1 | 5 min |
-| [Friday Lunch — Aloo Tama Bowl](lunch-fri-aloo-tama-bowl.md) | 1 | 5 min |
 
 ## Breakfast
 

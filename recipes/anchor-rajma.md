@@ -21,7 +21,7 @@ The Instant Pot anchor, rajma week. Carries Monday's lunch and Thursday's dinner
 - 2 tsp turmeric
 - 1-2 tsp kashmiri chili powder
 - 1 tbsp garam masala
-- 1 tsp amchur, or juice of 1 lemon
+- Juice of 1 lemon
 - 3 tbsp oil
 - 2 tsp salt
 - 4 cups water
@@ -34,7 +34,7 @@ The Instant Pot anchor, rajma week. Carries Monday's lunch and Thursday's dinner
 3. Garlic and ginger, 1 minute. Then tomato paste and all the GROUND spices, 1 minute, to bloom them in the fat.
 4. Crushed tomatoes, drained beans, 4 cups water, salt. Cancel sauté, seal, 25 min high pressure, then a full 15 minutes natural release. Kidney beans want longer than chickpeas at both ends.
 5. Mash a generous handful of beans against the side of the pot. Rajma should be thick enough to sit on rice, not run off it — this is the step that gets it there.
-6. Garam masala and amchur OFF the heat. Cilantro.
+6. Garam masala and lemon juice OFF the heat. Cilantro.
 
 ## Notes
 

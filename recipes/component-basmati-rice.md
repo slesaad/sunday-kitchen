@@ -23,7 +23,7 @@ About 19 cups across two batches — the week's grain.
 
 ## Notes
 
-Both batches together yield about 19 cups cooked, which is what the week actually needs: roughly 11 cups across the ten lunch containers, about 4 cups held back for Monday and Thursday dinners, and 4 cups frozen flat.
+Both batches together yield about 19 cups cooked, which is what the week actually needs: roughly 10 cups across the eight lunch containers, about 5 cups held back for Monday and Thursday dinners, and the rest frozen flat.
 
 STORAGE: half to the fridge, half frozen flat in portions. Frozen rice microwaves better than four-day-old fridge rice, and it skips the food-safety question entirely — cooked rice wants to get cold quickly and be eaten within four days.
 Reheat: 3 minutes from frozen, 90 seconds from the fridge.

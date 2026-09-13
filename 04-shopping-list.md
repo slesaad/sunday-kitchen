@@ -19,7 +19,6 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 | Basmati rice | 10 lb bag |
 | Cumin seeds, ground cumin, ground coriander | large packs |
 | Turmeric, garam masala, kashmiri chili powder | |
-| Amchur (dried mango powder) | small |
 | Tahini | often cheaper here than the supermarket |
 
 > **Skip these until week 3** — they're for rotations you haven't reached yet, and the first
@@ -35,7 +34,7 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 | Toasted sesame oil | |
 | **Chili crisp or chili oil** | the crumbles depend on this |
 | Gochujang | tub |
-| Five-spice powder, ground Sichuan pepper | |
+| Ground Sichuan pepper | the Sichuan crumbles; also stands in for timur |
 | Chowmein / lo mein noodles | several packs, they keep |
 | **Tama — fermented bamboo shoot** | jarred or vacuum-packed. The aloo tama anchor depends on it; buy two |
 | **Timur** | if they have it. Otherwise the ground Sichuan pepper above stands in |

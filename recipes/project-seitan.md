@@ -22,7 +22,7 @@
 
 **CHAR SIU**
 
-- Five-spice, hoisin, soy sauce, a little maple
+- Hoisin, soy sauce, a little maple
 
 **CHORIZO**
 

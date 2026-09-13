@@ -20,7 +20,7 @@ The Instant Pot anchor. Carries Monday's lunch and Thursday's dinner, and half t
 - 2 tsp turmeric
 - 1-2 tsp kashmiri chili powder
 - 1 tbsp garam masala
-- 2 tsp amchur, or juice of 1 lemon
+- Juice of 1 lemon
 - 2 tbsp oil
 - 2 tsp salt
 - 2 1/2 cups water
@@ -33,7 +33,7 @@ The Instant Pot anchor. Carries Monday's lunch and Thursday's dinner, and half t
 3. Garlic and ginger, 1 minute. Then tomato paste and all the GROUND spices, 1 minute — blooming them in fat is what separates this from a spice-flavored stew.
 4. Crushed tomatoes, drained chickpeas, water, salt. Cancel sauté, seal, 18 min high pressure, then 10 minutes natural release. It takes about 12 minutes to come to pressure at this volume, so it's done at the one-hour mark, not the 38-minute mark.
 5. Mash a handful of chickpeas against the side of the pot to thicken the gravy.
-6. Stir in the garam masala and amchur OFF the heat — they're aromatics, not base notes.
+6. Stir in the garam masala and the lemon juice OFF the heat — they're aromatics, not base notes.
 
 ## Notes
 

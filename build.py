@@ -62,7 +62,7 @@ add("anchor-chana-masala", "Chana Masala", ANCHOR,
 2 tsp turmeric
 1-2 tsp kashmiri chili powder
 1 tbsp garam masala
-2 tsp amchur, or juice of 1 lemon
+Juice of 1 lemon
 2 tbsp oil
 2 tsp salt
 2 1/2 cups water
@@ -72,7 +72,7 @@ Cilantro, to finish""",
      "Garlic and ginger, 1 minute. Then tomato paste and all the GROUND spices, 1 minute — blooming them in fat is what separates this from a spice-flavored stew.",
      "Crushed tomatoes, drained chickpeas, water, salt. Cancel sauté, seal, 18 min high pressure, then 10 minutes natural release. It takes about 12 minutes to come to pressure at this volume, so it's done at the one-hour mark, not the 38-minute mark.",
      "Mash a handful of chickpeas against the side of the pot to thicken the gravy.",
-     "Stir in the garam masala and amchur OFF the heat — they're aromatics, not base notes."],
+     "Stir in the garam masala and the lemon juice OFF the heat — they're aromatics, not base notes."],
     """Four servings this week, four flat-frozen for next. Better on day three than day one.
 
 Canned chickpeas work — 4 x 15 oz, drained, and drop the pressure time to 5 minutes.
@@ -102,7 +102,7 @@ add("anchor-rajma", "Rajma", ANCHOR,
 2 tsp turmeric
 1-2 tsp kashmiri chili powder
 1 tbsp garam masala
-1 tsp amchur, or juice of 1 lemon
+Juice of 1 lemon
 3 tbsp oil
 2 tsp salt
 4 cups water
@@ -112,7 +112,7 @@ Cilantro, to finish""",
      "Garlic and ginger, 1 minute. Then tomato paste and all the GROUND spices, 1 minute, to bloom them in the fat.",
      "Crushed tomatoes, drained beans, 4 cups water, salt. Cancel sauté, seal, 25 min high pressure, then a full 15 minutes natural release. Kidney beans want longer than chickpeas at both ends.",
      "Mash a generous handful of beans against the side of the pot. Rajma should be thick enough to sit on rice, not run off it — this is the step that gets it there.",
-     "Garam masala and amchur OFF the heat. Cilantro."],
+     "Garam masala and lemon juice OFF the heat. Cilantro."],
     """SOAK THEM AND PRESSURE-COOK THEM. Raw red kidney beans contain a lectin that makes you genuinely ill, and — this is the counterintuitive part — a low, gentle simmer concentrates it rather than destroying it. A pressure cooker demolishes it completely, so the Instant Pot method here is the safe one. Never finish rajma in a slow cooker on low, and discard the soaking water.
 
 Four servings this week, four flat-frozen for next. Like the chana, better on day three.
@@ -154,18 +154,18 @@ Cilantro, to finish""",
      "Salt hard at the end. Cilantro off the heat."],
     """FRYING THE TAMA IS THE WHOLE TRICK. Unfried, the sourness dominates everything else in the pot. Five minutes in hot oil turns it savory and a little nutty, and it's the difference between this tasting Nepali and tasting like a mistake.
 
-Four servings this week, four flat-frozen for next.
+Two servings this week (Tuesday dinner), six flat-frozen in bags of two. One batch is four Tuesdays: thaw a bag each week, and skip cooking this anchor on the next cooking week while the freezer still holds two bags.
 
 WAXY POTATOES, NOT RUSSET, AND CUT THEM CHUNKY. Half this batch goes in the freezer, and potato does not love being frozen — it comes back slightly grainy. Waxy varieties hold their structure far better, and 1-inch chunks survive where dice turns to mush. It's a curry, so a soft potato is a small sin, but russet dice would genuinely disappoint you by week two.
 
 NO TIMUR? Ground Sichuan pepper is already in your kit for the crumbles, and it's a close cousin — same numbing citrus family. Use the same amount.
 
-PROTEIN is about 10 g a serving, which is on the light side for an anchor. That's accounted for, and the kit covers it without new shopping: Tuesday takes crispy tofu alongside, Friday's bowl takes an edamame scoop.
+PROTEIN is about 10 g a serving, which is on the light side for an anchor. That's accounted for, and the kit covers it without new shopping: Tuesday takes crispy tofu alongside.
 
 ROTATION PARTNERS for this slot: palak tofu, kwati, tofu keema matar, mismas tarkari.""",
-    "The stovetop anchor. Tuesday's dinner and Friday's lunch bowl, with half frozen flat for next week.",
+    "The stovetop anchor. Tuesday's dinner, with six servings frozen flat for the Tuesdays after.",
     "8", "15 min", "35 min", "50 min", ["Nepali"],
-    ["dinner-tue-aloo-tama", "lunch-fri-aloo-tama-bowl"])
+    ["dinner-tue-aloo-tama"])
 
 # ============================================================== COMPONENTS
 
@@ -203,8 +203,7 @@ SHARED BASE
 1 tsp onion powder
 Black pepper
 SICHUAN ZONE
-1/2 tsp five-spice powder
-1/2 tsp ground Sichuan pepper
+1 tsp ground Sichuan pepper
 Extra chili crisp
 CUMIN-GARAM MASALA ZONE
 1 tsp ground cumin
@@ -285,7 +284,7 @@ Pinch of salt""",
      "FULL 10 minute natural release — cutting it short gives you wet rice.",
      "Fluff and spread on a sheet pan to cool fast.",
      "STOVETOP BATCH: one batch is not enough. 3 cups rinsed rice, 4 1/2 cups water, boil then lowest heat, lid on, 15 minutes, rest 10. Run this on the stovetop once the aloo tama is off it."],
-    """Both batches together yield about 19 cups cooked, which is what the week actually needs: roughly 11 cups across the ten lunch containers, about 4 cups held back for Monday and Thursday dinners, and 4 cups frozen flat.
+    """Both batches together yield about 19 cups cooked, which is what the week actually needs: roughly 10 cups across the eight lunch containers, about 5 cups held back for Monday and Thursday dinners, and the rest frozen flat.
 
 STORAGE: half to the fridge, half frozen flat in portions. Frozen rice microwaves better than four-day-old fridge rice, and it skips the food-safety question entirely — cooked rice wants to get cold quickly and be eaten within four days.
 Reheat: 3 minutes from frozen, 90 seconds from the fridge.
@@ -324,7 +323,7 @@ Salt""",
 
 Harissa veg — 4 portions, and that is the whole tray: Tuesday lunch x2, Thursday lunch x2. Each portion is 1 / 1 1/2 cups veg and 1/2 / 3/4 cup chickpeas. Two go into Tuesday's containers on prep day; the other two into a tub labelled "Thu lunch", packed Wednesday night. Nothing else in the week uses it.
 
-Chili-cumin veg — 8 portions across 4 meals: Monday dinner x2, Wednesday lunch x2, Thursday sabzi x2, Friday lunch x2. Split it four ways at portioning time: 2 cups into the Wednesday lunch containers (1 cup each); 1 cup into a tub labelled "Fri lunch" (1/2 cup each, packed Wednesday night); the rest halved between tubs labelled "Mon dinner" and "Thu sabzi".
+Chili-cumin veg — 6 portions across 3 meals: Monday dinner x2, Wednesday lunch x2, Thursday sabzi x2. Split it three ways at portioning time: 2 cups into the Wednesday lunch containers (1 cup each); the rest halved between tubs labelled "Mon dinner" and "Thu sabzi".
 
 TWO CANS OF CHICKPEAS, NOT ONE. The Mediterranean bowl runs Tuesday AND Thursday for both of you — that is four bowls, not two. One can yields about 1 1/4 cups roasted, which works out to a third of a cup a bowl and is not enough to be anyone's protein.
 
@@ -336,7 +335,7 @@ On a freezer week, pick different vegetables and a different spice profile from 
     "Two trays, two spice profiles. The backbone of hands-off prep.",
     "8", "20 min", "30 min", "50 min", (),
     ["dinner-mon-sticky-tofu", "dinner-thu-chana-jeera-rice", "lunch-mediterranean-bowl",
-     "lunch-wed-sichuan-crumble-bowl", "lunch-fri-aloo-tama-bowl"])
+     "lunch-wed-sichuan-crumble-bowl"])
 
 add("component-stir-fry-pack", "Wednesday Stir-Fry Pack", COMPONENT,
     """1/2 medium cabbage, shredded
@@ -619,22 +618,6 @@ Crumbles packed against wet rice lose everything that makes them worth making. T
 THE SICHUAN ZONE IS THE TIGHTEST OF THE THREE. These two bowls take about 1 1/4 cups of roughly 2. That's why Wednesday dinner's crumbles are optional — if you want them in the chowmein too, make that zone bigger on prep day rather than short the lunches.""",
     "", "1", "5 min", "", "5 min")
 
-add("lunch-fri-aloo-tama-bowl", "Friday Lunch — Aloo Tama Bowl", LUNCH,
-    """Aloo tama bodi
-Cooked rice
-Chili-cumin roasted vegetables, the "Fri lunch" tub
-Shelled edamame
-Cilantro
-Lemon wedge, packed separately""",
-    ["Aloo tama over rice, chili-cumin veg alongside.",
-     "EDAMAME STRAIGHT FROM FROZEN, half a cup at least. It thaws in the fridge overnight and reheats with everything else — and it's what closes the protein gap this anchor leaves.",
-     "Lemon wedge in its own corner.",
-     "Packed Wednesday night rather than prep day, so it's two days old rather than five."],
-    """PORTIONS — Person A: 1 1/2 cups aloo tama, 1 cup rice, 1/2 cup chili-cumin veg, 1/2 cup edamame. Person B: 2 cups aloo tama, 1 1/2 cups rice, 1/2 cup chili-cumin veg, 1 cup edamame.
-
-THE EDAMAME MATTERS MORE IN THIS BOWL THAN THE OTHERS. Aloo tama is the lightest anchor on protein — about 10 g a serving — so this is the one lunch where skipping the scoop actually shows up in your day's total. It goes in on Wednesday night with everything else.""",
-    "", "1", "5 min", "", "5 min", ["Nepali"])
-
 # =============================================================== BREAKFAST
 
 add("breakfast-shake", "Post-Workout Breakfast Shake", BREAKFAST,
@@ -671,7 +654,7 @@ add("project-seitan", "Seitan, Three Flavors", PROJECT,
 SHAWARMA
 Cumin, coriander, smoked paprika, cinnamon, garlic
 CHAR SIU
-Five-spice, hoisin, soy sauce, a little maple
+Hoisin, soy sauce, a little maple
 CHORIZO
 Smoked paprika, chipotle, oregano, garlic, red wine vinegar""",
     ["Whisk the dry ingredients, whisk the wet, then combine.",
@@ -1027,7 +1010,7 @@ ANCHOR_SWAP = {
             'it is done at 1:12.<span class="hands-off">hands off &rarr; 1:12</span></span></li>'),
         "pot-done": (
             '<li><span class="clock">1:12</span><span>Chana done. Mash a few chickpeas against the pot to thicken. '
-            '<strong>1 tbsp garam masala</strong> and <strong>2 tsp amchur</strong> in <em>off the heat</em>. '
+            '<strong>1 tbsp garam masala</strong> and <strong>the juice of 1 lemon</strong> in <em>off the heat</em>. '
             'Spread on a pan to cool.</span></li>'
             '<li><span class="clock">1:15</span><span><strong>Rice, batch 1.</strong> Rinse the pot. <strong>5 cups '
             'basmati, rinsed until the water runs clear, 5 cups water</strong>, pinch of salt. 6 min high pressure, '
@@ -1064,7 +1047,7 @@ ANCHOR_SWAP = {
         "pot-done": (
             '<li><span class="clock">1:23</span><span>Rajma done. Mash a <em>generous</em> handful of beans against the '
             'pot &mdash; rajma should sit on rice, not run off it. <strong>1 tbsp garam masala</strong> and '
-            '<strong>1 tsp amchur</strong> in <em>off the heat</em>. Spread on a pan to cool.</span></li>'
+            '<strong>the juice of 1 lemon</strong> in <em>off the heat</em>. Spread on a pan to cool.</span></li>'
             '<li><span class="clock">1:26</span><span><strong>Rice, batch 1.</strong> Rinse the pot. <strong>5 cups '
             'basmati, rinsed until the water runs clear, 5 cups water</strong>, pinch of salt. 6 min high pressure, '
             '<strong>full 10 min natural release</strong>. <em>Check your Instant Pot’s half-full line &mdash; 5 cups '

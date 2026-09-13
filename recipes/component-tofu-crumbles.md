@@ -22,8 +22,7 @@ One sheet pan, three spice profiles, three ingredients out.
 
 **SICHUAN ZONE**
 
-- 1/2 tsp five-spice powder
-- 1/2 tsp ground Sichuan pepper
+- 1 tsp ground Sichuan pepper
 - Extra chili crisp
 
 **CUMIN-GARAM MASALA ZONE**
