@@ -131,6 +131,9 @@ Every one of these came from them actually cooking. **Assume remaining estimates
 | Week B "50 min" put crumbles in the oven at 0:00 (a 15-min job) | ~1 hr for two, ~1h30 solo | `43735bc` |
 | Rice badly undersized: 3 cups dry ≈ 8 cups cooked, week needs ~17 | 5 cups IP + 3 cups stovetop at 1:28 | `0f98a08` |
 | Salad greens and broccoli on the shopping list, used in no recipe | Greens dropped; broccoli became a cauliflower option | `ae4a2fd`, `43735bc` |
+| Week B said "marinate the tofu at 0:17" with no marinade; the recipe said "toss in the marinade" | Week B is a real timeline with the marinade inline; recipe step spells it out | see git log |
+| Shopping lines bundled several items ("Light soy · dark soy") — hard to tick, easy to miss one | One ingredient per line, each with its purpose | see git log |
+| "One 28 oz can of crushed tomatoes a week" bought two cans; anchors are only cooked on Week A | One can per anchor batch; freezer weeks need none | see git log |
 
 ---
 

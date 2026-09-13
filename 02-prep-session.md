@@ -197,7 +197,7 @@ Move the frozen anchors to the fridge **Friday night** so they're thawed.
 |---|---|
 | **0:00** | Oven to 425°F. **Crumble and season 2 blocks of tofu — 15 min**, three zones. |
 | **0:15** | Crumbles into the oven, 25–30 min. |
-| **0:17** | Squeeze, cube and marinate the thawed tofu. |
+| **0:17** | **Tofu — 10 min.** Squeeze the 2 thawed blocks hard over the sink. Cube. **Marinade: 3 tbsp soy sauce · 1 tbsp rice vinegar · 1 tbsp maple syrup · 2 tsp sesame oil · 3 cloves grated garlic · 1 tbsp grated ginger · 2 tbsp cornstarch.** Toss the cubes through it, set aside. |
 | **0:27** | Rice into the Instant Pot. 6 min pressure, 10 min natural release. |
 | **0:30** | Wash and chop **one** veg tray — different vegetables and a different spice from last week. |
 | **0:45** | Crumbles out, veg tray in, 30 min. Tofu into the air fryer. |

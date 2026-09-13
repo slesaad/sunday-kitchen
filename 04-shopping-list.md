@@ -57,11 +57,19 @@ Everything here is a fraction of supermarket prices, and the spices are fresher.
 
 ### Supermarket
 
-Cornstarch · nutritional yeast · maple syrup · **harissa paste** *(international aisle or
-near the hot sauces; Trader Joe's carries it — or make your own in 5 minutes, see
-[`recipes/sauce-harissa.md`](recipes/sauce-harissa.md))* · smoked paprika · chipotle
-powder · white vinegar · canned crushed tomatoes — **one 28 oz can a week, for the chana
-only** · tomato paste · canned black beans · salsa
+| | |
+|---|---|
+| Cornstarch | the crust on the tofu and the crumbles |
+| Nutritional yeast | |
+| Maple syrup | |
+| **Harissa paste** | international aisle or near the hot sauces; Trader Joe's carries it — or make your own in 5 minutes, see [`recipes/sauce-harissa.md`](recipes/sauce-harissa.md) |
+| Smoked paprika | |
+| Chipotle powder | |
+| White vinegar | for the quick-pickled onions |
+| Canned crushed tomatoes | **one 28 oz can, and only on a week you cook the chana.** One can is the whole batch, nothing else uses them, and freezer weeks need none |
+| Tomato paste | |
+| Canned black beans | Friday's tacos |
+| Salsa | Friday's tacos |
 
 > **Dried oregano** is worth buying only when you reach the **week 3 seitan project** — the
 > chorizo flavouring is its one use in this plan.
