@@ -29,4 +29,6 @@
 
 15 minutes wall clock, 10 minutes hands-on.
 
+MACROS — Person A: 628 kcal, 25 g protein. Person B: 881 kcal, 39 g protein. That is 150 g of tofu for A and 250 g for B, which is what "half the batch" comes to.
+
 ROTATION: from week 3 this slot alternates with char siu seitan — sear the slices hard in a dry pan, then the same glaze off the heat. From week 5, optionally satay tempeh: steam it 10 minutes first — that removes the bitterness, and skipping it is why most people think they don't like tempeh — then sear and use the same glaze. If you want it peanutty, whisk 2 tbsp peanut butter and a squeeze of lime into the glaze.

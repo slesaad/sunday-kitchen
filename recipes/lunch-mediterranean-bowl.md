@@ -21,7 +21,9 @@
 
 ## Notes
 
-This is the one bowl with no tofu in it, and that's deliberate — the protein is the roasted chickpeas off the harissa tray plus the tahini, around 33 g. It keeps chickpeas and crumbles from competing for the same slot. Add an edamame scoop if you're short.
+This is the one bowl with no tofu in it, and that's deliberate — the protein is the roasted chickpeas off the harissa tray plus the tahini. That makes it the lightest lunch of the week: about 20 g for Person A as written, 38 g for Person B with the edamame. ADD THE 1/2 CUP OF EDAMAME FOR PERSON A TOO — it takes the bowl to 29 g. Keeping chickpeas here and crumbles elsewhere is what stops the two from competing for the same slot.
+
+MACROS — Person A: 585 kcal, 20 g protein as written, 679 kcal, 29 g protein with the edamame. Person B: 954 kcal, 38 g protein.
 
 PORTIONS — Person A: 1 cup rice, 1 cup harissa veg, 1/2 cup roasted chickpeas, cucumber and tomato, 2 tbsp tahini. Person B: 1 1/2 cups rice, 1 1/2 cups harissa veg, 3/4 cup roasted chickpeas, PLUS 1/2 cup edamame, 3 tbsp tahini.
 

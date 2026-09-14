@@ -139,7 +139,7 @@ container, not a different recipe. The per-bowl amounts above all come from this
 | Grain | 1 cup cooked | 1½ cups cooked |
 | Anchor / main | 1½ cups | 2 cups |
 | Edamame | ½ cup shelled | 1 cup shelled |
-| Extra | — | + ¼ cup crumbles, or 100 g extra tofu |
+| Extra | — | + ½ cup crumbles (7 g), or 100 g extra tofu (10 g) |
 
 **Booster cheat sheet:**
 

@@ -25,6 +25,8 @@
 
 ## Notes
 
+MACROS — Person A: 821 kcal, 33 g protein. Person B: 1,057 kcal, 40 g protein. One serving of falafel each, 1 pita for A and 2 for B.
+
 18 minutes wall clock, 8 hands-on — most of it is the air fryer working alone.
 
 The same assembly as taco night with different seasonings, which is exactly why it slots here: warm flatbread, a crisp protein, pickled onions, a creamy sauce, a slaw. Three of those five are already in the kit. Pita instead of tortillas is the only new item.

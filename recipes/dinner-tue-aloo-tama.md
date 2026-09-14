@@ -21,6 +21,8 @@
 
 10 minutes wall clock, 4 minutes hands-on. This is now the easiest dinner of the week — nothing here is cooking, it's all reheating.
 
+MACROS — Person A: 575 kcal, 27 g protein. Person B: 883 kcal, 43 g protein. That assumes 100 g of crispy tofu for A and 200 g for B.
+
 THE TOFU ISN'T OPTIONAL HERE. Aloo tama runs about 10 g of protein a serving on its own; the crispy tofu is what brings the plate up to where the rest of the week sits. Monday only uses half the batch, so it's already in the fridge waiting.
 
 ROTATION: the anchor in this slot changes every cycle — aloo tama bodi, palak tofu, kwati, tofu keema matar.

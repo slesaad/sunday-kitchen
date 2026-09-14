@@ -441,6 +441,8 @@ Scallions""",
      "Sesame seeds, scallions."],
     """15 minutes wall clock, 10 minutes hands-on.
 
+MACROS — Person A: 628 kcal, 25 g protein. Person B: 881 kcal, 39 g protein. That is 150 g of tofu for A and 250 g for B, which is what "half the batch" comes to.
+
 ROTATION: from week 3 this slot alternates with char siu seitan — sear the slices hard in a dry pan, then the same glaze off the heat. From week 5, optionally satay tempeh: steam it 10 minutes first — that removes the bitterness, and skipping it is why most people think they don't like tempeh — then sear and use the same glaze. If you want it peanutty, whisk 2 tbsp peanut butter and a squeeze of lime into the glaze.""",
     "", "2", "5 min", "10 min", "15 min", ["Chinese"])
 
@@ -455,6 +457,8 @@ Lemon wedges""",
      "Rice — 3 minutes from frozen, 90 seconds from the fridge.",
      "Tofu on top or alongside, cilantro, a squeeze of lemon."],
     """10 minutes wall clock, 4 minutes hands-on. This is now the easiest dinner of the week — nothing here is cooking, it's all reheating.
+
+MACROS — Person A: 575 kcal, 27 g protein. Person B: 883 kcal, 43 g protein. That assumes 100 g of crispy tofu for A and 200 g for B.
 
 THE TOFU ISN'T OPTIONAL HERE. Aloo tama runs about 10 g of protein a serving on its own; the crispy tofu is what brings the plate up to where the rest of the week sits. Monday only uses half the batch, so it's already in the fridge waiting.
 
@@ -483,6 +487,8 @@ Scallions""",
      "Scallions."],
     """18 minutes wall clock, 14 hands-on. The longest dinner of the week, because a stir-fry has to be watched the whole time.
 
+MACROS — Person A: 432 kcal, 24 g protein. Person B: 573 kcal, 32 g protein. With the eggs and the crumbles both in; it is the lightest dinner of the week, so this is a good night for B's edamame booster.
+
 THIS ASSUMES THE STIR-FRY PACK EXISTS. Chopping the vegetables fresh puts this at 28 minutes.
 
 TO GET IT TO 12 MINUTES: cook the noodles on prep day, two minutes under, tossed in oil — that's how restaurants hold lo mein. They're slightly softer by Wednesday, but it removes the boil from the weeknight entirely.""",
@@ -505,6 +511,8 @@ Soy yogurt, cucumber and cumin, for optional raita""",
      "Chana in the microwave, 4 minutes.",
      "Optional raita: soy yogurt, grated cucumber, cumin, salt."],
     """15 minutes wall clock, 12 hands-on.
+
+MACROS — Person A: 801 kcal, 30 g protein. Person B: 1,100 kcal, 41 g protein. The heaviest plate of the week for B, so make tonight's booster 1/2 cup of crumbles rather than a cup of edamame.
 
 WITH GARDEN TOMATOES: kachumber is the right foil for a heavy curry — diced tomato, cucumber, red onion, lemon, cumin, cilantro. Five minutes.
 
@@ -533,6 +541,8 @@ Salt""",
 
 TREAT NIGHT: if Impossible grounds or TVP are going to appear in the week, they appear here, and only here. Once a week, maximum.
 
+MACROS — Person A: 674 kcal, 30 g protein. Person B: 895 kcal, 39 g protein. With 3 corn tortillas for A and 4 for B.
+
 WITH GARDEN TOMATOES: fresh pico de gallo instead of jarred salsa — tomato, onion, jalapeño, lime, cilantro, salt. Five minutes, and it's not close.
 
 Alternates with falafel night.""",
@@ -554,7 +564,9 @@ Salt""",
      "Warm the pita — over the flame, or in the air fryer for the last 2 minutes.",
      "Slaw: shredded cabbage, lemon, salt, olive oil. 3 minutes.",
      "Assemble with tahini-lemon, pickled onions, cucumber, tomato, parsley."],
-    """18 minutes wall clock, 8 hands-on — most of it is the air fryer working alone.
+    """MACROS — Person A: 821 kcal, 33 g protein. Person B: 1,057 kcal, 40 g protein. One serving of falafel each, 1 pita for A and 2 for B.
+
+18 minutes wall clock, 8 hands-on — most of it is the air fryer working alone.
 
 The same assembly as taco night with different seasonings, which is exactly why it slots here: warm flatbread, a crisp protein, pickled onions, a creamy sauce, a slaw. Three of those five are already in the kit. Pita instead of tortillas is the only new item.
 
@@ -575,6 +587,8 @@ Lemon wedge, packed separately""",
      "Lemon wedge in a separate corner. Assembled on prep day."],
     """PORTIONS — Person A: 1 1/2 cups chana, 1 cup rice, 1/2 cup edamame. Person B: 2 cups chana, 1 1/2 cups rice, 1 cup edamame.
 
+MACROS — Person A: 598 kcal, 28 g protein. Person B: 894 kcal, 44 g protein.
+
 THIS CONTAINER LEAVES THE KITCHEN FINISHED. Initial and day on the lid, nothing to add on the day. You take it out of the fridge and go.""",
     "", "1", "5 min", "", "5 min")
 
@@ -590,7 +604,9 @@ Tahini-lemon sauce, PACKED SEPARATELY""",
     ["Layer rice, harissa veg, roasted chickpeas, cucumber, cherry tomato, pickled onion and parsley.",
      "TAHINI-LEMON GOES IN ITS OWN CONTAINER. Dressing it on prep day turns the grains to paste by Tuesday. Dress it at your desk.",
      "Tuesday's is packed on prep day; Thursday's is packed Wednesday night, so nothing you eat is five days old."],
-    """This is the one bowl with no tofu in it, and that's deliberate — the protein is the roasted chickpeas off the harissa tray plus the tahini, around 33 g. It keeps chickpeas and crumbles from competing for the same slot. Add an edamame scoop if you're short.
+    """This is the one bowl with no tofu in it, and that's deliberate — the protein is the roasted chickpeas off the harissa tray plus the tahini. That makes it the lightest lunch of the week: about 20 g for Person A as written, 38 g for Person B with the edamame. ADD THE 1/2 CUP OF EDAMAME FOR PERSON A TOO — it takes the bowl to 29 g. Keeping chickpeas here and crumbles elsewhere is what stops the two from competing for the same slot.
+
+MACROS — Person A: 585 kcal, 20 g protein as written, 679 kcal, 29 g protein with the edamame. Person B: 954 kcal, 38 g protein.
 
 PORTIONS — Person A: 1 cup rice, 1 cup harissa veg, 1/2 cup roasted chickpeas, cucumber and tomato, 2 tbsp tahini. Person B: 1 1/2 cups rice, 1 1/2 cups harissa veg, 3/4 cup roasted chickpeas, PLUS 1/2 cup edamame, 3 tbsp tahini.
 
@@ -611,7 +627,9 @@ Gochujang-sesame sauce, PACKED SEPARATELY""",
     ["Rice, chili-cumin veg, edamame and cucumber in the main container.",
      "Sichuan crumbles and gochujang-sesame in two small separate containers.",
      "At work: reheat the main container, THEN scatter the crumbles on and add the sauce."],
-    """PORTIONS — Person A: 1 cup rice, 1 cup chili-cumin veg, 1/2 cup edamame, cucumber; 1/2 cup crumbles and 2 tbsp sauce in their own pots. Person B: 1 1/2 cups rice, 1 cup chili-cumin veg, 1 cup edamame, cucumber; 3/4 cup crumbles and 3 tbsp sauce.
+    """MACROS — Person A: 640 kcal, 25 g protein. Person B: 924 kcal, 41 g protein.
+
+PORTIONS — Person A: 1 cup rice, 1 cup chili-cumin veg, 1/2 cup edamame, cucumber; 1/2 cup crumbles and 2 tbsp sauce in their own pots. Person B: 1 1/2 cups rice, 1 cup chili-cumin veg, 1 cup edamame, cucumber; 3/4 cup crumbles and 3 tbsp sauce.
 
 Crumbles packed against wet rice lose everything that makes them worth making. The two extra pots travel WITH the container, taped to it or nested inside — they are part of this lunch, not a thing to remember on the day.
 

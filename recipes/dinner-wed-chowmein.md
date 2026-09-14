@@ -31,6 +31,8 @@
 
 18 minutes wall clock, 14 hands-on. The longest dinner of the week, because a stir-fry has to be watched the whole time.
 
+MACROS — Person A: 432 kcal, 24 g protein. Person B: 573 kcal, 32 g protein. With the eggs and the crumbles both in; it is the lightest dinner of the week, so this is a good night for B's edamame booster.
+
 THIS ASSUMES THE STIR-FRY PACK EXISTS. Chopping the vegetables fresh puts this at 28 minutes.
 
 TO GET IT TO 12 MINUTES: cook the noodles on prep day, two minutes under, tossed in oil — that's how restaurants hold lo mein. They're slightly softer by Wednesday, but it removes the boil from the weeknight entirely.

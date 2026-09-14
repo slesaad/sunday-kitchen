@@ -19,6 +19,8 @@
 
 ## Notes
 
+MACROS — Person A: 640 kcal, 25 g protein. Person B: 924 kcal, 41 g protein.
+
 PORTIONS — Person A: 1 cup rice, 1 cup chili-cumin veg, 1/2 cup edamame, cucumber; 1/2 cup crumbles and 2 tbsp sauce in their own pots. Person B: 1 1/2 cups rice, 1 cup chili-cumin veg, 1 cup edamame, cucumber; 3/4 cup crumbles and 3 tbsp sauce.
 
 Crumbles packed against wet rice lose everything that makes them worth making. The two extra pots travel WITH the container, taped to it or nested inside — they are part of this lunch, not a thing to remember on the day.

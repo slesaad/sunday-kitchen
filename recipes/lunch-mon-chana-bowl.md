@@ -21,4 +21,6 @@
 
 PORTIONS — Person A: 1 1/2 cups chana, 1 cup rice, 1/2 cup edamame. Person B: 2 cups chana, 1 1/2 cups rice, 1 cup edamame.
 
+MACROS — Person A: 598 kcal, 28 g protein. Person B: 894 kcal, 44 g protein.
+
 THIS CONTAINER LEAVES THE KITCHEN FINISHED. Initial and day on the lid, nothing to add on the day. You take it out of the fridge and go.

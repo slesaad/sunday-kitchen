@@ -31,6 +31,8 @@
 
 TREAT NIGHT: if Impossible grounds or TVP are going to appear in the week, they appear here, and only here. Once a week, maximum.
 
+MACROS — Person A: 674 kcal, 30 g protein. Person B: 895 kcal, 39 g protein. With 3 corn tortillas for A and 4 for B.
+
 WITH GARDEN TOMATOES: fresh pico de gallo instead of jarred salsa — tomato, onion, jalapeño, lime, cilantro, salt. Five minutes, and it's not close.
 
 Alternates with falafel night.

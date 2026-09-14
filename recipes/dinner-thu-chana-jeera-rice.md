@@ -27,6 +27,8 @@
 
 15 minutes wall clock, 12 hands-on.
 
+MACROS — Person A: 801 kcal, 30 g protein. Person B: 1,100 kcal, 41 g protein. The heaviest plate of the week for B, so make tonight's booster 1/2 cup of crumbles rather than a cup of edamame.
+
 WITH GARDEN TOMATOES: kachumber is the right foil for a heavy curry — diced tomato, cucumber, red onion, lemon, cumin, cilantro. Five minutes.
 
 ROTATION: the anchor in this slot changes every cycle — chana masala, rajma, dal tadka, sambar-style lentil & vegetable, aloo chana.

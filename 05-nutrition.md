@@ -31,27 +31,41 @@ quarter cup. **Leave the protein alone.** It's the one number that shouldn't mov
 
 ---
 
-## A typical day, Person A
+## Macros per meal
 
-| | Protein | Calories |
+Estimated from the recipes at the portions the plan states; kcal · **protein** · carbs · fat.
+Shared pans (chowmein, sabzi, tacos) are split 1½ : 2 cups, so A gets 43% and B 57%. B's booster is its own line.
+Recompute with `~/repo/claude-docs/mealprep/macros.py` after any portion change.
+
+| Meal | Person A | Person B |
 |---|---|---|
-| **Shake** — 1 scoop protein, ½ cup oats, banana, 1 tbsp flax, 1½ cups soy milk | 44 g | 570 |
-| **Lunch** — 1½ cups chana masala, 1 cup rice, ½ cup edamame | 27 g | 645 |
-| **Dinner** — 150 g crispy tofu, 1 cup rice, roasted veg, sauce | 24 g | 635 |
-| **Snack** — soy yogurt and fruit, or a handful of almonds | 5 g | 180 |
-| **Total** | **~100 g** | **~2,030** |
+| Breakfast shake | 562 kcal · **44 g P** · 65 C · 14 F | 827 kcal · **54 g P** · 86 C · 31 F |
+| Mon lunch · chana bowl | 598 kcal · **28 g P** · 99 C · 12 F | 894 kcal · **44 g P** · 144 C · 19 F |
+| Tue + Thu lunch · Med bowl *(as written)* | 585 kcal · **20 g P** · 94 C · 16 F | 954 kcal · **38 g P** · 144 C · 28 F |
+| Tue + Thu lunch · Med bowl *(A adds &frac12; cup edamame)* | 679 kcal · **29 g P** · 101 C · 20 F | 954 kcal · **38 g P** · 144 C · 28 F |
+| Wed lunch · Sichuan crumble bowl | 640 kcal · **25 g P** · 90 C · 22 F | 924 kcal · **41 g P** · 125 C · 32 F |
+| Mon dinner · sticky tofu *(150 / 250 g tofu)* | 628 kcal · **25 g P** · 95 C · 18 F | 881 kcal · **39 g P** · 128 C · 25 F |
+| Tue dinner · aloo tama *(100 / 200 g tofu)* | 575 kcal · **27 g P** · 89 C · 13 F | 883 kcal · **43 g P** · 130 C · 22 F |
+| Wed dinner · chowmein *(with eggs and crumbles)* | 432 kcal · **24 g P** · 37 C · 24 F | 573 kcal · **32 g P** · 48 C · 31 F |
+| Thu dinner · chana, jeera rice, sabzi | 801 kcal · **30 g P** · 119 C · 25 F | 1,100 kcal · **41 g P** · 165 C · 34 F |
+| Fri dinner · tacos *(3 / 4 corn tortillas)* | 674 kcal · **30 g P** · 84 C · 27 F | 895 kcal · **39 g P** · 112 C · 36 F |
+| Fri dinner · falafel night *(1 / 2 pita)* | 821 kcal · **33 g P** · 122 C · 25 F | 1,057 kcal · **40 g P** · 159 C · 32 F |
+| Snack · 1 oz almonds | 165 kcal · **6 g P** · 6 C · 14 F | 165 kcal · **6 g P** · 6 C · 14 F |
+| B's booster · 1 cup edamame *(on any dinner)* | 0 kcal · **0 g P** · 0 C · 0 F | 188 kcal · **18 g P** · 14 C · 8 F |
 
-## A typical day, Person B
+## Where a day lands
 
-| | Protein | Calories |
+Shake, lunch, dinner and the almond snack; B's column includes the edamame booster. The Med bowl is as written — A adding the ½ cup of edamame moves those days up 9 g and ~95 kcal.
+
+| Day | Person A | Person B |
 |---|---|---|
-| **Shake** — 1 scoop protein, ¾ cup oats, banana, flax, 2 tbsp PB, 1½ cups soy milk | 55 g | 815 |
-| **Lunch** — 2 cups chana masala, 1½ cups rice, 1 cup edamame | 44 g | 955 |
-| **Dinner** — 250 g crispy tofu, 1½ cups rice, roasted veg, ¼ cup crumbles, sauce | 46 g | 1,055 |
-| **Total** | **~145 g** | **~2,825** |
+| Monday | 1,952 kcal · **103 g** | 2,954 kcal · **161 g** |
+| Tuesday | 1,887 kcal · **96 g** | 3,017 kcal · **160 g** |
+| Wednesday | 1,799 kcal · **99 g** | 2,677 kcal · **151 g** |
+| Thursday | 2,113 kcal · **100 g** | 3,234 kcal · **158 g** |
+| Friday, before lunch out | 1,401 kcal · **79 g** | 2,075 kcal · **118 g** |
 
-Ten grams short of target — close it with a second scoop of protein in the shake, another
-half cup of edamame at lunch, or 100 g more of the crispy tofu on the dinner bowl.
+**Two things the numbers say.** The Mediterranean bowl is the weakest lunch for protein — about 20 g for Person A as written — so the ½ cup of edamame in that bowl should be standard for both of you. And Thursday runs heavy on calories for Person B (an 1,100 kcal plate), so that is the night to make the booster ½ cup of crumbles instead of a cup of edamame.
 
 ---
 
