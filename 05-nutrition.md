@@ -34,7 +34,7 @@ quarter cup. **Leave the protein alone.** It's the one number that shouldn't mov
 ## Macros per meal
 
 Estimated from the recipes at the portions the plan states; kcal · **protein** · carbs · fat.
-Shared pans (chowmein, sabzi, tacos) are split 1½ : 2 cups, so A gets 43% and B 57%. B's booster is its own line.
+Shared pans (chowmein, Thursday's tofu-and-veg pan, tacos) are split 1½ : 2 cups, so A gets 43% and B 57%. B's booster is its own line.
 Recompute with `~/repo/claude-docs/mealprep/macros.py` after any portion change.
 
 | Meal | Person A | Person B |
@@ -47,7 +47,7 @@ Recompute with `~/repo/claude-docs/mealprep/macros.py` after any portion change.
 | Mon dinner · sticky tofu *(150 / 250 g tofu)* | 628 kcal · **25 g P** · 95 C · 18 F | 881 kcal · **39 g P** · 128 C · 25 F |
 | Tue dinner · aloo tama *(100 / 200 g tofu)* | 575 kcal · **27 g P** · 89 C · 13 F | 883 kcal · **43 g P** · 130 C · 22 F |
 | Wed dinner · chowmein *(with eggs and crumbles)* | 432 kcal · **24 g P** · 37 C · 24 F | 573 kcal · **32 g P** · 48 C · 31 F |
-| Thu dinner · chana, jeera rice, sabzi | 801 kcal · **30 g P** · 119 C · 25 F | 1,100 kcal · **41 g P** · 165 C · 34 F |
+| Thu dinner · chana, jeera rice, cumin-garam tofu + chili-cumin veg | 801 kcal · **30 g P** · 119 C · 25 F | 1,100 kcal · **41 g P** · 165 C · 34 F |
 | Fri dinner · tacos *(3 / 4 corn tortillas)* | 674 kcal · **30 g P** · 84 C · 27 F | 895 kcal · **39 g P** · 112 C · 36 F |
 | Fri dinner · falafel night *(1 / 2 pita)* | 821 kcal · **33 g P** · 122 C · 25 F | 1,057 kcal · **40 g P** · 159 C · 32 F |
 | Snack · 1 oz almonds | 165 kcal · **6 g P** · 6 C · 14 F | 165 kcal · **6 g P** · 6 C · 14 F |

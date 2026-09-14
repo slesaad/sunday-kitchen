@@ -137,6 +137,7 @@ Every one of these came from them actually cooking. **Assume remaining estimates
 | Shopping lines bundled several items ("Light soy · dark soy") — hard to tick, easy to miss one | One ingredient per line, each with its purpose | see git log |
 | "One 28 oz can of crushed tomatoes a week" bought two cans; anchors are only cooked on Week A | One can per anchor batch; freezer weeks need none | see git log |
 | No per-meal macros; "¼ cup crumbles = 8 g" and "Med bowl ≈ 33 g" were both overstated (½ cup ≈ 7 g; Med bowl ≈ 20 g for A) | Macros table on the site and in every meal recipe, computed by `macros.py`; cheat sheet corrected | see git log |
+| "Sabzi" meant nothing to them | Named literally everywhere: "cumin-garam tofu + chili-cumin veg"; the tub is "Thu tofu + veg". Don't reintroduce the word | see git log |
 | Friday lunch was planned; they eat out on Fridays | Friday bowl removed; 8 containers; aloo tama freezes 6; chili-cumin veg is 6 portions | see git log |
 | Crumbles and veg trays had no portion counts; "roasted veg" named either tray; a stray "roasted chickpeas, 1 can" row contradicted the two-can tray | Batch table states portions per meal and how to split at 1:40; every "roasted veg" now says harissa or chili-cumin; harissa veg = the four Med bowls only | see git log |
 

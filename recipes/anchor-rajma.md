@@ -4,7 +4,7 @@
 
 The Instant Pot anchor, rajma week. Carries Monday's lunch and Thursday's dinner, half flat-frozen.
 
-**Used in:** [Monday Lunch — Chana Masala Bowl](lunch-mon-chana-bowl.md) · [Thursday — Chana, Jeera Rice, Crumble Sabzi](dinner-thu-chana-jeera-rice.md)
+**Used in:** [Monday Lunch — Chana Masala Bowl](lunch-mon-chana-bowl.md) · [Thursday — Chana, Jeera Rice, Cumin-Garam Tofu + Chili-Cumin Veg](dinner-thu-chana-jeera-rice.md)
 
 ## Ingredients
 

@@ -222,10 +222,10 @@ fifteen-minute job.
 | Cooked basmati rice | ~19 cups — 4 cups frozen flat, the rest to the fridge | Eight lunches (~10 cups) + Monday and Thursday dinners (~5 cups) |
 | Crispy marinated tofu | 2 blocks | Mon dinner, plus the week's boosters |
 | Sichuan crumbles | 3 portions — two lunch pots, one "Wed chowmein" tub | Wed lunch ×2, Wed dinner |
-| Cumin–garam crumbles | 2 portions — a 1½-cup "Thu sabzi" tub, the rest over Monday's lunches | Thu dinner ×2, Mon lunch |
+| Cumin–garam crumbles | 2 portions — a 1½-cup "Thu tofu + veg" tub, the rest over Monday's lunches | Thu dinner ×2, Mon lunch |
 | Chili–lime crumbles | 1 portion — one "Fri tacos" tub | Fri dinner ×2 |
 | Harissa veg, with its roasted chickpeas | 4 portions — two in Tuesday's containers, two in a "Thu lunch" tub | Tue lunch ×2, Thu lunch ×2 — nothing else |
-| Chili-cumin veg | 3 tubs — 2 cups in the Wed lunches, the rest halved for Mon dinner and Thu sabzi | Mon dinner ×2, Wed lunch ×2, Thu sabzi ×2 |
+| Chili-cumin veg | 3 tubs — 2 cups in the Wed lunches, the rest halved for Mon dinner and Thursday's cumin-garam tofu + chili-cumin veg | Mon dinner ×2, Wed lunch ×2, Thu dinner ×2 |
 | Two sauces | Jars | Tahini → Med bowls and falafel · gochujang → Wednesday lunch |
 | Stir-fry pack | 1 bag, shredded | Wednesday |
 | Quick-pickled onions | 1 jar | Med bowls, tacos |

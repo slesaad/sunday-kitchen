@@ -46,7 +46,7 @@ Assembly, not cooking. Wall clock first, hands-on second.
 | [Monday — Sticky Tofu, Rice, Chili-Cumin Veg](dinner-mon-sticky-tofu.md) | 2 | 15 min |
 | [Tuesday — Aloo Tama Bodi, Rice, Crispy Tofu](dinner-tue-aloo-tama.md) | 2 | 10 min |
 | [Wednesday — Veggie Chowmein](dinner-wed-chowmein.md) | 2 | 18 min |
-| [Thursday — Chana, Jeera Rice, Crumble Sabzi](dinner-thu-chana-jeera-rice.md) | 2 | 15 min |
+| [Thursday — Chana, Jeera Rice, Cumin-Garam Tofu + Chili-Cumin Veg](dinner-thu-chana-jeera-rice.md) | 2 | 15 min |
 | [Friday — Tacos with Chili-Lime Crumbles](dinner-fri-tacos.md) | 2 | 18 min |
 | [Friday, alternate — Falafel Night](dinner-fri-falafel-night.md) | 2 | 18 min |
 

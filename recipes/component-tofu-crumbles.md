@@ -4,7 +4,7 @@
 
 One sheet pan, three spice profiles, three ingredients out.
 
-**Used in:** [Wednesday Lunch — Sichuan Crumble Rice Bowl](lunch-wed-sichuan-crumble-bowl.md) · [Wednesday — Veggie Chowmein](dinner-wed-chowmein.md) · [Thursday — Chana, Jeera Rice, Crumble Sabzi](dinner-thu-chana-jeera-rice.md) · [Friday — Tacos with Chili-Lime Crumbles](dinner-fri-tacos.md)
+**Used in:** [Wednesday Lunch — Sichuan Crumble Rice Bowl](lunch-wed-sichuan-crumble-bowl.md) · [Wednesday — Veggie Chowmein](dinner-wed-chowmein.md) · [Thursday — Chana, Jeera Rice, Cumin-Garam Tofu + Chili-Cumin Veg](dinner-thu-chana-jeera-rice.md) · [Friday — Tacos with Chili-Lime Crumbles](dinner-fri-tacos.md)
 
 ## Ingredients
 
@@ -57,7 +57,7 @@ Adapted from Yeung Man Cooking's baked tofu crumbles.
 
 WHERE EACH ZONE GOES, about 2 cups each. Split them on prep day, at portioning time:
 Sichuan — 3 portions: two small pots for the Wednesday lunch bowls (1/2 cup A, 3/4 cup B), and the rest (~3/4 cup) in a tub labelled "Wed chowmein".
-Cumin-garam masala — 2 portions: 1 1/2 cups in a tub labelled "Thu sabzi" (that is both servings), and the rest (~1/2 cup) scattered over the two Monday lunch containers.
+Cumin-garam masala — 2 portions: 1 1/2 cups in a tub labelled "Thu tofu + veg" (that is both servings), and the rest (~1/2 cup) scattered over the two Monday lunch containers.
 Chili-lime — 1 portion: all of it in a tub labelled "Fri tacos"; both servings come out of it on the night.
 
 ON FALAFEL WEEKS, SEASON TWO ZONES, NOT THREE. Friday is falafel night that week, so nothing eats the chili-lime. Split the pan between Sichuan and cumin-garam masala instead.

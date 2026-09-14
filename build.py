@@ -228,7 +228,7 @@ Adapted from Yeung Man Cooking's baked tofu crumbles.
 
 WHERE EACH ZONE GOES, about 2 cups each. Split them on prep day, at portioning time:
 Sichuan — 3 portions: two small pots for the Wednesday lunch bowls (1/2 cup A, 3/4 cup B), and the rest (~3/4 cup) in a tub labelled "Wed chowmein".
-Cumin-garam masala — 2 portions: 1 1/2 cups in a tub labelled "Thu sabzi" (that is both servings), and the rest (~1/2 cup) scattered over the two Monday lunch containers.
+Cumin-garam masala — 2 portions: 1 1/2 cups in a tub labelled "Thu tofu + veg" (that is both servings), and the rest (~1/2 cup) scattered over the two Monday lunch containers.
 Chili-lime — 1 portion: all of it in a tub labelled "Fri tacos"; both servings come out of it on the night.
 
 ON FALAFEL WEEKS, SEASON TWO ZONES, NOT THREE. Friday is falafel night that week, so nothing eats the chili-lime. Split the pan between Sichuan and cumin-garam masala instead.
@@ -323,7 +323,7 @@ Salt""",
 
 Harissa veg — 4 portions, and that is the whole tray: Tuesday lunch x2, Thursday lunch x2. Each portion is 1 / 1 1/2 cups veg and 1/2 / 3/4 cup chickpeas. Two go into Tuesday's containers on prep day; the other two into a tub labelled "Thu lunch", packed Wednesday night. Nothing else in the week uses it.
 
-Chili-cumin veg — 6 portions across 3 meals: Monday dinner x2, Wednesday lunch x2, Thursday sabzi x2. Split it three ways at portioning time: 2 cups into the Wednesday lunch containers (1 cup each); the rest halved between tubs labelled "Mon dinner" and "Thu sabzi".
+Chili-cumin veg — 6 portions across 3 meals: Monday dinner x2, Wednesday lunch x2, Thursday dinner x2. Split it three ways at portioning time: 2 cups into the Wednesday lunch containers (1 cup each); the rest halved between tubs labelled "Mon dinner" and "Thu tofu + veg".
 
 TWO CANS OF CHICKPEAS, NOT ONE. The Mediterranean bowl runs Tuesday AND Thursday for both of you — that is four bowls, not two. One can yields about 1 1/4 cups roasted, which works out to a third of a cup a bowl and is not enough to be anyone's protein.
 
@@ -494,20 +494,20 @@ THIS ASSUMES THE STIR-FRY PACK EXISTS. Chopping the vegetables fresh puts this a
 TO GET IT TO 12 MINUTES: cook the noodles on prep day, two minutes under, tossed in oil — that's how restaurants hold lo mein. They're slightly softer by Wednesday, but it removes the boil from the weeknight entirely.""",
     "", "2", "4 min", "14 min", "18 min", ["Nepali", "Indo-Chinese"])
 
-add("dinner-thu-chana-jeera-rice", "Thursday — Chana, Jeera Rice, Crumble Sabzi", DINNER,
+add("dinner-thu-chana-jeera-rice", "Thursday — Chana, Jeera Rice, Cumin-Garam Tofu + Chili-Cumin Veg", DINNER,
     """Chana masala — or rajma, or whichever Instant Pot anchor this week uses
 Cooked rice
 1 tsp cumin seeds
 Oil
 Salt
-Cumin-garam masala tofu crumbles, the "Thu sabzi" tub
-Chili-cumin roasted vegetables, the "Thu sabzi" tub
+Cumin-garam masala tofu crumbles, the "Thu tofu + veg" tub
+Chili-cumin roasted vegetables, the "Thu tofu + veg" tub
 Lemon
 Cilantro
 Soy yogurt, cucumber and cumin, for optional raita""",
     ["Two pans at once.",
      "PAN 1, jeera rice: hot oil, cumin seeds until they pop, then cold rice tossed through with salt, 4 minutes.",
-     "PAN 2, sabzi: cumin-garam masala crumbles warmed with the chili-cumin veg, 4 minutes. Lemon, cilantro.",
+     "PAN 2, the tofu and veg: cumin-garam masala crumbles warmed with the chili-cumin veg, 4 minutes. Lemon, cilantro.",
      "Chana in the microwave, 4 minutes.",
      "Optional raita: soy yogurt, grated cucumber, cumin, salt."],
     """15 minutes wall clock, 12 hands-on.
@@ -1006,7 +1006,7 @@ ANCHOR_SWAP = {
         "name": "Chana masala",
         "short": "chana",
         "mon-lunch": "Chana masala bowl",
-        "thu-dinner": "Chana, jeera rice, crumble sabzi",
+        "thu-dinner": "Chana, jeera rice, cumin-garam tofu + chili-cumin veg",
         "batch-name": "Chana masala",
         "mon-row": "Chana masala 1\u00bd / 2 cups \u00b7 rice 1 / 1\u00bd cups \u00b7 edamame \u00bd / 1 cup \u00b7 cilantro",
         "soak": "soak <strong>2 cups dried chickpeas</strong> for the chana",
@@ -1041,7 +1041,7 @@ ANCHOR_SWAP = {
         "name": "Rajma",
         "short": "rajma",
         "mon-lunch": "Rajma bowl",
-        "thu-dinner": "Rajma, jeera rice, crumble sabzi",
+        "thu-dinner": "Rajma, jeera rice, cumin-garam tofu + chili-cumin veg",
         "batch-name": "Rajma",
         "mon-row": "Rajma 1\u00bd / 2 cups \u00b7 rice 1 / 1\u00bd cups \u00b7 edamame \u00bd / 1 cup \u00b7 cilantro",
         "soak": "soak <strong>2 cups dried red kidney beans</strong> for the rajma, and <strong>throw the soaking water away</strong>",

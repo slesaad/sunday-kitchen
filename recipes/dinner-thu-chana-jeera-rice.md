@@ -1,4 +1,4 @@
-# Thursday — Chana, Jeera Rice, Crumble Sabzi
+# Thursday — Chana, Jeera Rice, Cumin-Garam Tofu + Chili-Cumin Veg
 
 **2 servings · 15 min**
 
@@ -9,8 +9,8 @@
 - 1 tsp cumin seeds
 - Oil
 - Salt
-- Cumin-garam masala tofu crumbles, the "Thu sabzi" tub
-- Chili-cumin roasted vegetables, the "Thu sabzi" tub
+- Cumin-garam masala tofu crumbles, the "Thu tofu + veg" tub
+- Chili-cumin roasted vegetables, the "Thu tofu + veg" tub
 - Lemon
 - Cilantro
 - Soy yogurt, cucumber and cumin, for optional raita
@@ -19,7 +19,7 @@
 
 1. Two pans at once.
 2. PAN 1, jeera rice: hot oil, cumin seeds until they pop, then cold rice tossed through with salt, 4 minutes.
-3. PAN 2, sabzi: cumin-garam masala crumbles warmed with the chili-cumin veg, 4 minutes. Lemon, cilantro.
+3. PAN 2, the tofu and veg: cumin-garam masala crumbles warmed with the chili-cumin veg, 4 minutes. Lemon, cilantro.
 4. Chana in the microwave, 4 minutes.
 5. Optional raita: soy yogurt, grated cucumber, cumin, salt.
 

@@ -10,7 +10,7 @@ includes waiting for water to boil and rice to microwave.
 | **Mon** | Chana masala bowl | Sticky tofu, rice, chili-cumin veg | Chinese | 10 min | **15 min** |
 | **Tue** | Mediterranean bowl | Aloo tama bodi, rice, crispy tofu | Nepali | 4 min | **10 min** |
 | **Wed** | Sichuan crumble bowl | Veggie chowmein, egg, edamame | Nepali · Indo-Chinese | 14 min | **18 min** |
-| **Thu** | Mediterranean bowl | Chana masala, jeera rice, crumble sabzi | South Asian | 12 min | **15 min** |
+| **Thu** | Mediterranean bowl | Chana masala, jeera rice, cumin-garam tofu + chili-cumin veg | South Asian | 12 min | **15 min** |
 | **Fri** | *Out* | Tacos, chili-lime crumbles | Mexican | 15 min | **18 min** |
 
 Lunches are assembled on the weekend and reheated at work — they cost you nothing on the day.
@@ -65,7 +65,7 @@ One sheet pan, three zones, roughly **two cups of each**. Every zone has a job:
 | Zone | Divide into | Goes to |
 |---|---|---|
 | **Sichuan** — Sichuan pepper, chili crisp | 3 portions | Wednesday lunch pots ×2 (½ c A, ¾ c B) · the rest (~¾ c) in a tub for Wednesday's chowmein |
-| **Cumin–garam masala** — cumin, coriander, garam masala, turmeric | 2 portions | 1½ c in a tub for Thursday's sabzi (both servings) · the rest (~½ c) scattered on Monday's lunches |
+| **Cumin–garam masala** — cumin, coriander, garam masala, turmeric | 2 portions | 1½ c in a tub for Thursday's cumin-garam tofu + chili-cumin veg (both servings) · the rest (~½ c) scattered on Monday's lunches |
 | **Chili–lime** — smoked paprika, cumin, chipotle, lime | 1 portion | One tub, all of it, for Friday's tacos (both servings) |
 
 **On falafel weeks, season two zones, not three.** Friday is falafel night, so nothing eats
